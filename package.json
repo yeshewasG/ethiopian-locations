@@ -1,0 +1,33 @@
+{
+  "name": "ethiopian-location",
+  "version": "1.0.0",
+  "description": "TypeScript package for Ethiopian regions, zones/subcities, and woredas hierarchy",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "prepublish": "npm run build && npm test"
+  },
+  "keywords": [
+    "ethiopia",
+    "locations",
+    "regions",
+    "zones",
+    "woredas",
+    "typescript",
+    "administrative"
+  ],
+  "author": "Yeshewas Gatawbza",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "@types/node": "^25.0.3",
+    "jest": "^30.2.0",
+    "ts-jest": "^29.4.6",
+    "typescript": "^5.0.0"
+  }
+}

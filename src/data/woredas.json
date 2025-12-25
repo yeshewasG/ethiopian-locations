@@ -1,0 +1,11904 @@
+[
+  {
+    "id": "ET010101",
+    "zoneId": "ET0101",
+    "name": {
+      "en": "Tahtay Adiyabo"
+    },
+    "latLong": [
+      14.44854514,
+      37.67363183
+    ]
+  },
+  {
+    "id": "ET010102",
+    "zoneId": "ET0101",
+    "name": {
+      "en": "Laelay Adiabo"
+    },
+    "latLong": [
+      14.27566836,
+      38.25199237
+    ]
+  },
+  {
+    "id": "ET010103",
+    "zoneId": "ET0101",
+    "name": {
+      "en": "Zana"
+    },
+    "latLong": [
+      13.86189448,
+      38.433723
+    ]
+  },
+  {
+    "id": "ET010104",
+    "zoneId": "ET0101",
+    "name": {
+      "en": "Tahtay Koraro"
+    },
+    "latLong": [
+      14.08826514,
+      38.3499511
+    ]
+  },
+  {
+    "id": "ET010105",
+    "zoneId": "ET0101",
+    "name": {
+      "en": "Asgede"
+    },
+    "latLong": [
+      14.06391032,
+      37.92909941
+    ]
+  },
+  {
+    "id": "ET010106",
+    "zoneId": "ET0101",
+    "name": {
+      "en": "Tselemti"
+    },
+    "latLong": [
+      13.66660508,
+      38.02487316
+    ]
+  },
+  {
+    "id": "ET010107",
+    "zoneId": "ET0101",
+    "name": {
+      "en": "Sheraro town"
+    },
+    "latLong": [
+      14.40104176,
+      37.78713773
+    ]
+  },
+  {
+    "id": "ET010108",
+    "zoneId": "ET0101",
+    "name": {
+      "en": "Indasilassie town"
+    },
+    "latLong": [
+      14.10089187,
+      38.28574776
+    ]
+  },
+  {
+    "id": "ET010109",
+    "zoneId": "ET0101",
+    "name": {
+      "en": "Selekleka"
+    },
+    "latLong": [
+      14.14810859,
+      38.46994191
+    ]
+  },
+  {
+    "id": "ET010110",
+    "zoneId": "ET0101",
+    "name": {
+      "en": "Seyemti Adyabo"
+    },
+    "latLong": [
+      14.51439372,
+      38.23277401
+    ]
+  },
+  {
+    "id": "ET010111",
+    "zoneId": "ET0101",
+    "name": {
+      "en": "Adi Daero"
+    },
+    "latLong": [
+      14.31827974,
+      38.16665663
+    ]
+  },
+  {
+    "id": "ET010112",
+    "zoneId": "ET0101",
+    "name": {
+      "en": "Adi Hageray"
+    },
+    "latLong": [
+      14.51072242,
+      37.99809274
+    ]
+  },
+  {
+    "id": "ET010113",
+    "zoneId": "ET0101",
+    "name": {
+      "en": "Tsimbla"
+    },
+    "latLong": [
+      13.89008431,
+      38.12493997
+    ]
+  },
+  {
+    "id": "ET010114",
+    "zoneId": "ET0101",
+    "name": {
+      "en": "Endabaguna town"
+    },
+    "latLong": [
+      13.94560078,
+      38.18079421
+    ]
+  },
+  {
+    "id": "ET010115",
+    "zoneId": "ET0101",
+    "name": {
+      "en": "Dima (TG)"
+    },
+    "latLong": [
+      13.63245302,
+      38.44690403
+    ]
+  },
+  {
+    "id": "ET010116",
+    "zoneId": "ET0101",
+    "name": {
+      "en": "May Tsebri town"
+    },
+    "latLong": [
+      13.57314547,
+      38.13701782
+    ]
+  },
+  {
+    "id": "ET010201",
+    "zoneId": "ET0102",
+    "name": {
+      "en": "Chila"
+    },
+    "latLong": [
+      14.30978096,
+      38.57637432
+    ]
+  },
+  {
+    "id": "ET010202",
+    "zoneId": "ET0102",
+    "name": {
+      "en": "Aheferom"
+    },
+    "latLong": [
+      14.26280459,
+      39.12768701
+    ]
+  },
+  {
+    "id": "ET010203",
+    "zoneId": "ET0102",
+    "name": {
+      "en": "Edaga arbi"
+    },
+    "latLong": [
+      13.98325489,
+      39.0810722
+    ]
+  },
+  {
+    "id": "ET010204",
+    "zoneId": "ET0102",
+    "name": {
+      "en": "Adwa"
+    },
+    "latLong": [
+      14.17508457,
+      38.98142012
+    ]
+  },
+  {
+    "id": "ET010205",
+    "zoneId": "ET0102",
+    "name": {
+      "en": "Laelay Maychew"
+    },
+    "latLong": [
+      14.1109991,
+      38.6713792
+    ]
+  },
+  {
+    "id": "ET010206",
+    "zoneId": "ET0102",
+    "name": {
+      "en": "Tahtay Mayechew"
+    },
+    "latLong": [
+      14.06683559,
+      38.56593836
+    ]
+  },
+  {
+    "id": "ET010207",
+    "zoneId": "ET0102",
+    "name": {
+      "en": "Adet"
+    },
+    "latLong": [
+      13.84598155,
+      38.63668257
+    ]
+  },
+  {
+    "id": "ET010208",
+    "zoneId": "ET0102",
+    "name": {
+      "en": "Kola Temben"
+    },
+    "latLong": [
+      13.64680366,
+      38.73814504
+    ]
+  },
+  {
+    "id": "ET010209",
+    "zoneId": "ET0102",
+    "name": {
+      "en": "Naeder"
+    },
+    "latLong": [
+      13.91368231,
+      38.80655458
+    ]
+  },
+  {
+    "id": "ET010210",
+    "zoneId": "ET0102",
+    "name": {
+      "en": "Abergele (TG)"
+    },
+    "latLong": [
+      13.36080007,
+      38.88822717
+    ]
+  },
+  {
+    "id": "ET010211",
+    "zoneId": "ET0102",
+    "name": {
+      "en": "Abi Adi town"
+    },
+    "latLong": [
+      13.63541146,
+      38.9950403
+    ]
+  },
+  {
+    "id": "ET010212",
+    "zoneId": "ET0102",
+    "name": {
+      "en": "Adwa town"
+    },
+    "latLong": [
+      14.17117966,
+      38.89171046
+    ]
+  },
+  {
+    "id": "ET010213",
+    "zoneId": "ET0102",
+    "name": {
+      "en": "Axum town"
+    },
+    "latLong": [
+      14.12310771,
+      38.72753806
+    ]
+  },
+  {
+    "id": "ET010214",
+    "zoneId": "ET0102",
+    "name": {
+      "en": "Rama"
+    },
+    "latLong": [
+      14.35983195,
+      38.76449541
+    ]
+  },
+  {
+    "id": "ET010215",
+    "zoneId": "ET0102",
+    "name": {
+      "en": "Ahsea"
+    },
+    "latLong": [
+      14.39437624,
+      38.94871664
+    ]
+  },
+  {
+    "id": "ET010216",
+    "zoneId": "ET0102",
+    "name": {
+      "en": "Egela"
+    },
+    "latLong": [
+      14.49072465,
+      39.10542065
+    ]
+  },
+  {
+    "id": "ET010217",
+    "zoneId": "ET0102",
+    "name": {
+      "en": "Hahayle"
+    },
+    "latLong": [
+      14.15628275,
+      39.11566751
+    ]
+  },
+  {
+    "id": "ET010218",
+    "zoneId": "ET0102",
+    "name": {
+      "en": "Endafelasi"
+    },
+    "latLong": [
+      13.91315129,
+      38.97680452
+    ]
+  },
+  {
+    "id": "ET010219",
+    "zoneId": "ET0102",
+    "name": {
+      "en": "Emba Sieneti"
+    },
+    "latLong": [
+      14.02692863,
+      39.24993074
+    ]
+  },
+  {
+    "id": "ET010220",
+    "zoneId": "ET0102",
+    "name": {
+      "en": "Enticho town"
+    },
+    "latLong": [
+      14.27823101,
+      39.14755862
+    ]
+  },
+  {
+    "id": "ET010221",
+    "zoneId": "ET0102",
+    "name": {
+      "en": "Keyhe tekli"
+    },
+    "latLong": [
+      13.75562121,
+      39.02644744
+    ]
+  },
+  {
+    "id": "ET010222",
+    "zoneId": "ET0102",
+    "name": {
+      "en": "Tanqua Melashe"
+    },
+    "latLong": [
+      13.53419179,
+      39.00424442
+    ]
+  },
+  {
+    "id": "ET010301",
+    "zoneId": "ET0103",
+    "name": {
+      "en": "Gulo Mekeda"
+    },
+    "latLong": [
+      14.41155068,
+      39.41576929
+    ]
+  },
+  {
+    "id": "ET010302",
+    "zoneId": "ET0103",
+    "name": {
+      "en": "Erob"
+    },
+    "latLong": [
+      14.51789634,
+      39.63791018
+    ]
+  },
+  {
+    "id": "ET010303",
+    "zoneId": "ET0103",
+    "name": {
+      "en": "Saesie"
+    },
+    "latLong": [
+      14.2414564,
+      39.61543469
+    ]
+  },
+  {
+    "id": "ET010304",
+    "zoneId": "ET0103",
+    "name": {
+      "en": "Ganta Afeshum"
+    },
+    "latLong": [
+      14.24936713,
+      39.43134195
+    ]
+  },
+  {
+    "id": "ET010305",
+    "zoneId": "ET0103",
+    "name": {
+      "en": "Hawzen"
+    },
+    "latLong": [
+      13.98073949,
+      39.35448557
+    ]
+  },
+  {
+    "id": "ET010306",
+    "zoneId": "ET0103",
+    "name": {
+      "en": "Kelete Awelallo"
+    },
+    "latLong": [
+      13.83830586,
+      39.55358143
+    ]
+  },
+  {
+    "id": "ET010307",
+    "zoneId": "ET0103",
+    "name": {
+      "en": "Atsbi"
+    },
+    "latLong": [
+      13.91490747,
+      39.74472758
+    ]
+  },
+  {
+    "id": "ET010308",
+    "zoneId": "ET0103",
+    "name": {
+      "en": "Adigrat town"
+    },
+    "latLong": [
+      14.27722251,
+      39.46724711
+    ]
+  },
+  {
+    "id": "ET010309",
+    "zoneId": "ET0103",
+    "name": {
+      "en": "Wukro town"
+    },
+    "latLong": [
+      13.78287519,
+      39.59688514
+    ]
+  },
+  {
+    "id": "ET010310",
+    "zoneId": "ET0103",
+    "name": {
+      "en": "Bizet"
+    },
+    "latLong": [
+      14.27057895,
+      39.29534613
+    ]
+  },
+  {
+    "id": "ET010311",
+    "zoneId": "ET0103",
+    "name": {
+      "en": "Edaga Hamus town"
+    },
+    "latLong": [
+      14.18719943,
+      39.56308763
+    ]
+  },
+  {
+    "id": "ET010312",
+    "zoneId": "ET0103",
+    "name": {
+      "en": "Hawzen town"
+    },
+    "latLong": [
+      13.97476615,
+      39.43003024
+    ]
+  },
+  {
+    "id": "ET010313",
+    "zoneId": "ET0103",
+    "name": {
+      "en": "Freweyni town"
+    },
+    "latLong": [
+      14.05531003,
+      39.57658858
+    ]
+  },
+  {
+    "id": "ET010314",
+    "zoneId": "ET0103",
+    "name": {
+      "en": "Tsaeda Emba"
+    },
+    "latLong": [
+      14.03691518,
+      39.60915314
+    ]
+  },
+  {
+    "id": "ET010315",
+    "zoneId": "ET0103",
+    "name": {
+      "en": "Atsbi town"
+    },
+    "latLong": [
+      13.86799912,
+      39.7373257
+    ]
+  },
+  {
+    "id": "ET010316",
+    "zoneId": "ET0103",
+    "name": {
+      "en": "Agulae"
+    },
+    "latLong": [
+      13.69844249,
+      39.64826184
+    ]
+  },
+  {
+    "id": "ET010317",
+    "zoneId": "ET0103",
+    "name": {
+      "en": "Geraleta"
+    },
+    "latLong": [
+      13.77463658,
+      39.34687337
+    ]
+  },
+  {
+    "id": "ET010318",
+    "zoneId": "ET0103",
+    "name": {
+      "en": "Zala Anbesa town"
+    },
+    "latLong": [
+      14.52500442,
+      39.38659499
+    ]
+  },
+  {
+    "id": "ET010401",
+    "zoneId": "ET0104",
+    "name": {
+      "en": "Selewa"
+    },
+    "latLong": [
+      13.00818432,
+      39.33664872
+    ]
+  },
+  {
+    "id": "ET010402",
+    "zoneId": "ET0104",
+    "name": {
+      "en": "Bora (TG)"
+    },
+    "latLong": [
+      12.87692895,
+      39.33532859
+    ]
+  },
+  {
+    "id": "ET010403",
+    "zoneId": "ET0104",
+    "name": {
+      "en": "Neqsege"
+    },
+    "latLong": [
+      12.75230987,
+      39.34260942
+    ]
+  },
+  {
+    "id": "ET010404",
+    "zoneId": "ET0104",
+    "name": {
+      "en": "Emba Alaje"
+    },
+    "latLong": [
+      12.94836775,
+      39.49884778
+    ]
+  },
+  {
+    "id": "ET010405",
+    "zoneId": "ET0104",
+    "name": {
+      "en": "Endamehoni"
+    },
+    "latLong": [
+      12.75309903,
+      39.48949673
+    ]
+  },
+  {
+    "id": "ET010406",
+    "zoneId": "ET0104",
+    "name": {
+      "en": "Raya Azebo"
+    },
+    "latLong": [
+      12.73659708,
+      39.72294321
+    ]
+  },
+  {
+    "id": "ET010407",
+    "zoneId": "ET0104",
+    "name": {
+      "en": "Raya Alamata"
+    },
+    "latLong": [
+      12.41204488,
+      39.50304895
+    ]
+  },
+  {
+    "id": "ET010408",
+    "zoneId": "ET0104",
+    "name": {
+      "en": "Ofla"
+    },
+    "latLong": [
+      12.54836659,
+      39.45821659
+    ]
+  },
+  {
+    "id": "ET010409",
+    "zoneId": "ET0104",
+    "name": {
+      "en": "Maichew town"
+    },
+    "latLong": [
+      12.78822042,
+      39.54194433
+    ]
+  },
+  {
+    "id": "ET010410",
+    "zoneId": "ET0104",
+    "name": {
+      "en": "Korem town"
+    },
+    "latLong": [
+      12.50714216,
+      39.51600632
+    ]
+  },
+  {
+    "id": "ET010411",
+    "zoneId": "ET0104",
+    "name": {
+      "en": "Alamata town"
+    },
+    "latLong": [
+      12.41849397,
+      39.56391901
+    ]
+  },
+  {
+    "id": "ET010412",
+    "zoneId": "ET0104",
+    "name": {
+      "en": "Mekhoni town"
+    },
+    "latLong": [
+      12.796589,
+      39.64386615
+    ]
+  },
+  {
+    "id": "ET010413",
+    "zoneId": "ET0104",
+    "name": {
+      "en": "Zata"
+    },
+    "latLong": [
+      12.53318945,
+      39.29231829
+    ]
+  },
+  {
+    "id": "ET010414",
+    "zoneId": "ET0104",
+    "name": {
+      "en": "Chercher"
+    },
+    "latLong": [
+      12.51109814,
+      39.76862266
+    ]
+  },
+  {
+    "id": "ET010501",
+    "zoneId": "ET0105",
+    "name": {
+      "en": "Kafta Humera"
+    },
+    "latLong": [
+      14.05659959,
+      37.08152075
+    ]
+  },
+  {
+    "id": "ET010502",
+    "zoneId": "ET0105",
+    "name": {
+      "en": "Welkait"
+    },
+    "latLong": [
+      13.81282115,
+      37.36921111
+    ]
+  },
+  {
+    "id": "ET010503",
+    "zoneId": "ET0105",
+    "name": {
+      "en": "Tsegede (TG)"
+    },
+    "latLong": [
+      13.44779239,
+      37.26038324
+    ]
+  },
+  {
+    "id": "ET010504",
+    "zoneId": "ET0105",
+    "name": {
+      "en": "Setit Humera"
+    },
+    "latLong": [
+      14.24255881,
+      36.66500643
+    ]
+  },
+  {
+    "id": "ET010505",
+    "zoneId": "ET0105",
+    "name": {
+      "en": "May Kadra"
+    },
+    "latLong": [
+      13.91377158,
+      36.58535362
+    ]
+  },
+  {
+    "id": "ET010506",
+    "zoneId": "ET0105",
+    "name": {
+      "en": "Dansha town"
+    },
+    "latLong": [
+      13.53587135,
+      36.79408862
+    ]
+  },
+  {
+    "id": "ET010507",
+    "zoneId": "ET0105",
+    "name": {
+      "en": "Awra (TG)"
+    },
+    "latLong": [
+      13.64712587,
+      37.11855283
+    ]
+  },
+  {
+    "id": "ET010508",
+    "zoneId": "ET0105",
+    "name": {
+      "en": "Korarit"
+    },
+    "latLong": [
+      13.92057802,
+      37.53691538
+    ]
+  },
+  {
+    "id": "ET010509",
+    "zoneId": "ET0105",
+    "name": {
+      "en": "May Gaba"
+    },
+    "latLong": [
+      13.78398263,
+      37.69211668
+    ]
+  },
+  {
+    "id": "ET010601",
+    "zoneId": "ET0106",
+    "name": {
+      "en": "Saharti"
+    },
+    "latLong": [
+      13.37619232,
+      39.15831203
+    ]
+  },
+  {
+    "id": "ET010602",
+    "zoneId": "ET0106",
+    "name": {
+      "en": "Enderta"
+    },
+    "latLong": [
+      13.46275686,
+      39.67502205
+    ]
+  },
+  {
+    "id": "ET010603",
+    "zoneId": "ET0106",
+    "name": {
+      "en": "Hintalo"
+    },
+    "latLong": [
+      13.17376871,
+      39.46011885
+    ]
+  },
+  {
+    "id": "ET010604",
+    "zoneId": "ET0106",
+    "name": {
+      "en": "Degua Temben"
+    },
+    "latLong": [
+      13.63649869,
+      39.10898458
+    ]
+  },
+  {
+    "id": "ET010605",
+    "zoneId": "ET0106",
+    "name": {
+      "en": "Hagere Selam town"
+    },
+    "latLong": [
+      13.64015147,
+      39.17008334
+    ]
+  },
+  {
+    "id": "ET010606",
+    "zoneId": "ET0106",
+    "name": {
+      "en": "Samre"
+    },
+    "latLong": [
+      13.12516153,
+      39.16624451
+    ]
+  },
+  {
+    "id": "ET010607",
+    "zoneId": "ET0106",
+    "name": {
+      "en": "Adigudom"
+    },
+    "latLong": [
+      13.24813815,
+      39.50344901
+    ]
+  },
+  {
+    "id": "ET010608",
+    "zoneId": "ET0106",
+    "name": {
+      "en": "Wajirat"
+    },
+    "latLong": [
+      13.04691255,
+      39.71741791
+    ]
+  },
+  {
+    "id": "ET010701",
+    "zoneId": "ET0107",
+    "name": {
+      "en": "Mekelle"
+    },
+    "latLong": [
+      13.5062109,
+      39.45425611
+    ]
+  },
+  {
+    "id": "ET020101",
+    "zoneId": "ET0201",
+    "name": {
+      "en": "Dubti"
+    },
+    "latLong": [
+      11.92628768,
+      41.02435715
+    ]
+  },
+  {
+    "id": "ET020102",
+    "zoneId": "ET0201",
+    "name": {
+      "en": "Elidar"
+    },
+    "latLong": [
+      12.23501704,
+      41.71918698
+    ]
+  },
+  {
+    "id": "ET020103",
+    "zoneId": "ET0201",
+    "name": {
+      "en": "Asayita"
+    },
+    "latLong": [
+      11.4701244,
+      41.49611454
+    ]
+  },
+  {
+    "id": "ET020104",
+    "zoneId": "ET0201",
+    "name": {
+      "en": "Afambo"
+    },
+    "latLong": [
+      11.31811287,
+      41.69255409
+    ]
+  },
+  {
+    "id": "ET020105",
+    "zoneId": "ET0201",
+    "name": {
+      "en": "Mile"
+    },
+    "latLong": [
+      11.43880419,
+      40.69948041
+    ]
+  },
+  {
+    "id": "ET020106",
+    "zoneId": "ET0201",
+    "name": {
+      "en": "Chifra"
+    },
+    "latLong": [
+      11.53620854,
+      40.24117836
+    ]
+  },
+  {
+    "id": "ET020107",
+    "zoneId": "ET0201",
+    "name": {
+      "en": "Dubti town"
+    },
+    "latLong": [
+      11.74612665,
+      41.07945953
+    ]
+  },
+  {
+    "id": "ET020108",
+    "zoneId": "ET0201",
+    "name": {
+      "en": "Kori"
+    },
+    "latLong": [
+      12.4835196,
+      41.04399922
+    ]
+  },
+  {
+    "id": "ET020109",
+    "zoneId": "ET0201",
+    "name": {
+      "en": "Adar"
+    },
+    "latLong": [
+      11.2630481,
+      40.42352779
+    ]
+  },
+  {
+    "id": "ET020110",
+    "zoneId": "ET0201",
+    "name": {
+      "en": "Gerani"
+    },
+    "latLong": [
+      11.24760202,
+      41.196691
+    ]
+  },
+  {
+    "id": "ET020111",
+    "zoneId": "ET0201",
+    "name": {
+      "en": "Asayita town"
+    },
+    "latLong": [
+      11.61263615,
+      41.40902028
+    ]
+  },
+  {
+    "id": "ET020198",
+    "zoneId": "ET0201",
+    "name": {
+      "en": "Samera Logiya town"
+    },
+    "latLong": [
+      11.75679612,
+      40.96803133
+    ]
+  },
+  {
+    "id": "ET020201",
+    "zoneId": "ET0202",
+    "name": {
+      "en": "Erebti"
+    },
+    "latLong": [
+      13.16643726,
+      40.10919106
+    ]
+  },
+  {
+    "id": "ET020202",
+    "zoneId": "ET0202",
+    "name": {
+      "en": "Kunneba"
+    },
+    "latLong": [
+      13.98490942,
+      39.90425408
+    ]
+  },
+  {
+    "id": "ET020203",
+    "zoneId": "ET0202",
+    "name": {
+      "en": "Abaala"
+    },
+    "latLong": [
+      13.36295778,
+      39.89456062
+    ]
+  },
+  {
+    "id": "ET020204",
+    "zoneId": "ET0202",
+    "name": {
+      "en": "Megale"
+    },
+    "latLong": [
+      12.83498045,
+      40.03289325
+    ]
+  },
+  {
+    "id": "ET020205",
+    "zoneId": "ET0202",
+    "name": {
+      "en": "Berahile"
+    },
+    "latLong": [
+      13.94990332,
+      40.13000096
+    ]
+  },
+  {
+    "id": "ET020206",
+    "zoneId": "ET0202",
+    "name": {
+      "en": "Dalol"
+    },
+    "latLong": [
+      14.28907169,
+      40.04018014
+    ]
+  },
+  {
+    "id": "ET020207",
+    "zoneId": "ET0202",
+    "name": {
+      "en": "Afdera"
+    },
+    "latLong": [
+      13.60091317,
+      40.71144945
+    ]
+  },
+  {
+    "id": "ET020208",
+    "zoneId": "ET0202",
+    "name": {
+      "en": "Bidu"
+    },
+    "latLong": [
+      13.04213539,
+      41.47064882
+    ]
+  },
+  {
+    "id": "ET020209",
+    "zoneId": "ET0202",
+    "name": {
+      "en": "Abaala town"
+    },
+    "latLong": [
+      13.35662121,
+      39.80583063
+    ]
+  },
+  {
+    "id": "ET020301",
+    "zoneId": "ET0203",
+    "name": {
+      "en": "Amibara"
+    },
+    "latLong": [
+      9.20954548,
+      40.23980681
+    ]
+  },
+  {
+    "id": "ET020302",
+    "zoneId": "ET0203",
+    "name": {
+      "en": "Awash"
+    },
+    "latLong": [
+      9.06442497,
+      40.04975068
+    ]
+  },
+  {
+    "id": "ET020303",
+    "zoneId": "ET0203",
+    "name": {
+      "en": "Gewane"
+    },
+    "latLong": [
+      10.44562925,
+      40.7945482
+    ]
+  },
+  {
+    "id": "ET020304",
+    "zoneId": "ET0203",
+    "name": {
+      "en": "Dulecha"
+    },
+    "latLong": [
+      9.47050856,
+      40.08912228
+    ]
+  },
+  {
+    "id": "ET020305",
+    "zoneId": "ET0203",
+    "name": {
+      "en": "Gelalu"
+    },
+    "latLong": [
+      10.14015818,
+      40.47522205
+    ]
+  },
+  {
+    "id": "ET020306",
+    "zoneId": "ET0203",
+    "name": {
+      "en": "Arguba"
+    },
+    "latLong": [
+      9.53023477,
+      39.87885523
+    ]
+  },
+  {
+    "id": "ET020307",
+    "zoneId": "ET0203",
+    "name": {
+      "en": "Hanruka"
+    },
+    "latLong": [
+      9.54652878,
+      40.50386755
+    ]
+  },
+  {
+    "id": "ET020396",
+    "zoneId": "ET0203",
+    "name": {
+      "en": "Awash town"
+    },
+    "latLong": [
+      8.99978758,
+      40.17242122
+    ]
+  },
+  {
+    "id": "ET020401",
+    "zoneId": "ET0204",
+    "name": {
+      "en": "Awra (AF)"
+    },
+    "latLong": [
+      12.08071414,
+      40.31109043
+    ]
+  },
+  {
+    "id": "ET020402",
+    "zoneId": "ET0204",
+    "name": {
+      "en": "Euwa"
+    },
+    "latLong": [
+      11.81203199,
+      40.16357451
+    ]
+  },
+  {
+    "id": "ET020403",
+    "zoneId": "ET0204",
+    "name": {
+      "en": "Teru"
+    },
+    "latLong": [
+      12.6005367,
+      40.46519678
+    ]
+  },
+  {
+    "id": "ET020404",
+    "zoneId": "ET0204",
+    "name": {
+      "en": "Yalo"
+    },
+    "latLong": [
+      12.41399967,
+      39.9511278
+    ]
+  },
+  {
+    "id": "ET020405",
+    "zoneId": "ET0204",
+    "name": {
+      "en": "Gulina"
+    },
+    "latLong": [
+      12.16998018,
+      39.98081439
+    ]
+  },
+  {
+    "id": "ET020501",
+    "zoneId": "ET0205",
+    "name": {
+      "en": "Telalek"
+    },
+    "latLong": [
+      10.9773886,
+      40.30797962
+    ]
+  },
+  {
+    "id": "ET020502",
+    "zoneId": "ET0205",
+    "name": {
+      "en": "Samurobi"
+    },
+    "latLong": [
+      9.85756011,
+      40.16572267
+    ]
+  },
+  {
+    "id": "ET020503",
+    "zoneId": "ET0205",
+    "name": {
+      "en": "Dawe"
+    },
+    "latLong": [
+      10.70994059,
+      40.2818817
+    ]
+  },
+  {
+    "id": "ET020504",
+    "zoneId": "ET0205",
+    "name": {
+      "en": "Dalefage"
+    },
+    "latLong": [
+      10.50138886,
+      40.42776392
+    ]
+  },
+  {
+    "id": "ET020505",
+    "zoneId": "ET0205",
+    "name": {
+      "en": "Hadelela"
+    },
+    "latLong": [
+      10.28047823,
+      40.28533569
+    ]
+  },
+  {
+    "id": "ET030101",
+    "zoneId": "ET0301",
+    "name": {
+      "en": "Addi Arekay"
+    },
+    "latLong": [
+      13.41119719,
+      37.98792197
+    ]
+  },
+  {
+    "id": "ET030102",
+    "zoneId": "ET0301",
+    "name": {
+      "en": "Beyeda"
+    },
+    "latLong": [
+      13.20949592,
+      38.44918818
+    ]
+  },
+  {
+    "id": "ET030103",
+    "zoneId": "ET0301",
+    "name": {
+      "en": "Janamora"
+    },
+    "latLong": [
+      13.05561265,
+      38.16660899
+    ]
+  },
+  {
+    "id": "ET030104",
+    "zoneId": "ET0301",
+    "name": {
+      "en": "Debark"
+    },
+    "latLong": [
+      13.26182412,
+      37.74256928
+    ]
+  },
+  {
+    "id": "ET030105",
+    "zoneId": "ET0301",
+    "name": {
+      "en": "Dabat"
+    },
+    "latLong": [
+      13.09138435,
+      37.63057635
+    ]
+  },
+  {
+    "id": "ET030106",
+    "zoneId": "ET0301",
+    "name": {
+      "en": "Dabat town"
+    },
+    "latLong": [
+      12.98107341,
+      37.76225499
+    ]
+  },
+  {
+    "id": "ET030119",
+    "zoneId": "ET0301",
+    "name": {
+      "en": "Telemt"
+    },
+    "latLong": [
+      13.44182146,
+      38.41776606
+    ]
+  },
+  {
+    "id": "ET030198",
+    "zoneId": "ET0301",
+    "name": {
+      "en": "Debark town"
+    },
+    "latLong": [
+      13.14881267,
+      37.89867687
+    ]
+  },
+  {
+    "id": "ET030201",
+    "zoneId": "ET0302",
+    "name": {
+      "en": "Ebenat"
+    },
+    "latLong": [
+      12.25422883,
+      38.13405253
+    ]
+  },
+  {
+    "id": "ET030202",
+    "zoneId": "ET0302",
+    "name": {
+      "en": "Libokemekem"
+    },
+    "latLong": [
+      12.16739291,
+      37.82258909
+    ]
+  },
+  {
+    "id": "ET030203",
+    "zoneId": "ET0302",
+    "name": {
+      "en": "Fogera"
+    },
+    "latLong": [
+      11.864385,
+      37.76912771
+    ]
+  },
+  {
+    "id": "ET030204",
+    "zoneId": "ET0302",
+    "name": {
+      "en": "Farta"
+    },
+    "latLong": [
+      11.86696603,
+      38.11516978
+    ]
+  },
+  {
+    "id": "ET030205",
+    "zoneId": "ET0302",
+    "name": {
+      "en": "Lay Gayint"
+    },
+    "latLong": [
+      11.86184088,
+      38.41312621
+    ]
+  },
+  {
+    "id": "ET030206",
+    "zoneId": "ET0302",
+    "name": {
+      "en": "Tach Gayint"
+    },
+    "latLong": [
+      11.54801409,
+      38.57866114
+    ]
+  },
+  {
+    "id": "ET030207",
+    "zoneId": "ET0302",
+    "name": {
+      "en": "Semada"
+    },
+    "latLong": [
+      11.31298484,
+      38.29080283
+    ]
+  },
+  {
+    "id": "ET030208",
+    "zoneId": "ET0302",
+    "name": {
+      "en": "East Esite"
+    },
+    "latLong": [
+      11.44371792,
+      38.06784323
+    ]
+  },
+  {
+    "id": "ET030209",
+    "zoneId": "ET0302",
+    "name": {
+      "en": "Dera (AM)"
+    },
+    "latLong": [
+      11.59598659,
+      37.71003001
+    ]
+  },
+  {
+    "id": "ET030210",
+    "zoneId": "ET0302",
+    "name": {
+      "en": "Debre Tabor town"
+    },
+    "latLong": [
+      11.85292306,
+      38.02166802
+    ]
+  },
+  {
+    "id": "ET030211",
+    "zoneId": "ET0302",
+    "name": {
+      "en": "Andabet/ West Esite"
+    },
+    "latLong": [
+      11.37675364,
+      37.89635208
+    ]
+  },
+  {
+    "id": "ET030212",
+    "zoneId": "ET0302",
+    "name": {
+      "en": "Guna Begemider"
+    },
+    "latLong": [
+      11.89563436,
+      38.21031026
+    ]
+  },
+  {
+    "id": "ET030213",
+    "zoneId": "ET0302",
+    "name": {
+      "en": "Mena Meketewa"
+    },
+    "latLong": [
+      12.11761433,
+      38.33105315
+    ]
+  },
+  {
+    "id": "ET030214",
+    "zoneId": "ET0302",
+    "name": {
+      "en": "Sede Muja"
+    },
+    "latLong": [
+      11.38155216,
+      38.49752993
+    ]
+  },
+  {
+    "id": "ET030215",
+    "zoneId": "ET0302",
+    "name": {
+      "en": "Nefas Mewicha town"
+    },
+    "latLong": [
+      11.73246442,
+      38.47026812
+    ]
+  },
+  {
+    "id": "ET030216",
+    "zoneId": "ET0302",
+    "name": {
+      "en": "Wegeda town"
+    },
+    "latLong": [
+      11.39829876,
+      38.23416414
+    ]
+  },
+  {
+    "id": "ET030217",
+    "zoneId": "ET0302",
+    "name": {
+      "en": "Ebenat town"
+    },
+    "latLong": [
+      12.12287724,
+      38.04941438
+    ]
+  },
+  {
+    "id": "ET030218",
+    "zoneId": "ET0302",
+    "name": {
+      "en": "Hamusit town"
+    },
+    "latLong": [
+      11.78247616,
+      37.55928485
+    ]
+  },
+  {
+    "id": "ET030293",
+    "zoneId": "ET0302",
+    "name": {
+      "en": "Woreta town"
+    },
+    "latLong": [
+      11.92224482,
+      37.69911813
+    ]
+  },
+  {
+    "id": "ET030298",
+    "zoneId": "ET0302",
+    "name": {
+      "en": "Mekan Eyesuse"
+    },
+    "latLong": [
+      11.64337049,
+      38.06581641
+    ]
+  },
+  {
+    "id": "ET030299",
+    "zoneId": "ET0302",
+    "name": {
+      "en": "Adiss Zemen town"
+    },
+    "latLong": [
+      12.12230692,
+      37.77907951
+    ]
+  },
+  {
+    "id": "ET030301",
+    "zoneId": "ET0303",
+    "name": {
+      "en": "Bugna"
+    },
+    "latLong": [
+      12.16484133,
+      38.7082923
+    ]
+  },
+  {
+    "id": "ET030302",
+    "zoneId": "ET0303",
+    "name": {
+      "en": "Raya Kobo"
+    },
+    "latLong": [
+      12.10023822,
+      39.62902824
+    ]
+  },
+  {
+    "id": "ET030303",
+    "zoneId": "ET0303",
+    "name": {
+      "en": "Gidan"
+    },
+    "latLong": [
+      12.0860049,
+      39.32044807
+    ]
+  },
+  {
+    "id": "ET030304",
+    "zoneId": "ET0303",
+    "name": {
+      "en": "Meket"
+    },
+    "latLong": [
+      11.8150081,
+      38.73618008
+    ]
+  },
+  {
+    "id": "ET030305",
+    "zoneId": "ET0303",
+    "name": {
+      "en": "Wadla"
+    },
+    "latLong": [
+      11.67309009,
+      39.05433899
+    ]
+  },
+  {
+    "id": "ET030306",
+    "zoneId": "ET0303",
+    "name": {
+      "en": "Hara town"
+    },
+    "latLong": [
+      11.8399748,
+      39.7446106
+    ]
+  },
+  {
+    "id": "ET030307",
+    "zoneId": "ET0303",
+    "name": {
+      "en": "Guba Lafto"
+    },
+    "latLong": [
+      11.8338204,
+      39.6752973
+    ]
+  },
+  {
+    "id": "ET030308",
+    "zoneId": "ET0303",
+    "name": {
+      "en": "Habru"
+    },
+    "latLong": [
+      11.69874922,
+      39.75304147
+    ]
+  },
+  {
+    "id": "ET030309",
+    "zoneId": "ET0303",
+    "name": {
+      "en": "Woldiya town"
+    },
+    "latLong": [
+      11.82226866,
+      39.58221578
+    ]
+  },
+  {
+    "id": "ET030310",
+    "zoneId": "ET0303",
+    "name": {
+      "en": "Lasta"
+    },
+    "latLong": [
+      12.1108168,
+      39.08962631
+    ]
+  },
+  {
+    "id": "ET030311",
+    "zoneId": "ET0303",
+    "name": {
+      "en": "Dawunt"
+    },
+    "latLong": [
+      11.48126845,
+      38.85682974
+    ]
+  },
+  {
+    "id": "ET030312",
+    "zoneId": "ET0303",
+    "name": {
+      "en": "Gazo"
+    },
+    "latLong": [
+      11.84087479,
+      39.27138896
+    ]
+  },
+  {
+    "id": "ET030313",
+    "zoneId": "ET0303",
+    "name": {
+      "en": "Angot"
+    },
+    "latLong": [
+      11.80121166,
+      39.02385644
+    ]
+  },
+  {
+    "id": "ET030314",
+    "zoneId": "ET0303",
+    "name": {
+      "en": "Filakit town"
+    },
+    "latLong": [
+      11.76282633,
+      38.74312396
+    ]
+  },
+  {
+    "id": "ET030315",
+    "zoneId": "ET0303",
+    "name": {
+      "en": "Gashena town"
+    },
+    "latLong": [
+      11.66345453,
+      38.91274503
+    ]
+  },
+  {
+    "id": "ET030397",
+    "zoneId": "ET0303",
+    "name": {
+      "en": "Mersa town"
+    },
+    "latLong": [
+      11.66329144,
+      39.65797658
+    ]
+  },
+  {
+    "id": "ET030398",
+    "zoneId": "ET0303",
+    "name": {
+      "en": "Lalibela town"
+    },
+    "latLong": [
+      12.02842822,
+      39.04596458
+    ]
+  },
+  {
+    "id": "ET030399",
+    "zoneId": "ET0303",
+    "name": {
+      "en": "Kobo town"
+    },
+    "latLong": [
+      12.15159805,
+      39.63125311
+    ]
+  },
+  {
+    "id": "ET030401",
+    "zoneId": "ET0304",
+    "name": {
+      "en": "Argoba"
+    },
+    "latLong": [
+      10.94326463,
+      39.94372783
+    ]
+  },
+  {
+    "id": "ET030402",
+    "zoneId": "ET0304",
+    "name": {
+      "en": "Tenta"
+    },
+    "latLong": [
+      11.20902422,
+      39.22668629
+    ]
+  },
+  {
+    "id": "ET030403",
+    "zoneId": "ET0304",
+    "name": {
+      "en": "Kutaber"
+    },
+    "latLong": [
+      11.28364559,
+      39.45930402
+    ]
+  },
+  {
+    "id": "ET030404",
+    "zoneId": "ET0304",
+    "name": {
+      "en": "Ambasel"
+    },
+    "latLong": [
+      11.50012289,
+      39.46772027
+    ]
+  },
+  {
+    "id": "ET030405",
+    "zoneId": "ET0304",
+    "name": {
+      "en": "Thehulederie"
+    },
+    "latLong": [
+      11.32738449,
+      39.67465284
+    ]
+  },
+  {
+    "id": "ET030406",
+    "zoneId": "ET0304",
+    "name": {
+      "en": "Delanta"
+    },
+    "latLong": [
+      11.6217337,
+      39.22725622
+    ]
+  },
+  {
+    "id": "ET030407",
+    "zoneId": "ET0304",
+    "name": {
+      "en": "Kalu"
+    },
+    "latLong": [
+      11.1010721,
+      39.88710714
+    ]
+  },
+  {
+    "id": "ET030408",
+    "zoneId": "ET0304",
+    "name": {
+      "en": "Albuko"
+    },
+    "latLong": [
+      10.82633556,
+      39.63645939
+    ]
+  },
+  {
+    "id": "ET030409",
+    "zoneId": "ET0304",
+    "name": {
+      "en": "Dessie Zuria"
+    },
+    "latLong": [
+      11.06704435,
+      39.45418963
+    ]
+  },
+  {
+    "id": "ET030410",
+    "zoneId": "ET0304",
+    "name": {
+      "en": "Legambo"
+    },
+    "latLong": [
+      10.86272687,
+      39.3169984
+    ]
+  },
+  {
+    "id": "ET030411",
+    "zoneId": "ET0304",
+    "name": {
+      "en": "Sayint"
+    },
+    "latLong": [
+      11.07372016,
+      38.7340253
+    ]
+  },
+  {
+    "id": "ET030412",
+    "zoneId": "ET0304",
+    "name": {
+      "en": "Borena /Debresina"
+    },
+    "latLong": [
+      10.72848603,
+      38.69138762
+    ]
+  },
+  {
+    "id": "ET030413",
+    "zoneId": "ET0304",
+    "name": {
+      "en": "Kelela"
+    },
+    "latLong": [
+      10.56019134,
+      39.00784048
+    ]
+  },
+  {
+    "id": "ET030414",
+    "zoneId": "ET0304",
+    "name": {
+      "en": "Jama"
+    },
+    "latLong": [
+      10.37882968,
+      39.23887294
+    ]
+  },
+  {
+    "id": "ET030415",
+    "zoneId": "ET0304",
+    "name": {
+      "en": "Were Ilu"
+    },
+    "latLong": [
+      10.64803931,
+      39.43403267
+    ]
+  },
+  {
+    "id": "ET030416",
+    "zoneId": "ET0304",
+    "name": {
+      "en": "Wegde"
+    },
+    "latLong": [
+      10.5707425,
+      38.67493342
+    ]
+  },
+  {
+    "id": "ET030417",
+    "zoneId": "ET0304",
+    "name": {
+      "en": "Kombolcha town"
+    },
+    "latLong": [
+      11.10420453,
+      39.72366511
+    ]
+  },
+  {
+    "id": "ET030418",
+    "zoneId": "ET0304",
+    "name": {
+      "en": "Dessie town"
+    },
+    "latLong": [
+      11.16680457,
+      39.66996149
+    ]
+  },
+  {
+    "id": "ET030419",
+    "zoneId": "ET0304",
+    "name": {
+      "en": "Mehal Sayint"
+    },
+    "latLong": [
+      10.93468893,
+      38.65787025
+    ]
+  },
+  {
+    "id": "ET030420",
+    "zoneId": "ET0304",
+    "name": {
+      "en": "Legehida"
+    },
+    "latLong": [
+      10.68768546,
+      39.27468099
+    ]
+  },
+  {
+    "id": "ET030421",
+    "zoneId": "ET0304",
+    "name": {
+      "en": "Mekdela"
+    },
+    "latLong": [
+      11.18022625,
+      38.99648066
+    ]
+  },
+  {
+    "id": "ET030422",
+    "zoneId": "ET0304",
+    "name": {
+      "en": "Worebabu"
+    },
+    "latLong": [
+      11.45371026,
+      39.90811747
+    ]
+  },
+  {
+    "id": "ET030423",
+    "zoneId": "ET0304",
+    "name": {
+      "en": "Wereilu town"
+    },
+    "latLong": [
+      10.59090343,
+      39.43635266
+    ]
+  },
+  {
+    "id": "ET030424",
+    "zoneId": "ET0304",
+    "name": {
+      "en": "Wegel tena town"
+    },
+    "latLong": [
+      11.59310951,
+      39.21484986
+    ]
+  },
+  {
+    "id": "ET030425",
+    "zoneId": "ET0304",
+    "name": {
+      "en": "Degolo town"
+    },
+    "latLong": [
+      10.41859871,
+      39.25796119
+    ]
+  },
+  {
+    "id": "ET030426",
+    "zoneId": "ET0304",
+    "name": {
+      "en": "Kelala town"
+    },
+    "latLong": [
+      10.58805179,
+      38.99706032
+    ]
+  },
+  {
+    "id": "ET030427",
+    "zoneId": "ET0304",
+    "name": {
+      "en": "Akeseta town"
+    },
+    "latLong": [
+      10.86940901,
+      39.17769559
+    ]
+  },
+  {
+    "id": "ET030428",
+    "zoneId": "ET0304",
+    "name": {
+      "en": "Tulu Awlia"
+    },
+    "latLong": [
+      10.98215617,
+      39.27090737
+    ]
+  },
+  {
+    "id": "ET030429",
+    "zoneId": "ET0304",
+    "name": {
+      "en": "Harbu town"
+    },
+    "latLong": [
+      10.92204179,
+      39.7838496
+    ]
+  },
+  {
+    "id": "ET030498",
+    "zoneId": "ET0304",
+    "name": {
+      "en": "Mekane Selame"
+    },
+    "latLong": [
+      10.75561851,
+      38.77539093
+    ]
+  },
+  {
+    "id": "ET030499",
+    "zoneId": "ET0304",
+    "name": {
+      "en": "Hike town"
+    },
+    "latLong": [
+      11.31100853,
+      39.67958848
+    ]
+  },
+  {
+    "id": "ET030501",
+    "zoneId": "ET0305",
+    "name": {
+      "en": "Mida Woremo"
+    },
+    "latLong": [
+      10.24940215,
+      39.02989544
+    ]
+  },
+  {
+    "id": "ET030502",
+    "zoneId": "ET0305",
+    "name": {
+      "en": "Merhabete"
+    },
+    "latLong": [
+      10.04552717,
+      38.82584266
+    ]
+  },
+  {
+    "id": "ET030503",
+    "zoneId": "ET0305",
+    "name": {
+      "en": "Ensaro"
+    },
+    "latLong": [
+      9.83850593,
+      38.91660618
+    ]
+  },
+  {
+    "id": "ET030504",
+    "zoneId": "ET0305",
+    "name": {
+      "en": "Moretna Jiru"
+    },
+    "latLong": [
+      9.95482762,
+      39.15376466
+    ]
+  },
+  {
+    "id": "ET030505",
+    "zoneId": "ET0305",
+    "name": {
+      "en": "Menze Gera Midir"
+    },
+    "latLong": [
+      10.38259189,
+      39.62353281
+    ]
+  },
+  {
+    "id": "ET030506",
+    "zoneId": "ET0305",
+    "name": {
+      "en": "Gishe Rabel"
+    },
+    "latLong": [
+      10.58832946,
+      39.59776549
+    ]
+  },
+  {
+    "id": "ET030507",
+    "zoneId": "ET0305",
+    "name": {
+      "en": "Antsokiya"
+    },
+    "latLong": [
+      10.58831749,
+      39.79262569
+    ]
+  },
+  {
+    "id": "ET030508",
+    "zoneId": "ET0305",
+    "name": {
+      "en": "Eferatana Gidem"
+    },
+    "latLong": [
+      10.30178809,
+      39.87403919
+    ]
+  },
+  {
+    "id": "ET030509",
+    "zoneId": "ET0305",
+    "name": {
+      "en": "Menze Mama Midir"
+    },
+    "latLong": [
+      10.11244385,
+      39.67283273
+    ]
+  },
+  {
+    "id": "ET030510",
+    "zoneId": "ET0305",
+    "name": {
+      "en": "Tarema Ber"
+    },
+    "latLong": [
+      9.90206822,
+      39.81371545
+    ]
+  },
+  {
+    "id": "ET030511",
+    "zoneId": "ET0305",
+    "name": {
+      "en": "Mojan Wedera"
+    },
+    "latLong": [
+      9.92363758,
+      39.50826508
+    ]
+  },
+  {
+    "id": "ET030512",
+    "zoneId": "ET0305",
+    "name": {
+      "en": "Kewet"
+    },
+    "latLong": [
+      9.98643413,
+      39.89995908
+    ]
+  },
+  {
+    "id": "ET030513",
+    "zoneId": "ET0305",
+    "name": {
+      "en": "Angolelana Tera"
+    },
+    "latLong": [
+      9.42900818,
+      39.52011025
+    ]
+  },
+  {
+    "id": "ET030514",
+    "zoneId": "ET0305",
+    "name": {
+      "en": "Assagirt"
+    },
+    "latLong": [
+      9.33949545,
+      39.62161809
+    ]
+  },
+  {
+    "id": "ET030515",
+    "zoneId": "ET0305",
+    "name": {
+      "en": "Ankober"
+    },
+    "latLong": [
+      9.56489016,
+      39.76206003
+    ]
+  },
+  {
+    "id": "ET030516",
+    "zoneId": "ET0305",
+    "name": {
+      "en": "Hagere Mariam"
+    },
+    "latLong": [
+      9.18119342,
+      39.37674713
+    ]
+  },
+  {
+    "id": "ET030517",
+    "zoneId": "ET0305",
+    "name": {
+      "en": "Berehet"
+    },
+    "latLong": [
+      9.17286492,
+      39.67309208
+    ]
+  },
+  {
+    "id": "ET030518",
+    "zoneId": "ET0305",
+    "name": {
+      "en": "Minjar Shenkora"
+    },
+    "latLong": [
+      8.91360565,
+      39.50447428
+    ]
+  },
+  {
+    "id": "ET030519",
+    "zoneId": "ET0305",
+    "name": {
+      "en": "Basona Worena"
+    },
+    "latLong": [
+      9.73824292,
+      39.44844027
+    ]
+  },
+  {
+    "id": "ET030520",
+    "zoneId": "ET0305",
+    "name": {
+      "en": "Debre Berhan town"
+    },
+    "latLong": [
+      9.66765411,
+      39.53545076
+    ]
+  },
+  {
+    "id": "ET030521",
+    "zoneId": "ET0305",
+    "name": {
+      "en": "Menze Keya Gabriel"
+    },
+    "latLong": [
+      10.16659991,
+      39.3493259
+    ]
+  },
+  {
+    "id": "ET030522",
+    "zoneId": "ET0305",
+    "name": {
+      "en": "Menze Lalo Midir"
+    },
+    "latLong": [
+      10.11239698,
+      39.49953539
+    ]
+  },
+  {
+    "id": "ET030523",
+    "zoneId": "ET0305",
+    "name": {
+      "en": "Siya Debirna Wayu"
+    },
+    "latLong": [
+      9.785736,
+      39.18868965
+    ]
+  },
+  {
+    "id": "ET030524",
+    "zoneId": "ET0305",
+    "name": {
+      "en": "Tulefa town"
+    },
+    "latLong": [
+      9.23390515,
+      39.23560162
+    ]
+  },
+  {
+    "id": "ET030525",
+    "zoneId": "ET0305",
+    "name": {
+      "en": "Arerti town"
+    },
+    "latLong": [
+      8.92748207,
+      39.42472036
+    ]
+  },
+  {
+    "id": "ET030526",
+    "zoneId": "ET0305",
+    "name": {
+      "en": "Molale town"
+    },
+    "latLong": [
+      10.12095235,
+      39.66176966
+    ]
+  },
+  {
+    "id": "ET030527",
+    "zoneId": "ET0305",
+    "name": {
+      "en": "Debre Sina town"
+    },
+    "latLong": [
+      9.84794392,
+      39.76235783
+    ]
+  },
+  {
+    "id": "ET030595",
+    "zoneId": "ET0305",
+    "name": {
+      "en": "Shoa Robit"
+    },
+    "latLong": [
+      10.00571825,
+      39.91173887
+    ]
+  },
+  {
+    "id": "ET030597",
+    "zoneId": "ET0305",
+    "name": {
+      "en": "Mehale Meda town"
+    },
+    "latLong": [
+      10.31072471,
+      39.6595066
+    ]
+  },
+  {
+    "id": "ET030598",
+    "zoneId": "ET0305",
+    "name": {
+      "en": "Ataye town"
+    },
+    "latLong": [
+      10.34942366,
+      39.96825977
+    ]
+  },
+  {
+    "id": "ET030599",
+    "zoneId": "ET0305",
+    "name": {
+      "en": "Aleme Ketma town"
+    },
+    "latLong": [
+      10.05813845,
+      38.99918543
+    ]
+  },
+  {
+    "id": "ET030601",
+    "zoneId": "ET0306",
+    "name": {
+      "en": "Bibugn"
+    },
+    "latLong": [
+      10.87458882,
+      37.73230881
+    ]
+  },
+  {
+    "id": "ET030602",
+    "zoneId": "ET0306",
+    "name": {
+      "en": "Hulet Ej Enese"
+    },
+    "latLong": [
+      10.97248615,
+      37.90578845
+    ]
+  },
+  {
+    "id": "ET030603",
+    "zoneId": "ET0306",
+    "name": {
+      "en": "Goncha Siso Enebse"
+    },
+    "latLong": [
+      10.88022952,
+      38.13438245
+    ]
+  },
+  {
+    "id": "ET030604",
+    "zoneId": "ET0306",
+    "name": {
+      "en": "Enebse Sarmder"
+    },
+    "latLong": [
+      10.86131723,
+      38.40383251
+    ]
+  },
+  {
+    "id": "ET030605",
+    "zoneId": "ET0306",
+    "name": {
+      "en": "Enarj Enawga"
+    },
+    "latLong": [
+      10.68488665,
+      38.2308564
+    ]
+  },
+  {
+    "id": "ET030606",
+    "zoneId": "ET0306",
+    "name": {
+      "en": "Enemay"
+    },
+    "latLong": [
+      10.49845806,
+      38.21128511
+    ]
+  },
+  {
+    "id": "ET030607",
+    "zoneId": "ET0306",
+    "name": {
+      "en": "Debay Telatgen"
+    },
+    "latLong": [
+      10.52511611,
+      38.02358393
+    ]
+  },
+  {
+    "id": "ET030608",
+    "zoneId": "ET0306",
+    "name": {
+      "en": "Debre Elias"
+    },
+    "latLong": [
+      10.20179878,
+      37.34468554
+    ]
+  },
+  {
+    "id": "ET030609",
+    "zoneId": "ET0306",
+    "name": {
+      "en": "Michakel"
+    },
+    "latLong": [
+      10.50695299,
+      37.57511802
+    ]
+  },
+  {
+    "id": "ET030610",
+    "zoneId": "ET0306",
+    "name": {
+      "en": "Guzamn"
+    },
+    "latLong": [
+      10.30907502,
+      37.59750976
+    ]
+  },
+  {
+    "id": "ET030611",
+    "zoneId": "ET0306",
+    "name": {
+      "en": "Baso Liben"
+    },
+    "latLong": [
+      10.04790524,
+      37.72070774
+    ]
+  },
+  {
+    "id": "ET030612",
+    "zoneId": "ET0306",
+    "name": {
+      "en": "Awabel"
+    },
+    "latLong": [
+      10.26742349,
+      37.99370238
+    ]
+  },
+  {
+    "id": "ET030613",
+    "zoneId": "ET0306",
+    "name": {
+      "en": "Dejen"
+    },
+    "latLong": [
+      10.18378081,
+      38.18949507
+    ]
+  },
+  {
+    "id": "ET030614",
+    "zoneId": "ET0306",
+    "name": {
+      "en": "Shebel Bernta"
+    },
+    "latLong": [
+      10.32344184,
+      38.37058332
+    ]
+  },
+  {
+    "id": "ET030615",
+    "zoneId": "ET0306",
+    "name": {
+      "en": "Debre Markos town"
+    },
+    "latLong": [
+      10.32980052,
+      37.72554326
+    ]
+  },
+  {
+    "id": "ET030616",
+    "zoneId": "ET0306",
+    "name": {
+      "en": "Senan"
+    },
+    "latLong": [
+      10.54432324,
+      37.77315011
+    ]
+  },
+  {
+    "id": "ET030617",
+    "zoneId": "ET0306",
+    "name": {
+      "en": "Aneded"
+    },
+    "latLong": [
+      10.16365868,
+      37.88043639
+    ]
+  },
+  {
+    "id": "ET030618",
+    "zoneId": "ET0306",
+    "name": {
+      "en": "Amanuel town"
+    },
+    "latLong": [
+      10.44113611,
+      37.56691482
+    ]
+  },
+  {
+    "id": "ET030619",
+    "zoneId": "ET0306",
+    "name": {
+      "en": "Sedae"
+    },
+    "latLong": [
+      11.06665911,
+      38.21543905
+    ]
+  },
+  {
+    "id": "ET030620",
+    "zoneId": "ET0306",
+    "name": {
+      "en": "Gundwoin town"
+    },
+    "latLong": [
+      10.92778708,
+      38.08642995
+    ]
+  },
+  {
+    "id": "ET030621",
+    "zoneId": "ET0306",
+    "name": {
+      "en": "Debrework town"
+    },
+    "latLong": [
+      10.65550043,
+      38.16392716
+    ]
+  },
+  {
+    "id": "ET030622",
+    "zoneId": "ET0306",
+    "name": {
+      "en": "Lumame town"
+    },
+    "latLong": [
+      10.25318366,
+      37.93785951
+    ]
+  },
+  {
+    "id": "ET030623",
+    "zoneId": "ET0306",
+    "name": {
+      "en": "Merto Lemariyam town"
+    },
+    "latLong": [
+      10.86820288,
+      38.26835081
+    ]
+  },
+  {
+    "id": "ET030694",
+    "zoneId": "ET0306",
+    "name": {
+      "en": "Mota Town"
+    },
+    "latLong": [
+      11.08341403,
+      37.87930809
+    ]
+  },
+  {
+    "id": "ET030698",
+    "zoneId": "ET0306",
+    "name": {
+      "en": "Dejen town"
+    },
+    "latLong": [
+      10.16672689,
+      38.14509847
+    ]
+  },
+  {
+    "id": "ET030699",
+    "zoneId": "ET0306",
+    "name": {
+      "en": "Bechena Town"
+    },
+    "latLong": [
+      10.45299294,
+      38.20111957
+    ]
+  },
+  {
+    "id": "ET030701",
+    "zoneId": "ET0307",
+    "name": {
+      "en": "Semen Achefer"
+    },
+    "latLong": [
+      11.70848406,
+      36.99486687
+    ]
+  },
+  {
+    "id": "ET030702",
+    "zoneId": "ET0307",
+    "name": {
+      "en": "Bahirdar Zuria"
+    },
+    "latLong": [
+      11.57837434,
+      37.22633537
+    ]
+  },
+  {
+    "id": "ET030703",
+    "zoneId": "ET0307",
+    "name": {
+      "en": "Yilmana Densa"
+    },
+    "latLong": [
+      11.25110336,
+      37.46510403
+    ]
+  },
+  {
+    "id": "ET030704",
+    "zoneId": "ET0307",
+    "name": {
+      "en": "Mecha"
+    },
+    "latLong": [
+      11.49521144,
+      37.12301037
+    ]
+  },
+  {
+    "id": "ET030705",
+    "zoneId": "ET0307",
+    "name": {
+      "en": "Sekela"
+    },
+    "latLong": [
+      10.97266579,
+      37.22957623
+    ]
+  },
+  {
+    "id": "ET030706",
+    "zoneId": "ET0307",
+    "name": {
+      "en": "Quarit"
+    },
+    "latLong": [
+      10.94105753,
+      37.43300793
+    ]
+  },
+  {
+    "id": "ET030707",
+    "zoneId": "ET0307",
+    "name": {
+      "en": "Dega Damot"
+    },
+    "latLong": [
+      10.88667715,
+      37.59877944
+    ]
+  },
+  {
+    "id": "ET030708",
+    "zoneId": "ET0307",
+    "name": {
+      "en": "Dembecha"
+    },
+    "latLong": [
+      10.52093644,
+      37.34479147
+    ]
+  },
+  {
+    "id": "ET030709",
+    "zoneId": "ET0307",
+    "name": {
+      "en": "Jabi Tehnan"
+    },
+    "latLong": [
+      10.65810193,
+      37.17326045
+    ]
+  },
+  {
+    "id": "ET030710",
+    "zoneId": "ET0307",
+    "name": {
+      "en": "Bure (AM)"
+    },
+    "latLong": [
+      10.55639346,
+      37.06459847
+    ]
+  },
+  {
+    "id": "ET030711",
+    "zoneId": "ET0307",
+    "name": {
+      "en": "Wemberma"
+    },
+    "latLong": [
+      10.52127083,
+      36.7913405
+    ]
+  },
+  {
+    "id": "ET030712",
+    "zoneId": "ET0307",
+    "name": {
+      "en": "Bahir Dar town"
+    },
+    "latLong": [
+      11.57973457,
+      37.38538733
+    ]
+  },
+  {
+    "id": "ET030713",
+    "zoneId": "ET0307",
+    "name": {
+      "en": "Debub Achefer"
+    },
+    "latLong": [
+      11.44636286,
+      36.83476827
+    ]
+  },
+  {
+    "id": "ET030714",
+    "zoneId": "ET0307",
+    "name": {
+      "en": "Finote Selam town"
+    },
+    "latLong": [
+      10.68923874,
+      37.25791542
+    ]
+  },
+  {
+    "id": "ET030715",
+    "zoneId": "ET0307",
+    "name": {
+      "en": "Debub Mecha"
+    },
+    "latLong": [
+      11.24927775,
+      37.16212587
+    ]
+  },
+  {
+    "id": "ET030716",
+    "zoneId": "ET0307",
+    "name": {
+      "en": "Shendi town"
+    },
+    "latLong": [
+      10.64127631,
+      36.94595344
+    ]
+  },
+  {
+    "id": "ET030717",
+    "zoneId": "ET0307",
+    "name": {
+      "en": "Denbecha town"
+    },
+    "latLong": [
+      10.56683,
+      37.49079086
+    ]
+  },
+  {
+    "id": "ET030718",
+    "zoneId": "ET0307",
+    "name": {
+      "en": "Gonje"
+    },
+    "latLong": [
+      11.16094279,
+      37.68492021
+    ]
+  },
+  {
+    "id": "ET030719",
+    "zoneId": "ET0307",
+    "name": {
+      "en": "Dure Bete"
+    },
+    "latLong": [
+      11.35761262,
+      36.9521176
+    ]
+  },
+  {
+    "id": "ET030720",
+    "zoneId": "ET0307",
+    "name": {
+      "en": "Jiga town"
+    },
+    "latLong": [
+      10.67394247,
+      37.37371561
+    ]
+  },
+  {
+    "id": "ET030797",
+    "zoneId": "ET0307",
+    "name": {
+      "en": "Merawi town"
+    },
+    "latLong": [
+      11.41632189,
+      37.16024836
+    ]
+  },
+  {
+    "id": "ET030798",
+    "zoneId": "ET0307",
+    "name": {
+      "en": "Bure town"
+    },
+    "latLong": [
+      10.70493038,
+      37.06632064
+    ]
+  },
+  {
+    "id": "ET030799",
+    "zoneId": "ET0307",
+    "name": {
+      "en": "Adete town"
+    },
+    "latLong": [
+      11.26971653,
+      37.4899554
+    ]
+  },
+  {
+    "id": "ET030801",
+    "zoneId": "ET0308",
+    "name": {
+      "en": "Zequala"
+    },
+    "latLong": [
+      12.84309279,
+      38.80130117
+    ]
+  },
+  {
+    "id": "ET030802",
+    "zoneId": "ET0308",
+    "name": {
+      "en": "Sekota"
+    },
+    "latLong": [
+      12.64310235,
+      38.90431938
+    ]
+  },
+  {
+    "id": "ET030803",
+    "zoneId": "ET0308",
+    "name": {
+      "en": "Dehana"
+    },
+    "latLong": [
+      12.44864704,
+      38.66998655
+    ]
+  },
+  {
+    "id": "ET030804",
+    "zoneId": "ET0308",
+    "name": {
+      "en": "Gaz Gibla"
+    },
+    "latLong": [
+      12.3218587,
+      39.08634174
+    ]
+  },
+  {
+    "id": "ET030805",
+    "zoneId": "ET0308",
+    "name": {
+      "en": "Abergele (AM)"
+    },
+    "latLong": [
+      13.0676167,
+      38.87322152
+    ]
+  },
+  {
+    "id": "ET030806",
+    "zoneId": "ET0308",
+    "name": {
+      "en": "Sahila"
+    },
+    "latLong": [
+      12.96791588,
+      38.46270475
+    ]
+  },
+  {
+    "id": "ET030807",
+    "zoneId": "ET0308",
+    "name": {
+      "en": "Sekota town"
+    },
+    "latLong": [
+      12.62312946,
+      39.03654062
+    ]
+  },
+  {
+    "id": "ET030808",
+    "zoneId": "ET0308",
+    "name": {
+      "en": "Tsagbeji"
+    },
+    "latLong": [
+      12.77529274,
+      39.17154757
+    ]
+  },
+  {
+    "id": "ET030809",
+    "zoneId": "ET0308",
+    "name": {
+      "en": "Amde Work town"
+    },
+    "latLong": [
+      12.43024941,
+      38.71730144
+    ]
+  },
+  {
+    "id": "ET030901",
+    "zoneId": "ET0309",
+    "name": {
+      "en": "Dangila"
+    },
+    "latLong": [
+      11.24598099,
+      36.78721381
+    ]
+  },
+  {
+    "id": "ET030902",
+    "zoneId": "ET0309",
+    "name": {
+      "en": "Banja"
+    },
+    "latLong": [
+      10.96342635,
+      37.02536537
+    ]
+  },
+  {
+    "id": "ET030903",
+    "zoneId": "ET0309",
+    "name": {
+      "en": "Ankasha"
+    },
+    "latLong": [
+      10.83956048,
+      36.79407278
+    ]
+  },
+  {
+    "id": "ET030904",
+    "zoneId": "ET0309",
+    "name": {
+      "en": "Guangua"
+    },
+    "latLong": [
+      10.78637853,
+      36.53390159
+    ]
+  },
+  {
+    "id": "ET030905",
+    "zoneId": "ET0309",
+    "name": {
+      "en": "Fagta Lakoma"
+    },
+    "latLong": [
+      11.07536791,
+      36.77503759
+    ]
+  },
+  {
+    "id": "ET030906",
+    "zoneId": "ET0309",
+    "name": {
+      "en": "Jawi"
+    },
+    "latLong": [
+      11.59565848,
+      36.4928385
+    ]
+  },
+  {
+    "id": "ET030907",
+    "zoneId": "ET0309",
+    "name": {
+      "en": "Guagusa Shikudad"
+    },
+    "latLong": [
+      10.82701879,
+      37.01370335
+    ]
+  },
+  {
+    "id": "ET030908",
+    "zoneId": "ET0309",
+    "name": {
+      "en": "Ayehu Guwagusa"
+    },
+    "latLong": [
+      10.67675783,
+      36.74040106
+    ]
+  },
+  {
+    "id": "ET030909",
+    "zoneId": "ET0309",
+    "name": {
+      "en": "Agew Gimija Bet"
+    },
+    "latLong": [
+      10.84899276,
+      36.8930922
+    ]
+  },
+  {
+    "id": "ET030910",
+    "zoneId": "ET0309",
+    "name": {
+      "en": "Adiss Kidame town"
+    },
+    "latLong": [
+      11.08054956,
+      36.88495367
+    ]
+  },
+  {
+    "id": "ET030911",
+    "zoneId": "ET0309",
+    "name": {
+      "en": "Tilili town"
+    },
+    "latLong": [
+      10.85355779,
+      37.02036122
+    ]
+  },
+  {
+    "id": "ET030912",
+    "zoneId": "ET0309",
+    "name": {
+      "en": "Fendika town"
+    },
+    "latLong": [
+      11.5654447,
+      36.4883355
+    ]
+  },
+  {
+    "id": "ET030996",
+    "zoneId": "ET0309",
+    "name": {
+      "en": "Injibara town"
+    },
+    "latLong": [
+      10.96972575,
+      36.92760879
+    ]
+  },
+  {
+    "id": "ET030997",
+    "zoneId": "ET0309",
+    "name": {
+      "en": "Zigem"
+    },
+    "latLong": [
+      10.71227039,
+      36.49371126
+    ]
+  },
+  {
+    "id": "ET030998",
+    "zoneId": "ET0309",
+    "name": {
+      "en": "Dangila town"
+    },
+    "latLong": [
+      11.26343245,
+      36.84472721
+    ]
+  },
+  {
+    "id": "ET030999",
+    "zoneId": "ET0309",
+    "name": {
+      "en": "Chagni town"
+    },
+    "latLong": [
+      10.95717393,
+      36.50942416
+    ]
+  },
+  {
+    "id": "ET031001",
+    "zoneId": "ET0310",
+    "name": {
+      "en": "Dewa Cheffa"
+    },
+    "latLong": [
+      10.75555339,
+      39.8288504
+    ]
+  },
+  {
+    "id": "ET031002",
+    "zoneId": "ET0310",
+    "name": {
+      "en": "Bati"
+    },
+    "latLong": [
+      11.14221626,
+      40.08175506
+    ]
+  },
+  {
+    "id": "ET031003",
+    "zoneId": "ET0310",
+    "name": {
+      "en": "Jilye Tumuga"
+    },
+    "latLong": [
+      10.26697422,
+      40.04692127
+    ]
+  },
+  {
+    "id": "ET031004",
+    "zoneId": "ET0310",
+    "name": {
+      "en": "Artuma Fursi"
+    },
+    "latLong": [
+      10.53627531,
+      40.02543906
+    ]
+  },
+  {
+    "id": "ET031005",
+    "zoneId": "ET0310",
+    "name": {
+      "en": "Dewa Harewa"
+    },
+    "latLong": [
+      10.75429966,
+      40.02615515
+    ]
+  },
+  {
+    "id": "ET031006",
+    "zoneId": "ET0310",
+    "name": {
+      "en": "Kemisie town"
+    },
+    "latLong": [
+      10.71991191,
+      39.87106393
+    ]
+  },
+  {
+    "id": "ET031007",
+    "zoneId": "ET0310",
+    "name": {
+      "en": "Chef Robit town"
+    },
+    "latLong": [
+      10.55216623,
+      39.93352063
+    ]
+  },
+  {
+    "id": "ET031008",
+    "zoneId": "ET0310",
+    "name": {
+      "en": "Senbete town"
+    },
+    "latLong": [
+      10.31720512,
+      40.00211004
+    ]
+  },
+  {
+    "id": "ET031099",
+    "zoneId": "ET0310",
+    "name": {
+      "en": "Bati Town"
+    },
+    "latLong": [
+      11.19251457,
+      40.01294565
+    ]
+  },
+  {
+    "id": "ET031103",
+    "zoneId": "ET0311",
+    "name": {
+      "en": "Amba Giorgis town"
+    },
+    "latLong": [
+      12.76430905,
+      37.61893036
+    ]
+  },
+  {
+    "id": "ET031104",
+    "zoneId": "ET0311",
+    "name": {
+      "en": "Shawra town"
+    },
+    "latLong": [
+      11.93317945,
+      36.87289162
+    ]
+  },
+  {
+    "id": "ET031105",
+    "zoneId": "ET0311",
+    "name": {
+      "en": "Kolla Debba town"
+    },
+    "latLong": [
+      12.42507539,
+      37.3295896
+    ]
+  },
+  {
+    "id": "ET031106",
+    "zoneId": "ET0311",
+    "name": {
+      "en": "Chilga 1"
+    },
+    "latLong": [
+      12.61475284,
+      37.05337313
+    ]
+  },
+  {
+    "id": "ET031107",
+    "zoneId": "ET0311",
+    "name": {
+      "en": "Tegede"
+    },
+    "latLong": [
+      13.33492708,
+      36.79034053
+    ]
+  },
+  {
+    "id": "ET031108",
+    "zoneId": "ET0311",
+    "name": {
+      "en": "Lay Armacho"
+    },
+    "latLong": [
+      12.78181974,
+      37.35769493
+    ]
+  },
+  {
+    "id": "ET031109",
+    "zoneId": "ET0311",
+    "name": {
+      "en": "Wegera"
+    },
+    "latLong": [
+      12.78886196,
+      37.68581383
+    ]
+  },
+  {
+    "id": "ET031110",
+    "zoneId": "ET0311",
+    "name": {
+      "en": "Gonder Zuria"
+    },
+    "latLong": [
+      12.39247705,
+      37.59133924
+    ]
+  },
+  {
+    "id": "ET031111",
+    "zoneId": "ET0311",
+    "name": {
+      "en": "East Dembia"
+    },
+    "latLong": [
+      12.43173271,
+      37.38498532
+    ]
+  },
+  {
+    "id": "ET031112",
+    "zoneId": "ET0311",
+    "name": {
+      "en": "Chilga 2"
+    },
+    "latLong": [
+      12.78809978,
+      37.1042538
+    ]
+  },
+  {
+    "id": "ET031115",
+    "zoneId": "ET0311",
+    "name": {
+      "en": "Alefa"
+    },
+    "latLong": [
+      11.90106865,
+      36.77306803
+    ]
+  },
+  {
+    "id": "ET031116",
+    "zoneId": "ET0311",
+    "name": {
+      "en": "West Belesa"
+    },
+    "latLong": [
+      12.46563868,
+      37.80509687
+    ]
+  },
+  {
+    "id": "ET031117",
+    "zoneId": "ET0311",
+    "name": {
+      "en": "East Belesa"
+    },
+    "latLong": [
+      12.52542926,
+      38.16261538
+    ]
+  },
+  {
+    "id": "ET031118",
+    "zoneId": "ET0311",
+    "name": {
+      "en": "Gondar town"
+    },
+    "latLong": [
+      12.56531191,
+      37.43585466
+    ]
+  },
+  {
+    "id": "ET031119",
+    "zoneId": "ET0311",
+    "name": {
+      "en": "Masero Denb /Central Armacho"
+    },
+    "latLong": [
+      13.03148162,
+      36.9038093
+    ]
+  },
+  {
+    "id": "ET031120",
+    "zoneId": "ET0311",
+    "name": {
+      "en": "Tach Armacho"
+    },
+    "latLong": [
+      13.02977782,
+      37.2923861
+    ]
+  },
+  {
+    "id": "ET031121",
+    "zoneId": "ET0311",
+    "name": {
+      "en": "Takusa"
+    },
+    "latLong": [
+      12.21809,
+      36.77392876
+    ]
+  },
+  {
+    "id": "ET031122",
+    "zoneId": "ET0311",
+    "name": {
+      "en": "Kinfaz Begela"
+    },
+    "latLong": [
+      12.82323502,
+      38.06505175
+    ]
+  },
+  {
+    "id": "ET031125",
+    "zoneId": "ET0311",
+    "name": {
+      "en": "West Dembiya"
+    },
+    "latLong": [
+      12.4086724,
+      37.18609305
+    ]
+  },
+  {
+    "id": "ET031199",
+    "zoneId": "ET0311",
+    "name": {
+      "en": "Aykel town"
+    },
+    "latLong": [
+      12.55197842,
+      37.06699381
+    ]
+  },
+  {
+    "id": "ET031205",
+    "zoneId": "ET0312",
+    "name": {
+      "en": "Adagn Ager Chaqo"
+    },
+    "latLong": [
+      12.60186018,
+      36.80800268
+    ]
+  },
+  {
+    "id": "ET031206",
+    "zoneId": "ET0312",
+    "name": {
+      "en": "Mirab Armacho"
+    },
+    "latLong": [
+      13.37643265,
+      36.38030714
+    ]
+  },
+  {
+    "id": "ET031213",
+    "zoneId": "ET0312",
+    "name": {
+      "en": "Metema"
+    },
+    "latLong": [
+      12.84645377,
+      36.47639589
+    ]
+  },
+  {
+    "id": "ET031214",
+    "zoneId": "ET0312",
+    "name": {
+      "en": "Quara"
+    },
+    "latLong": [
+      12.19366453,
+      35.92325558
+    ]
+  },
+  {
+    "id": "ET031223",
+    "zoneId": "ET0312",
+    "name": {
+      "en": "Midre Genet"
+    },
+    "latLong": [
+      13.69565909,
+      36.46347662
+    ]
+  },
+  {
+    "id": "ET031224",
+    "zoneId": "ET0312",
+    "name": {
+      "en": "Metema Yohanes town"
+    },
+    "latLong": [
+      12.93997746,
+      36.16650497
+    ]
+  },
+  {
+    "id": "ET031292",
+    "zoneId": "ET0312",
+    "name": {
+      "en": "Gendawuha town"
+    },
+    "latLong": [
+      12.77684155,
+      36.407787
+    ]
+  },
+  {
+    "id": "ET040101",
+    "zoneId": "ET0401",
+    "name": {
+      "en": "Mana Sibu"
+    },
+    "latLong": [
+      9.73938367,
+      34.99987116
+    ]
+  },
+  {
+    "id": "ET040102",
+    "zoneId": "ET0401",
+    "name": {
+      "en": "Nejo"
+    },
+    "latLong": [
+      9.52786331,
+      35.53876387
+    ]
+  },
+  {
+    "id": "ET040103",
+    "zoneId": "ET0401",
+    "name": {
+      "en": "Gimbi"
+    },
+    "latLong": [
+      9.13310655,
+      35.90212374
+    ]
+  },
+  {
+    "id": "ET040104",
+    "zoneId": "ET0401",
+    "name": {
+      "en": "Lalo Asabi"
+    },
+    "latLong": [
+      9.23219738,
+      35.67730113
+    ]
+  },
+  {
+    "id": "ET040105",
+    "zoneId": "ET0401",
+    "name": {
+      "en": "Kiltu Kara"
+    },
+    "latLong": [
+      9.70773142,
+      35.28442554
+    ]
+  },
+  {
+    "id": "ET040106",
+    "zoneId": "ET0401",
+    "name": {
+      "en": "Boji Dirmeji"
+    },
+    "latLong": [
+      9.39657837,
+      35.62912542
+    ]
+  },
+  {
+    "id": "ET040107",
+    "zoneId": "ET0401",
+    "name": {
+      "en": "Ayira"
+    },
+    "latLong": [
+      9.12948428,
+      35.31126136
+    ]
+  },
+  {
+    "id": "ET040108",
+    "zoneId": "ET0401",
+    "name": {
+      "en": "Jarso (West Wellega)"
+    },
+    "latLong": [
+      9.43311876,
+      35.32887332
+    ]
+  },
+  {
+    "id": "ET040109",
+    "zoneId": "ET0401",
+    "name": {
+      "en": "Gudetu Kondole"
+    },
+    "latLong": [
+      9.37836518,
+      34.74742907
+    ]
+  },
+  {
+    "id": "ET040110",
+    "zoneId": "ET0401",
+    "name": {
+      "en": "Boji Chekorsa"
+    },
+    "latLong": [
+      9.27650675,
+      35.52219932
+    ]
+  },
+  {
+    "id": "ET040111",
+    "zoneId": "ET0401",
+    "name": {
+      "en": "Babo"
+    },
+    "latLong": [
+      9.45064344,
+      35.10361706
+    ]
+  },
+  {
+    "id": "ET040112",
+    "zoneId": "ET0401",
+    "name": {
+      "en": "Yubdo"
+    },
+    "latLong": [
+      8.97397416,
+      35.45639537
+    ]
+  },
+  {
+    "id": "ET040113",
+    "zoneId": "ET0401",
+    "name": {
+      "en": "Gaji"
+    },
+    "latLong": [
+      9.0356102,
+      35.58858882
+    ]
+  },
+  {
+    "id": "ET040114",
+    "zoneId": "ET0401",
+    "name": {
+      "en": "Haru"
+    },
+    "latLong": [
+      8.98978639,
+      35.82385837
+    ]
+  },
+  {
+    "id": "ET040115",
+    "zoneId": "ET0401",
+    "name": {
+      "en": "Nole Kaba"
+    },
+    "latLong": [
+      8.82031721,
+      35.78335868
+    ]
+  },
+  {
+    "id": "ET040116",
+    "zoneId": "ET0401",
+    "name": {
+      "en": "Begi"
+    },
+    "latLong": [
+      9.3800303,
+      34.52078702
+    ]
+  },
+  {
+    "id": "ET040117",
+    "zoneId": "ET0401",
+    "name": {
+      "en": "Homa"
+    },
+    "latLong": [
+      9.05682325,
+      35.70939132
+    ]
+  },
+  {
+    "id": "ET040118",
+    "zoneId": "ET0401",
+    "name": {
+      "en": "Sayo Nole"
+    },
+    "latLong": [
+      8.83710453,
+      35.56588779
+    ]
+  },
+  {
+    "id": "ET040119",
+    "zoneId": "ET0401",
+    "name": {
+      "en": "Guliso"
+    },
+    "latLong": [
+      9.20059686,
+      35.44316843
+    ]
+  },
+  {
+    "id": "ET040193",
+    "zoneId": "ET0401",
+    "name": {
+      "en": "Gimbi town"
+    },
+    "latLong": [
+      9.17606351,
+      35.8173248
+    ]
+  },
+  {
+    "id": "ET040197",
+    "zoneId": "ET0401",
+    "name": {
+      "en": "Leta Sibu"
+    },
+    "latLong": [
+      9.63075747,
+      35.35781256
+    ]
+  },
+  {
+    "id": "ET040198",
+    "zoneId": "ET0401",
+    "name": {
+      "en": "Mendi town"
+    },
+    "latLong": [
+      9.80070362,
+      35.10703225
+    ]
+  },
+  {
+    "id": "ET040199",
+    "zoneId": "ET0401",
+    "name": {
+      "en": "Nejo town"
+    },
+    "latLong": [
+      9.50099824,
+      35.50586241
+    ]
+  },
+  {
+    "id": "ET040201",
+    "zoneId": "ET0402",
+    "name": {
+      "en": "Limu (OR)"
+    },
+    "latLong": [
+      9.68674706,
+      36.46888772
+    ]
+  },
+  {
+    "id": "ET040202",
+    "zoneId": "ET0402",
+    "name": {
+      "en": "Ibantu"
+    },
+    "latLong": [
+      10.0927829,
+      36.44605617
+    ]
+  },
+  {
+    "id": "ET040203",
+    "zoneId": "ET0402",
+    "name": {
+      "en": "Gida Ayana"
+    },
+    "latLong": [
+      9.86976473,
+      36.63705513
+    ]
+  },
+  {
+    "id": "ET040204",
+    "zoneId": "ET0402",
+    "name": {
+      "en": "Haro Limu"
+    },
+    "latLong": [
+      9.83765939,
+      36.23264067
+    ]
+  },
+  {
+    "id": "ET040205",
+    "zoneId": "ET0402",
+    "name": {
+      "en": "Boneya Boshe"
+    },
+    "latLong": [
+      8.91161267,
+      37.05529593
+    ]
+  },
+  {
+    "id": "ET040206",
+    "zoneId": "ET0402",
+    "name": {
+      "en": "Wayu Tuka"
+    },
+    "latLong": [
+      9.01804468,
+      36.64713705
+    ]
+  },
+  {
+    "id": "ET040207",
+    "zoneId": "ET0402",
+    "name": {
+      "en": "Bila Seyo"
+    },
+    "latLong": [
+      9.33925663,
+      36.93764293
+    ]
+  },
+  {
+    "id": "ET040208",
+    "zoneId": "ET0402",
+    "name": {
+      "en": "Gobu Seyo"
+    },
+    "latLong": [
+      9.17383171,
+      36.9905319
+    ]
+  },
+  {
+    "id": "ET040209",
+    "zoneId": "ET0402",
+    "name": {
+      "en": "Sibu Sire"
+    },
+    "latLong": [
+      9.15905252,
+      36.83686816
+    ]
+  },
+  {
+    "id": "ET040210",
+    "zoneId": "ET0402",
+    "name": {
+      "en": "Diga"
+    },
+    "latLong": [
+      9.06551116,
+      36.33205535
+    ]
+  },
+  {
+    "id": "ET040211",
+    "zoneId": "ET0402",
+    "name": {
+      "en": "Sasiga"
+    },
+    "latLong": [
+      9.22107914,
+      36.38409439
+    ]
+  },
+  {
+    "id": "ET040212",
+    "zoneId": "ET0402",
+    "name": {
+      "en": "Leka Dulecha"
+    },
+    "latLong": [
+      8.89057838,
+      36.46577112
+    ]
+  },
+  {
+    "id": "ET040213",
+    "zoneId": "ET0402",
+    "name": {
+      "en": "Guto Gida"
+    },
+    "latLong": [
+      9.23912844,
+      36.61534347
+    ]
+  },
+  {
+    "id": "ET040214",
+    "zoneId": "ET0402",
+    "name": {
+      "en": "Jimma Arjo"
+    },
+    "latLong": [
+      8.73283246,
+      36.48953712
+    ]
+  },
+  {
+    "id": "ET040215",
+    "zoneId": "ET0402",
+    "name": {
+      "en": "Nunu Kumba"
+    },
+    "latLong": [
+      8.70488565,
+      36.75592005
+    ]
+  },
+  {
+    "id": "ET040216",
+    "zoneId": "ET0402",
+    "name": {
+      "en": "Wama Hagalo"
+    },
+    "latLong": [
+      8.78730581,
+      36.89788993
+    ]
+  },
+  {
+    "id": "ET040217",
+    "zoneId": "ET0402",
+    "name": {
+      "en": "Kiremu"
+    },
+    "latLong": [
+      10.06209234,
+      36.8156101
+    ]
+  },
+  {
+    "id": "ET040297",
+    "zoneId": "ET0402",
+    "name": {
+      "en": "Nekemte town"
+    },
+    "latLong": [
+      9.06598214,
+      36.51999465
+    ]
+  },
+  {
+    "id": "ET040301",
+    "zoneId": "ET0403",
+    "name": {
+      "en": "Darimu"
+    },
+    "latLong": [
+      8.64560056,
+      35.33881046
+    ]
+  },
+  {
+    "id": "ET040302",
+    "zoneId": "ET0403",
+    "name": {
+      "en": "Alge Sachi"
+    },
+    "latLong": [
+      8.59780327,
+      35.78393946
+    ]
+  },
+  {
+    "id": "ET040309",
+    "zoneId": "ET0403",
+    "name": {
+      "en": "Yayu"
+    },
+    "latLong": [
+      8.21451993,
+      35.97220631
+    ]
+  },
+  {
+    "id": "ET040310",
+    "zoneId": "ET0403",
+    "name": {
+      "en": "Metu Zuria"
+    },
+    "latLong": [
+      8.35449483,
+      35.38719265
+    ]
+  },
+  {
+    "id": "ET040311",
+    "zoneId": "ET0403",
+    "name": {
+      "en": "Ale"
+    },
+    "latLong": [
+      8.12264446,
+      35.51657441
+    ]
+  },
+  {
+    "id": "ET040312",
+    "zoneId": "ET0403",
+    "name": {
+      "en": "Bure (OR)"
+    },
+    "latLong": [
+      8.31865767,
+      35.13263115
+    ]
+  },
+  {
+    "id": "ET040313",
+    "zoneId": "ET0403",
+    "name": {
+      "en": "Sale Nono"
+    },
+    "latLong": [
+      7.90207303,
+      35.22464183
+    ]
+  },
+  {
+    "id": "ET040314",
+    "zoneId": "ET0403",
+    "name": {
+      "en": "Becho (Ilu Aba Bora)"
+    },
+    "latLong": [
+      8.08653439,
+      35.73155677
+    ]
+  },
+  {
+    "id": "ET040315",
+    "zoneId": "ET0403",
+    "name": {
+      "en": "Bilo Nopha"
+    },
+    "latLong": [
+      8.42476644,
+      35.53743435
+    ]
+  },
+  {
+    "id": "ET040316",
+    "zoneId": "ET0403",
+    "name": {
+      "en": "Hurumu"
+    },
+    "latLong": [
+      8.21296891,
+      35.82070011
+    ]
+  },
+  {
+    "id": "ET040317",
+    "zoneId": "ET0403",
+    "name": {
+      "en": "Didu"
+    },
+    "latLong": [
+      7.93854804,
+      35.53924972
+    ]
+  },
+  {
+    "id": "ET040319",
+    "zoneId": "ET0403",
+    "name": {
+      "en": "Halu /Huka"
+    },
+    "latLong": [
+      8.17984383,
+      35.36975866
+    ]
+  },
+  {
+    "id": "ET040320",
+    "zoneId": "ET0403",
+    "name": {
+      "en": "Metu town"
+    },
+    "latLong": [
+      8.29766754,
+      35.57922385
+    ]
+  },
+  {
+    "id": "ET040324",
+    "zoneId": "ET0403",
+    "name": {
+      "en": "Dorani"
+    },
+    "latLong": [
+      8.44991619,
+      35.82963994
+    ]
+  },
+  {
+    "id": "ET040401",
+    "zoneId": "ET0404",
+    "name": {
+      "en": "Limu Seka"
+    },
+    "latLong": [
+      8.3852134,
+      36.91429144
+    ]
+  },
+  {
+    "id": "ET040402",
+    "zoneId": "ET0404",
+    "name": {
+      "en": "Limu Kosa"
+    },
+    "latLong": [
+      8.0339122,
+      36.94777331
+    ]
+  },
+  {
+    "id": "ET040403",
+    "zoneId": "ET0404",
+    "name": {
+      "en": "Sekoru"
+    },
+    "latLong": [
+      8.10769152,
+      37.4971706
+    ]
+  },
+  {
+    "id": "ET040404",
+    "zoneId": "ET0404",
+    "name": {
+      "en": "Tiro Afeta"
+    },
+    "latLong": [
+      7.9725789,
+      37.24767202
+    ]
+  },
+  {
+    "id": "ET040405",
+    "zoneId": "ET0404",
+    "name": {
+      "en": "Kersa (Jimma)"
+    },
+    "latLong": [
+      7.78468914,
+      37.04681994
+    ]
+  },
+  {
+    "id": "ET040406",
+    "zoneId": "ET0404",
+    "name": {
+      "en": "Mena (Jimma)"
+    },
+    "latLong": [
+      7.76784581,
+      36.7608289
+    ]
+  },
+  {
+    "id": "ET040407",
+    "zoneId": "ET0404",
+    "name": {
+      "en": "Goma"
+    },
+    "latLong": [
+      7.86794301,
+      36.4971784
+    ]
+  },
+  {
+    "id": "ET040408",
+    "zoneId": "ET0404",
+    "name": {
+      "en": "Gera"
+    },
+    "latLong": [
+      7.69083057,
+      36.24236857
+    ]
+  },
+  {
+    "id": "ET040409",
+    "zoneId": "ET0404",
+    "name": {
+      "en": "Seka Chekorsa"
+    },
+    "latLong": [
+      7.5426233,
+      36.71032792
+    ]
+  },
+  {
+    "id": "ET040410",
+    "zoneId": "ET0404",
+    "name": {
+      "en": "Dedo"
+    },
+    "latLong": [
+      7.4520686,
+      36.85035274
+    ]
+  },
+  {
+    "id": "ET040411",
+    "zoneId": "ET0404",
+    "name": {
+      "en": "Omo Nada"
+    },
+    "latLong": [
+      7.64753002,
+      37.15919569
+    ]
+  },
+  {
+    "id": "ET040412",
+    "zoneId": "ET0404",
+    "name": {
+      "en": "Sigmo"
+    },
+    "latLong": [
+      7.93508567,
+      36.02741554
+    ]
+  },
+  {
+    "id": "ET040413",
+    "zoneId": "ET0404",
+    "name": {
+      "en": "Setema"
+    },
+    "latLong": [
+      8.0461224,
+      36.237731
+    ]
+  },
+  {
+    "id": "ET040414",
+    "zoneId": "ET0404",
+    "name": {
+      "en": "Shebe Sambo"
+    },
+    "latLong": [
+      7.50948463,
+      36.44590251
+    ]
+  },
+  {
+    "id": "ET040415",
+    "zoneId": "ET0404",
+    "name": {
+      "en": "Chora (Jimma)"
+    },
+    "latLong": [
+      8.37042113,
+      37.13047425
+    ]
+  },
+  {
+    "id": "ET040416",
+    "zoneId": "ET0404",
+    "name": {
+      "en": "Gumay"
+    },
+    "latLong": [
+      7.95363921,
+      36.39490142
+    ]
+  },
+  {
+    "id": "ET040417",
+    "zoneId": "ET0404",
+    "name": {
+      "en": "Agaro town"
+    },
+    "latLong": [
+      7.85703714,
+      36.58600235
+    ]
+  },
+  {
+    "id": "ET040418",
+    "zoneId": "ET0404",
+    "name": {
+      "en": "Jimma town"
+    },
+    "latLong": [
+      7.66467686,
+      36.8202532
+    ]
+  },
+  {
+    "id": "ET040490",
+    "zoneId": "ET0404",
+    "name": {
+      "en": "Mancho"
+    },
+    "latLong": [
+      7.4225993,
+      37.03295461
+    ]
+  },
+  {
+    "id": "ET040491",
+    "zoneId": "ET0404",
+    "name": {
+      "en": "Omo Beyam"
+    },
+    "latLong": [
+      7.45469858,
+      37.25462718
+    ]
+  },
+  {
+    "id": "ET040495",
+    "zoneId": "ET0404",
+    "name": {
+      "en": "Botor Tolay"
+    },
+    "latLong": [
+      8.28425148,
+      37.35096807
+    ]
+  },
+  {
+    "id": "ET040499",
+    "zoneId": "ET0404",
+    "name": {
+      "en": "Nono Benja"
+    },
+    "latLong": [
+      8.66685047,
+      37.0831134
+    ]
+  },
+  {
+    "id": "ET040500",
+    "zoneId": "ET0405",
+    "name": {
+      "en": "Illu Galan"
+    },
+    "latLong": [
+      8.9608093,
+      37.30228008
+    ]
+  },
+  {
+    "id": "ET040501",
+    "zoneId": "ET0405",
+    "name": {
+      "en": "Ginde Beret"
+    },
+    "latLong": [
+      9.61238628,
+      37.76833258
+    ]
+  },
+  {
+    "id": "ET040502",
+    "zoneId": "ET0405",
+    "name": {
+      "en": "Jeldu"
+    },
+    "latLong": [
+      9.31682599,
+      38.07394167
+    ]
+  },
+  {
+    "id": "ET040503",
+    "zoneId": "ET0405",
+    "name": {
+      "en": "Ambo Zuria"
+    },
+    "latLong": [
+      9.07799668,
+      37.83048844
+    ]
+  },
+  {
+    "id": "ET040504",
+    "zoneId": "ET0405",
+    "name": {
+      "en": "Mida Kegn"
+    },
+    "latLong": [
+      9.21722462,
+      37.56397028
+    ]
+  },
+  {
+    "id": "ET040505",
+    "zoneId": "ET0405",
+    "name": {
+      "en": "Cheliya"
+    },
+    "latLong": [
+      9.04239212,
+      37.4571121
+    ]
+  },
+  {
+    "id": "ET040506",
+    "zoneId": "ET0405",
+    "name": {
+      "en": "Bako Tibe"
+    },
+    "latLong": [
+      9.08785249,
+      37.15871365
+    ]
+  },
+  {
+    "id": "ET040507",
+    "zoneId": "ET0405",
+    "name": {
+      "en": "Dano"
+    },
+    "latLong": [
+      8.75094627,
+      37.28585749
+    ]
+  },
+  {
+    "id": "ET040508",
+    "zoneId": "ET0405",
+    "name": {
+      "en": "Nono"
+    },
+    "latLong": [
+      8.49477371,
+      37.44365862
+    ]
+  },
+  {
+    "id": "ET040509",
+    "zoneId": "ET0405",
+    "name": {
+      "en": "Tikur Enchini"
+    },
+    "latLong": [
+      8.78958466,
+      37.66447661
+    ]
+  },
+  {
+    "id": "ET040510",
+    "zoneId": "ET0405",
+    "name": {
+      "en": "Dendi"
+    },
+    "latLong": [
+      8.96465946,
+      38.09237412
+    ]
+  },
+  {
+    "id": "ET040511",
+    "zoneId": "ET0405",
+    "name": {
+      "en": "Ejere /Addis Alem"
+    },
+    "latLong": [
+      9.05052057,
+      38.39243927
+    ]
+  },
+  {
+    "id": "ET040513",
+    "zoneId": "ET0405",
+    "name": {
+      "en": "Adda Berga"
+    },
+    "latLong": [
+      9.4029278,
+      38.41927546
+    ]
+  },
+  {
+    "id": "ET040514",
+    "zoneId": "ET0405",
+    "name": {
+      "en": "Meta Robi"
+    },
+    "latLong": [
+      9.36095596,
+      38.23277484
+    ]
+  },
+  {
+    "id": "ET040515",
+    "zoneId": "ET0405",
+    "name": {
+      "en": "Ambo town"
+    },
+    "latLong": [
+      8.97527025,
+      37.86870846
+    ]
+  },
+  {
+    "id": "ET040516",
+    "zoneId": "ET0405",
+    "name": {
+      "en": "Abuna Ginde Beret"
+    },
+    "latLong": [
+      9.68218617,
+      37.98348033
+    ]
+  },
+  {
+    "id": "ET040517",
+    "zoneId": "ET0405",
+    "name": {
+      "en": "Toke Kutaye"
+    },
+    "latLong": [
+      8.95136435,
+      37.70172955
+    ]
+  },
+  {
+    "id": "ET040518",
+    "zoneId": "ET0405",
+    "name": {
+      "en": "Jibat"
+    },
+    "latLong": [
+      8.73432025,
+      37.46624991
+    ]
+  },
+  {
+    "id": "ET040519",
+    "zoneId": "ET0405",
+    "name": {
+      "en": "Ifata"
+    },
+    "latLong": [
+      9.17506923,
+      37.9370456
+    ]
+  },
+  {
+    "id": "ET040590",
+    "zoneId": "ET0405",
+    "name": {
+      "en": "Ejersa Lafo"
+    },
+    "latLong": [
+      9.00908409,
+      38.2673915
+    ]
+  },
+  {
+    "id": "ET040592",
+    "zoneId": "ET0405",
+    "name": {
+      "en": "Cobi"
+    },
+    "latLong": [
+      9.36305539,
+      37.86100687
+    ]
+  },
+  {
+    "id": "ET040594",
+    "zoneId": "ET0405",
+    "name": {
+      "en": "Meta Walkite"
+    },
+    "latLong": [
+      9.55991438,
+      38.21319261
+    ]
+  },
+  {
+    "id": "ET040597",
+    "zoneId": "ET0405",
+    "name": {
+      "en": "Liban Jawi"
+    },
+    "latLong": [
+      8.93673079,
+      37.54064462
+    ]
+  },
+  {
+    "id": "ET040601",
+    "zoneId": "ET0406",
+    "name": {
+      "en": "Wara Jarso"
+    },
+    "latLong": [
+      9.98527757,
+      38.23797946
+    ]
+  },
+  {
+    "id": "ET040602",
+    "zoneId": "ET0406",
+    "name": {
+      "en": "Dera (OR)"
+    },
+    "latLong": [
+      10.21653831,
+      38.62645648
+    ]
+  },
+  {
+    "id": "ET040603",
+    "zoneId": "ET0406",
+    "name": {
+      "en": "Hidabu Abote"
+    },
+    "latLong": [
+      9.94159132,
+      38.49418275
+    ]
+  },
+  {
+    "id": "ET040604",
+    "zoneId": "ET0406",
+    "name": {
+      "en": "Kuyu"
+    },
+    "latLong": [
+      9.74582655,
+      38.28466327
+    ]
+  },
+  {
+    "id": "ET040605",
+    "zoneId": "ET0406",
+    "name": {
+      "en": "Degem"
+    },
+    "latLong": [
+      9.79863684,
+      38.60627785
+    ]
+  },
+  {
+    "id": "ET040606",
+    "zoneId": "ET0406",
+    "name": {
+      "en": "Gerar Jarso"
+    },
+    "latLong": [
+      9.82175322,
+      38.74346314
+    ]
+  },
+  {
+    "id": "ET040607",
+    "zoneId": "ET0406",
+    "name": {
+      "en": "Debre Libanos"
+    },
+    "latLong": [
+      9.664349,
+      38.84197279
+    ]
+  },
+  {
+    "id": "ET040608",
+    "zoneId": "ET0406",
+    "name": {
+      "en": "Wuchale"
+    },
+    "latLong": [
+      9.59765466,
+      39.01963415
+    ]
+  },
+  {
+    "id": "ET040609",
+    "zoneId": "ET0406",
+    "name": {
+      "en": "Abichugna Gne'a"
+    },
+    "latLong": [
+      9.60846651,
+      39.2486519
+    ]
+  },
+  {
+    "id": "ET040610",
+    "zoneId": "ET0406",
+    "name": {
+      "en": "Kimbibit"
+    },
+    "latLong": [
+      9.37618522,
+      39.18785313
+    ]
+  },
+  {
+    "id": "ET040613",
+    "zoneId": "ET0406",
+    "name": {
+      "en": "Fiche town"
+    },
+    "latLong": [
+      9.78836531,
+      38.73307344
+    ]
+  },
+  {
+    "id": "ET040614",
+    "zoneId": "ET0406",
+    "name": {
+      "en": "Yaya Gulele"
+    },
+    "latLong": [
+      9.59202341,
+      38.60367325
+    ]
+  },
+  {
+    "id": "ET040615",
+    "zoneId": "ET0406",
+    "name": {
+      "en": "Jida"
+    },
+    "latLong": [
+      9.4065161,
+      39.01126579
+    ]
+  },
+  {
+    "id": "ET040617",
+    "zoneId": "ET0406",
+    "name": {
+      "en": "Aleltu"
+    },
+    "latLong": [
+      9.21025689,
+      39.09197591
+    ]
+  },
+  {
+    "id": "ET040701",
+    "zoneId": "ET0407",
+    "name": {
+      "en": "Fentale"
+    },
+    "latLong": [
+      8.90340111,
+      39.82913917
+    ]
+  },
+  {
+    "id": "ET040702",
+    "zoneId": "ET0407",
+    "name": {
+      "en": "Boset"
+    },
+    "latLong": [
+      8.6126493,
+      39.54852727
+    ]
+  },
+  {
+    "id": "ET040703",
+    "zoneId": "ET0407",
+    "name": {
+      "en": "Adama"
+    },
+    "latLong": [
+      8.38838953,
+      39.19149629
+    ]
+  },
+  {
+    "id": "ET040704",
+    "zoneId": "ET0407",
+    "name": {
+      "en": "Lome (OR)"
+    },
+    "latLong": [
+      8.61337727,
+      39.18041607
+    ]
+  },
+  {
+    "id": "ET040705",
+    "zoneId": "ET0407",
+    "name": {
+      "en": "Gimbichu"
+    },
+    "latLong": [
+      8.97725236,
+      39.14613443
+    ]
+  },
+  {
+    "id": "ET040706",
+    "zoneId": "ET0407",
+    "name": {
+      "en": "Ada'a"
+    },
+    "latLong": [
+      8.75316957,
+      39.07288245
+    ]
+  },
+  {
+    "id": "ET040707",
+    "zoneId": "ET0407",
+    "name": {
+      "en": "Dugda"
+    },
+    "latLong": [
+      8.20511023,
+      38.80646095
+    ]
+  },
+  {
+    "id": "ET040708",
+    "zoneId": "ET0407",
+    "name": {
+      "en": "Adama Tulu Jido Kombolcha"
+    },
+    "latLong": [
+      7.81334459,
+      38.67875837
+    ]
+  },
+  {
+    "id": "ET040709",
+    "zoneId": "ET0407",
+    "name": {
+      "en": "Bishoftu town"
+    },
+    "latLong": [
+      8.77157539,
+      38.97061171
+    ]
+  },
+  {
+    "id": "ET040710",
+    "zoneId": "ET0407",
+    "name": {
+      "en": "Bora (OR)"
+    },
+    "latLong": [
+      8.26300524,
+      38.92437187
+    ]
+  },
+  {
+    "id": "ET040711",
+    "zoneId": "ET0407",
+    "name": {
+      "en": "Liben Chukala"
+    },
+    "latLong": [
+      8.50545115,
+      38.89155639
+    ]
+  },
+  {
+    "id": "ET040714",
+    "zoneId": "ET0407",
+    "name": {
+      "en": "Adama town"
+    },
+    "latLong": [
+      8.52124958,
+      39.25720102
+    ]
+  },
+  {
+    "id": "ET040797",
+    "zoneId": "ET0407",
+    "name": {
+      "en": "Mojo Town"
+    },
+    "latLong": [
+      8.58759718,
+      39.12736861
+    ]
+  },
+  {
+    "id": "ET040799",
+    "zoneId": "ET0407",
+    "name": {
+      "en": "Metehara town"
+    },
+    "latLong": [
+      8.89810002,
+      39.91938916
+    ]
+  },
+  {
+    "id": "ET040801",
+    "zoneId": "ET0408",
+    "name": {
+      "en": "Merti"
+    },
+    "latLong": [
+      8.50903374,
+      39.85824179
+    ]
+  },
+  {
+    "id": "ET040802",
+    "zoneId": "ET0408",
+    "name": {
+      "en": "Aseko"
+    },
+    "latLong": [
+      8.53931948,
+      40.07876928
+    ]
+  },
+  {
+    "id": "ET040803",
+    "zoneId": "ET0408",
+    "name": {
+      "en": "Golocha"
+    },
+    "latLong": [
+      8.21876856,
+      40.14877164
+    ]
+  },
+  {
+    "id": "ET040804",
+    "zoneId": "ET0408",
+    "name": {
+      "en": "Jeju"
+    },
+    "latLong": [
+      8.38080779,
+      39.66833867
+    ]
+  },
+  {
+    "id": "ET040805",
+    "zoneId": "ET0408",
+    "name": {
+      "en": "Dodota"
+    },
+    "latLong": [
+      8.30491591,
+      39.3331358
+    ]
+  },
+  {
+    "id": "ET040806",
+    "zoneId": "ET0408",
+    "name": {
+      "en": "Ziway Dugda"
+    },
+    "latLong": [
+      8.01743225,
+      39.01264962
+    ]
+  },
+  {
+    "id": "ET040807",
+    "zoneId": "ET0408",
+    "name": {
+      "en": "Hitosa"
+    },
+    "latLong": [
+      8.0670436,
+      39.21401148
+    ]
+  },
+  {
+    "id": "ET040808",
+    "zoneId": "ET0408",
+    "name": {
+      "en": "Sude"
+    },
+    "latLong": [
+      8.06161792,
+      39.7655078
+    ]
+  },
+  {
+    "id": "ET040809",
+    "zoneId": "ET0408",
+    "name": {
+      "en": "Chole"
+    },
+    "latLong": [
+      8.12310422,
+      39.93182774
+    ]
+  },
+  {
+    "id": "ET040810",
+    "zoneId": "ET0408",
+    "name": {
+      "en": "Amigna"
+    },
+    "latLong": [
+      7.88919068,
+      40.48640022
+    ]
+  },
+  {
+    "id": "ET040811",
+    "zoneId": "ET0408",
+    "name": {
+      "en": "Seru"
+    },
+    "latLong": [
+      7.68119321,
+      40.33494964
+    ]
+  },
+  {
+    "id": "ET040812",
+    "zoneId": "ET0408",
+    "name": {
+      "en": "Robe"
+    },
+    "latLong": [
+      7.70221126,
+      39.76261923
+    ]
+  },
+  {
+    "id": "ET040813",
+    "zoneId": "ET0408",
+    "name": {
+      "en": "Tena"
+    },
+    "latLong": [
+      7.79134653,
+      39.49032017
+    ]
+  },
+  {
+    "id": "ET040814",
+    "zoneId": "ET0408",
+    "name": {
+      "en": "Shirka"
+    },
+    "latLong": [
+      7.58747488,
+      39.54192555
+    ]
+  },
+  {
+    "id": "ET040815",
+    "zoneId": "ET0408",
+    "name": {
+      "en": "Degeluna Tijo"
+    },
+    "latLong": [
+      7.75449145,
+      39.20640256
+    ]
+  },
+  {
+    "id": "ET040816",
+    "zoneId": "ET0408",
+    "name": {
+      "en": "Tiyo"
+    },
+    "latLong": [
+      7.89858753,
+      39.1478399
+    ]
+  },
+  {
+    "id": "ET040817",
+    "zoneId": "ET0408",
+    "name": {
+      "en": "Munessa"
+    },
+    "latLong": [
+      7.56258169,
+      38.98746735
+    ]
+  },
+  {
+    "id": "ET040818",
+    "zoneId": "ET0408",
+    "name": {
+      "en": "Limu Bilbilo"
+    },
+    "latLong": [
+      7.41483426,
+      39.20909067
+    ]
+  },
+  {
+    "id": "ET040819",
+    "zoneId": "ET0408",
+    "name": {
+      "en": "Guna"
+    },
+    "latLong": [
+      8.31049149,
+      39.89530895
+    ]
+  },
+  {
+    "id": "ET040820",
+    "zoneId": "ET0408",
+    "name": {
+      "en": "Sire"
+    },
+    "latLong": [
+      8.30437823,
+      39.48657698
+    ]
+  },
+  {
+    "id": "ET040821",
+    "zoneId": "ET0408",
+    "name": {
+      "en": "Lude Hitosa"
+    },
+    "latLong": [
+      8.08527565,
+      39.41520674
+    ]
+  },
+  {
+    "id": "ET040822",
+    "zoneId": "ET0408",
+    "name": {
+      "en": "Diksis"
+    },
+    "latLong": [
+      8.05382393,
+      39.57085829
+    ]
+  },
+  {
+    "id": "ET040823",
+    "zoneId": "ET0408",
+    "name": {
+      "en": "Bele Gesgar"
+    },
+    "latLong": [
+      7.69794087,
+      40.00681094
+    ]
+  },
+  {
+    "id": "ET040824",
+    "zoneId": "ET0408",
+    "name": {
+      "en": "Inkolo Wabe"
+    },
+    "latLong": [
+      7.4211846,
+      39.43437258
+    ]
+  },
+  {
+    "id": "ET040825",
+    "zoneId": "ET0408",
+    "name": {
+      "en": "Asela town"
+    },
+    "latLong": [
+      7.94105476,
+      39.13766957
+    ]
+  },
+  {
+    "id": "ET040893",
+    "zoneId": "ET0408",
+    "name": {
+      "en": "Shanan Kolu"
+    },
+    "latLong": [
+      8.37546168,
+      40.24333227
+    ]
+  },
+  {
+    "id": "ET040894",
+    "zoneId": "ET0408",
+    "name": {
+      "en": "Bekoji town"
+    },
+    "latLong": [
+      7.53289477,
+      39.25246571
+    ]
+  },
+  {
+    "id": "ET040901",
+    "zoneId": "ET0409",
+    "name": {
+      "en": "Mieso"
+    },
+    "latLong": [
+      9.27576082,
+      40.69418961
+    ]
+  },
+  {
+    "id": "ET040902",
+    "zoneId": "ET0409",
+    "name": {
+      "en": "Doba"
+    },
+    "latLong": [
+      9.29281173,
+      41.09256358
+    ]
+  },
+  {
+    "id": "ET040903",
+    "zoneId": "ET0409",
+    "name": {
+      "en": "Tulo (OR)"
+    },
+    "latLong": [
+      9.17151398,
+      41.11960208
+    ]
+  },
+  {
+    "id": "ET040904",
+    "zoneId": "ET0409",
+    "name": {
+      "en": "Mesela"
+    },
+    "latLong": [
+      8.97377263,
+      41.16616638
+    ]
+  },
+  {
+    "id": "ET040905",
+    "zoneId": "ET0409",
+    "name": {
+      "en": "Chiro town"
+    },
+    "latLong": [
+      9.07870227,
+      40.86864037
+    ]
+  },
+  {
+    "id": "ET040906",
+    "zoneId": "ET0409",
+    "name": {
+      "en": "Anchar"
+    },
+    "latLong": [
+      8.70757462,
+      40.20910808
+    ]
+  },
+  {
+    "id": "ET040907",
+    "zoneId": "ET0409",
+    "name": {
+      "en": "Goba Koricha"
+    },
+    "latLong": [
+      8.91918368,
+      40.5748088
+    ]
+  },
+  {
+    "id": "ET040908",
+    "zoneId": "ET0409",
+    "name": {
+      "en": "Habro"
+    },
+    "latLong": [
+      8.73855367,
+      40.4729507
+    ]
+  },
+  {
+    "id": "ET040909",
+    "zoneId": "ET0409",
+    "name": {
+      "en": "Daro Lebu"
+    },
+    "latLong": [
+      8.47504412,
+      40.4837261
+    ]
+  },
+  {
+    "id": "ET040910",
+    "zoneId": "ET0409",
+    "name": {
+      "en": "Boke"
+    },
+    "latLong": [
+      8.62228253,
+      40.77172198
+    ]
+  },
+  {
+    "id": "ET040911",
+    "zoneId": "ET0409",
+    "name": {
+      "en": "Kuni /Oda Bultum"
+    },
+    "latLong": [
+      8.71659363,
+      40.85285907
+    ]
+  },
+  {
+    "id": "ET040912",
+    "zoneId": "ET0409",
+    "name": {
+      "en": "Gemechis"
+    },
+    "latLong": [
+      8.86810478,
+      40.96395597
+    ]
+  },
+  {
+    "id": "ET040913",
+    "zoneId": "ET0409",
+    "name": {
+      "en": "Chiro Zuria"
+    },
+    "latLong": [
+      9.08102736,
+      40.74730596
+    ]
+  },
+  {
+    "id": "ET040914",
+    "zoneId": "ET0409",
+    "name": {
+      "en": "Bedesa"
+    },
+    "latLong": [
+      8.90452431,
+      40.77485521
+    ]
+  },
+  {
+    "id": "ET040915",
+    "zoneId": "ET0409",
+    "name": {
+      "en": "Hawi Gudina"
+    },
+    "latLong": [
+      8.13241935,
+      40.73260287
+    ]
+  },
+  {
+    "id": "ET040991",
+    "zoneId": "ET0409",
+    "name": {
+      "en": "Gumbi Bordede"
+    },
+    "latLong": [
+      9.05184851,
+      40.41496995
+    ]
+  },
+  {
+    "id": "ET040998",
+    "zoneId": "ET0409",
+    "name": {
+      "en": "Burqua Dhintu"
+    },
+    "latLong": [
+      8.26963514,
+      41.17887839
+    ]
+  },
+  {
+    "id": "ET041000",
+    "zoneId": "ET0410",
+    "name": {
+      "en": "Babile town"
+    },
+    "latLong": [
+      9.22333071,
+      42.33243146
+    ]
+  },
+  {
+    "id": "ET041001",
+    "zoneId": "ET0410",
+    "name": {
+      "en": "Kombolcha"
+    },
+    "latLong": [
+      9.48529951,
+      42.14464584
+    ]
+  },
+  {
+    "id": "ET041002",
+    "zoneId": "ET0410",
+    "name": {
+      "en": "Jarso (East Hararghe)"
+    },
+    "latLong": [
+      9.54950467,
+      42.29212514
+    ]
+  },
+  {
+    "id": "ET041003",
+    "zoneId": "ET0410",
+    "name": {
+      "en": "Gursum (OR)"
+    },
+    "latLong": [
+      9.31437646,
+      42.42921176
+    ]
+  },
+  {
+    "id": "ET041004",
+    "zoneId": "ET0410",
+    "name": {
+      "en": "Babile (OR)"
+    },
+    "latLong": [
+      8.74748789,
+      42.63997093
+    ]
+  },
+  {
+    "id": "ET041005",
+    "zoneId": "ET0410",
+    "name": {
+      "en": "Fedis"
+    },
+    "latLong": [
+      9.07600658,
+      42.13883885
+    ]
+  },
+  {
+    "id": "ET041006",
+    "zoneId": "ET0410",
+    "name": {
+      "en": "Haro Maya"
+    },
+    "latLong": [
+      9.32016175,
+      41.94795165
+    ]
+  },
+  {
+    "id": "ET041007",
+    "zoneId": "ET0410",
+    "name": {
+      "en": "Kurfa Chele"
+    },
+    "latLong": [
+      9.21995009,
+      41.88004787
+    ]
+  },
+  {
+    "id": "ET041008",
+    "zoneId": "ET0410",
+    "name": {
+      "en": "Kersa (East Hararge)"
+    },
+    "latLong": [
+      9.37574486,
+      41.80709646
+    ]
+  },
+  {
+    "id": "ET041009",
+    "zoneId": "ET0410",
+    "name": {
+      "en": "Meta"
+    },
+    "latLong": [
+      9.37824634,
+      41.601332
+    ]
+  },
+  {
+    "id": "ET041010",
+    "zoneId": "ET0410",
+    "name": {
+      "en": "Goro Gutu"
+    },
+    "latLong": [
+      9.38921129,
+      41.35911911
+    ]
+  },
+  {
+    "id": "ET041011",
+    "zoneId": "ET0410",
+    "name": {
+      "en": "Deder"
+    },
+    "latLong": [
+      9.19477868,
+      41.42776997
+    ]
+  },
+  {
+    "id": "ET041012",
+    "zoneId": "ET0410",
+    "name": {
+      "en": "Melka Balo"
+    },
+    "latLong": [
+      8.87941842,
+      41.33646999
+    ]
+  },
+  {
+    "id": "ET041013",
+    "zoneId": "ET0410",
+    "name": {
+      "en": "Bedeno"
+    },
+    "latLong": [
+      9.08558148,
+      41.64512882
+    ]
+  },
+  {
+    "id": "ET041014",
+    "zoneId": "ET0410",
+    "name": {
+      "en": "Midhaga Tola"
+    },
+    "latLong": [
+      8.74863197,
+      42.23309221
+    ]
+  },
+  {
+    "id": "ET041015",
+    "zoneId": "ET0410",
+    "name": {
+      "en": "Chinaksen"
+    },
+    "latLong": [
+      9.57526054,
+      42.60119832
+    ]
+  },
+  {
+    "id": "ET041016",
+    "zoneId": "ET0410",
+    "name": {
+      "en": "Girawa"
+    },
+    "latLong": [
+      9.05266307,
+      41.87495432
+    ]
+  },
+  {
+    "id": "ET041017",
+    "zoneId": "ET0410",
+    "name": {
+      "en": "Golo Oda"
+    },
+    "latLong": [
+      8.59717088,
+      41.44760958
+    ]
+  },
+  {
+    "id": "ET041018",
+    "zoneId": "ET0410",
+    "name": {
+      "en": "Meyu Muleke"
+    },
+    "latLong": [
+      8.46391305,
+      41.90182554
+    ]
+  },
+  {
+    "id": "ET041019",
+    "zoneId": "ET0410",
+    "name": {
+      "en": "Haromaya town"
+    },
+    "latLong": [
+      9.39287015,
+      42.01285388
+    ]
+  },
+  {
+    "id": "ET041089",
+    "zoneId": "ET0410",
+    "name": {
+      "en": "Goro Muti"
+    },
+    "latLong": [
+      9.20500665,
+      41.5614701
+    ]
+  },
+  {
+    "id": "ET041097",
+    "zoneId": "ET0410",
+    "name": {
+      "en": "Deder town"
+    },
+    "latLong": [
+      9.31844024,
+      41.4407215
+    ]
+  },
+  {
+    "id": "ET041098",
+    "zoneId": "ET0410",
+    "name": {
+      "en": "Kumbi"
+    },
+    "latLong": [
+      8.08288983,
+      41.70745497
+    ]
+  },
+  {
+    "id": "ET041099",
+    "zoneId": "ET0410",
+    "name": {
+      "en": "Aweday town"
+    },
+    "latLong": [
+      9.35413413,
+      42.05866949
+    ]
+  },
+  {
+    "id": "ET041104",
+    "zoneId": "ET0411",
+    "name": {
+      "en": "Agarfa"
+    },
+    "latLong": [
+      7.31131077,
+      39.84627577
+    ]
+  },
+  {
+    "id": "ET041106",
+    "zoneId": "ET0411",
+    "name": {
+      "en": "Gasera"
+    },
+    "latLong": [
+      7.38112806,
+      40.13834705
+    ]
+  },
+  {
+    "id": "ET041109",
+    "zoneId": "ET0411",
+    "name": {
+      "en": "Sinana"
+    },
+    "latLong": [
+      7.10844905,
+      40.19594449
+    ]
+  },
+  {
+    "id": "ET041110",
+    "zoneId": "ET0411",
+    "name": {
+      "en": "Goba (OR)"
+    },
+    "latLong": [
+      6.85527138,
+      39.8794639
+    ]
+  },
+  {
+    "id": "ET041111",
+    "zoneId": "ET0411",
+    "name": {
+      "en": "Harena Buluk"
+    },
+    "latLong": [
+      6.42384566,
+      39.50268532
+    ]
+  },
+  {
+    "id": "ET041112",
+    "zoneId": "ET0411",
+    "name": {
+      "en": "Mena (Bale)"
+    },
+    "latLong": [
+      6.29413322,
+      40.01040421
+    ]
+  },
+  {
+    "id": "ET041113",
+    "zoneId": "ET0411",
+    "name": {
+      "en": "Meda Welabu"
+    },
+    "latLong": [
+      5.86395203,
+      39.78762295
+    ]
+  },
+  {
+    "id": "ET041114",
+    "zoneId": "ET0411",
+    "name": {
+      "en": "Berbere"
+    },
+    "latLong": [
+      6.67424373,
+      40.11539055
+    ]
+  },
+  {
+    "id": "ET041115",
+    "zoneId": "ET0411",
+    "name": {
+      "en": "Gura Damole"
+    },
+    "latLong": [
+      6.32598765,
+      40.58583149
+    ]
+  },
+  {
+    "id": "ET041116",
+    "zoneId": "ET0411",
+    "name": {
+      "en": "Goro (Bale)"
+    },
+    "latLong": [
+      6.93749492,
+      40.47424752
+    ]
+  },
+  {
+    "id": "ET041119",
+    "zoneId": "ET0411",
+    "name": {
+      "en": "Robe Town"
+    },
+    "latLong": [
+      7.12355609,
+      40.02906079
+    ]
+  },
+  {
+    "id": "ET041120",
+    "zoneId": "ET0411",
+    "name": {
+      "en": "Goba town"
+    },
+    "latLong": [
+      7.02201086,
+      39.96680855
+    ]
+  },
+  {
+    "id": "ET041122",
+    "zoneId": "ET0411",
+    "name": {
+      "en": "Dinsho"
+    },
+    "latLong": [
+      7.06752073,
+      39.76496513
+    ]
+  },
+  {
+    "id": "ET041207",
+    "zoneId": "ET0412",
+    "name": {
+      "en": "Yabelo"
+    },
+    "latLong": [
+      4.84464587,
+      38.20272996
+    ]
+  },
+  {
+    "id": "ET041208",
+    "zoneId": "ET0412",
+    "name": {
+      "en": "Arero"
+    },
+    "latLong": [
+      4.84729089,
+      38.90674165
+    ]
+  },
+  {
+    "id": "ET041210",
+    "zoneId": "ET0412",
+    "name": {
+      "en": "Moyale (OR)"
+    },
+    "latLong": [
+      3.90238844,
+      39.23246761
+    ]
+  },
+  {
+    "id": "ET041211",
+    "zoneId": "ET0412",
+    "name": {
+      "en": "Dire"
+    },
+    "latLong": [
+      3.96305602,
+      38.24569728
+    ]
+  },
+  {
+    "id": "ET041212",
+    "zoneId": "ET0412",
+    "name": {
+      "en": "Teltale"
+    },
+    "latLong": [
+      4.62614358,
+      37.07063989
+    ]
+  },
+  {
+    "id": "ET041216",
+    "zoneId": "ET0412",
+    "name": {
+      "en": "Miyo"
+    },
+    "latLong": [
+      3.85791618,
+      38.54031807
+    ]
+  },
+  {
+    "id": "ET041219",
+    "zoneId": "ET0412",
+    "name": {
+      "en": "Dilo"
+    },
+    "latLong": [
+      4.1960254,
+      37.77973826
+    ]
+  },
+  {
+    "id": "ET041220",
+    "zoneId": "ET0412",
+    "name": {
+      "en": "Dhas"
+    },
+    "latLong": [
+      4.20034913,
+      38.92965075
+    ]
+  },
+  {
+    "id": "ET041223",
+    "zoneId": "ET0412",
+    "name": {
+      "en": "Gomole"
+    },
+    "latLong": [
+      5.13509785,
+      38.24685897
+    ]
+  },
+  {
+    "id": "ET041290",
+    "zoneId": "ET0412",
+    "name": {
+      "en": "Guchi"
+    },
+    "latLong": [
+      3.76733471,
+      38.89427346
+    ]
+  },
+  {
+    "id": "ET041291",
+    "zoneId": "ET0412",
+    "name": {
+      "en": "Dubluk"
+    },
+    "latLong": [
+      4.41422663,
+      38.16381426
+    ]
+  },
+  {
+    "id": "ET041295",
+    "zoneId": "ET0412",
+    "name": {
+      "en": "Elwaya"
+    },
+    "latLong": [
+      4.94681472,
+      37.72329421
+    ]
+  },
+  {
+    "id": "ET041296",
+    "zoneId": "ET0412",
+    "name": {
+      "en": "Yabelo town"
+    },
+    "latLong": [
+      4.89422047,
+      38.10352497
+    ]
+  },
+  {
+    "id": "ET041298",
+    "zoneId": "ET0412",
+    "name": {
+      "en": "Wachile"
+    },
+    "latLong": [
+      4.47305989,
+      39.04883377
+    ]
+  },
+  {
+    "id": "ET041301",
+    "zoneId": "ET0413",
+    "name": {
+      "en": "Ameya"
+    },
+    "latLong": [
+      8.57482712,
+      37.70903735
+    ]
+  },
+  {
+    "id": "ET041302",
+    "zoneId": "ET0413",
+    "name": {
+      "en": "Wenchi"
+    },
+    "latLong": [
+      8.65792583,
+      37.89929417
+    ]
+  },
+  {
+    "id": "ET041303",
+    "zoneId": "ET0413",
+    "name": {
+      "en": "Waliso"
+    },
+    "latLong": [
+      8.55004954,
+      38.06440903
+    ]
+  },
+  {
+    "id": "ET041304",
+    "zoneId": "ET0413",
+    "name": {
+      "en": "Dawo"
+    },
+    "latLong": [
+      8.80989062,
+      38.14249644
+    ]
+  },
+  {
+    "id": "ET041305",
+    "zoneId": "ET0413",
+    "name": {
+      "en": "Ilu"
+    },
+    "latLong": [
+      8.82824323,
+      38.34542673
+    ]
+  },
+  {
+    "id": "ET041307",
+    "zoneId": "ET0413",
+    "name": {
+      "en": "Kersana Malima"
+    },
+    "latLong": [
+      8.52343093,
+      38.49707476
+    ]
+  },
+  {
+    "id": "ET041308",
+    "zoneId": "ET0413",
+    "name": {
+      "en": "Tole"
+    },
+    "latLong": [
+      8.63149671,
+      38.39243212
+    ]
+  },
+  {
+    "id": "ET041309",
+    "zoneId": "ET0413",
+    "name": {
+      "en": "Becho (SW Shewa)"
+    },
+    "latLong": [
+      8.65396945,
+      38.22505679
+    ]
+  },
+  {
+    "id": "ET041310",
+    "zoneId": "ET0413",
+    "name": {
+      "en": "Seden Sodo"
+    },
+    "latLong": [
+      8.42654332,
+      38.25993067
+    ]
+  },
+  {
+    "id": "ET041311",
+    "zoneId": "ET0413",
+    "name": {
+      "en": "Woliso town"
+    },
+    "latLong": [
+      8.54368545,
+      37.97349936
+    ]
+  },
+  {
+    "id": "ET041312",
+    "zoneId": "ET0413",
+    "name": {
+      "en": "Goro (SW Shewa)"
+    },
+    "latLong": [
+      8.43274183,
+      37.8704521
+    ]
+  },
+  {
+    "id": "ET041314",
+    "zoneId": "ET0413",
+    "name": {
+      "en": "Sodo Daci"
+    },
+    "latLong": [
+      8.46899148,
+      38.61433974
+    ]
+  },
+  {
+    "id": "ET041401",
+    "zoneId": "ET0414",
+    "name": {
+      "en": "Uraga"
+    },
+    "latLong": [
+      6.06138497,
+      38.61126561
+    ]
+  },
+  {
+    "id": "ET041402",
+    "zoneId": "ET0414",
+    "name": {
+      "en": "Bore"
+    },
+    "latLong": [
+      6.34222965,
+      38.68807558
+    ]
+  },
+  {
+    "id": "ET041403",
+    "zoneId": "ET0414",
+    "name": {
+      "en": "Adola"
+    },
+    "latLong": [
+      5.96674635,
+      38.98940245
+    ]
+  },
+  {
+    "id": "ET041404",
+    "zoneId": "ET0414",
+    "name": {
+      "en": "Wadera"
+    },
+    "latLong": [
+      5.8486563,
+      39.28908814
+    ]
+  },
+  {
+    "id": "ET041405",
+    "zoneId": "ET0414",
+    "name": {
+      "en": "Odo Shakiso"
+    },
+    "latLong": [
+      5.76248282,
+      38.75441802
+    ]
+  },
+  {
+    "id": "ET041407",
+    "zoneId": "ET0414",
+    "name": {
+      "en": "Liben"
+    },
+    "latLong": [
+      5.27390266,
+      39.67422686
+    ]
+  },
+  {
+    "id": "ET041408",
+    "zoneId": "ET0414",
+    "name": {
+      "en": "Dama"
+    },
+    "latLong": [
+      6.26352131,
+      38.53669417
+    ]
+  },
+  {
+    "id": "ET041409",
+    "zoneId": "ET0414",
+    "name": {
+      "en": "Arda Jila"
+    },
+    "latLong": [
+      6.07556023,
+      38.77568393
+    ]
+  },
+  {
+    "id": "ET041410",
+    "zoneId": "ET0414",
+    "name": {
+      "en": "Girja /Harenfema"
+    },
+    "latLong": [
+      6.16465833,
+      39.22650685
+    ]
+  },
+  {
+    "id": "ET041411",
+    "zoneId": "ET0414",
+    "name": {
+      "en": "Ana Sora"
+    },
+    "latLong": [
+      6.23583824,
+      38.78999214
+    ]
+  },
+  {
+    "id": "ET041412",
+    "zoneId": "ET0414",
+    "name": {
+      "en": "Saba Boru"
+    },
+    "latLong": [
+      5.41235668,
+      39.05988348
+    ]
+  },
+  {
+    "id": "ET041413",
+    "zoneId": "ET0414",
+    "name": {
+      "en": "Gora Dola"
+    },
+    "latLong": [
+      5.35932819,
+      39.32364855
+    ]
+  },
+  {
+    "id": "ET041414",
+    "zoneId": "ET0414",
+    "name": {
+      "en": "Negele town"
+    },
+    "latLong": [
+      5.34272153,
+      39.58646507
+    ]
+  },
+  {
+    "id": "ET041482",
+    "zoneId": "ET0414",
+    "name": {
+      "en": "Aga Wayu"
+    },
+    "latLong": [
+      5.44917539,
+      38.79692382
+    ]
+  },
+  {
+    "id": "ET041490",
+    "zoneId": "ET0414",
+    "name": {
+      "en": "Haro Walabu"
+    },
+    "latLong": [
+      6.11043215,
+      38.43762834
+    ]
+  },
+  {
+    "id": "ET041492",
+    "zoneId": "ET0414",
+    "name": {
+      "en": "Adola town"
+    },
+    "latLong": [
+      5.87678584,
+      38.98584094
+    ]
+  },
+  {
+    "id": "ET041497",
+    "zoneId": "ET0414",
+    "name": {
+      "en": "Gumi Idalo"
+    },
+    "latLong": [
+      4.92435975,
+      39.48795331
+    ]
+  },
+  {
+    "id": "ET041499",
+    "zoneId": "ET0414",
+    "name": {
+      "en": "Shakiso town"
+    },
+    "latLong": [
+      5.77406051,
+      38.90859293
+    ]
+  },
+  {
+    "id": "ET041501",
+    "zoneId": "ET0415",
+    "name": {
+      "en": "Bule Hora"
+    },
+    "latLong": [
+      5.64858539,
+      38.34521683
+    ]
+  },
+  {
+    "id": "ET041502",
+    "zoneId": "ET0415",
+    "name": {
+      "en": "Kercha"
+    },
+    "latLong": [
+      5.74910269,
+      38.44178746
+    ]
+  },
+  {
+    "id": "ET041509",
+    "zoneId": "ET0415",
+    "name": {
+      "en": "Hambela Wamena"
+    },
+    "latLong": [
+      5.94419404,
+      38.47386885
+    ]
+  },
+  {
+    "id": "ET041513",
+    "zoneId": "ET0415",
+    "name": {
+      "en": "Abaya"
+    },
+    "latLong": [
+      6.34988056,
+      38.06041337
+    ]
+  },
+  {
+    "id": "ET041515",
+    "zoneId": "ET0415",
+    "name": {
+      "en": "Dugda Dawa"
+    },
+    "latLong": [
+      5.33110471,
+      38.15557425
+    ]
+  },
+  {
+    "id": "ET041517",
+    "zoneId": "ET0415",
+    "name": {
+      "en": "Gelana (West Guji)"
+    },
+    "latLong": [
+      5.96892328,
+      38.03192732
+    ]
+  },
+  {
+    "id": "ET041518",
+    "zoneId": "ET0415",
+    "name": {
+      "en": "Melka Soda"
+    },
+    "latLong": [
+      5.41896017,
+      38.56342039
+    ]
+  },
+  {
+    "id": "ET041587",
+    "zoneId": "ET0415",
+    "name": {
+      "en": "Bule Hora town"
+    },
+    "latLong": [
+      5.64678148,
+      38.23585123
+    ]
+  },
+  {
+    "id": "ET041594",
+    "zoneId": "ET0415",
+    "name": {
+      "en": "Suro Berguda"
+    },
+    "latLong": [
+      5.54505762,
+      38.04265751
+    ]
+  },
+  {
+    "id": "ET041596",
+    "zoneId": "ET0415",
+    "name": {
+      "en": "Birbirsa Kojowa"
+    },
+    "latLong": [
+      5.72253247,
+      38.58304492
+    ]
+  },
+  {
+    "id": "ET041603",
+    "zoneId": "ET0416",
+    "name": {
+      "en": "Chora (Buno Bedele)"
+    },
+    "latLong": [
+      8.39199686,
+      36.12930032
+    ]
+  },
+  {
+    "id": "ET041604",
+    "zoneId": "ET0416",
+    "name": {
+      "en": "Dega"
+    },
+    "latLong": [
+      8.60574946,
+      36.13845751
+    ]
+  },
+  {
+    "id": "ET041605",
+    "zoneId": "ET0416",
+    "name": {
+      "en": "Dabo Hana"
+    },
+    "latLong": [
+      8.71598154,
+      36.27107666
+    ]
+  },
+  {
+    "id": "ET041606",
+    "zoneId": "ET0416",
+    "name": {
+      "en": "Gechi"
+    },
+    "latLong": [
+      8.38944337,
+      36.48376523
+    ]
+  },
+  {
+    "id": "ET041607",
+    "zoneId": "ET0416",
+    "name": {
+      "en": "Borecha"
+    },
+    "latLong": [
+      8.34858992,
+      36.62666672
+    ]
+  },
+  {
+    "id": "ET041608",
+    "zoneId": "ET0416",
+    "name": {
+      "en": "Dedesa"
+    },
+    "latLong": [
+      8.12007696,
+      36.59246809
+    ]
+  },
+  {
+    "id": "ET041618",
+    "zoneId": "ET0416",
+    "name": {
+      "en": "Meko"
+    },
+    "latLong": [
+      8.73840726,
+      36.01431783
+    ]
+  },
+  {
+    "id": "ET041621",
+    "zoneId": "ET0416",
+    "name": {
+      "en": "Bedele town"
+    },
+    "latLong": [
+      8.45290471,
+      36.35188149
+    ]
+  },
+  {
+    "id": "ET041622",
+    "zoneId": "ET0416",
+    "name": {
+      "en": "Bedele Zuria"
+    },
+    "latLong": [
+      8.43746061,
+      36.3900469
+    ]
+  },
+  {
+    "id": "ET041623",
+    "zoneId": "ET0416",
+    "name": {
+      "en": "Chwaka"
+    },
+    "latLong": [
+      8.9148052,
+      36.14152878
+    ]
+  },
+  {
+    "id": "ET041700",
+    "zoneId": "ET0417",
+    "name": {
+      "en": "Dodola town"
+    },
+    "latLong": [
+      6.97776632,
+      39.18071587
+    ]
+  },
+  {
+    "id": "ET041701",
+    "zoneId": "ET0417",
+    "name": {
+      "en": "Siraro"
+    },
+    "latLong": [
+      7.1161411,
+      38.18406321
+    ]
+  },
+  {
+    "id": "ET041702",
+    "zoneId": "ET0417",
+    "name": {
+      "en": "Shala"
+    },
+    "latLong": [
+      7.31273115,
+      38.38656181
+    ]
+  },
+  {
+    "id": "ET041703",
+    "zoneId": "ET0417",
+    "name": {
+      "en": "Arsi Negele"
+    },
+    "latLong": [
+      7.41625261,
+      38.6681326
+    ]
+  },
+  {
+    "id": "ET041704",
+    "zoneId": "ET0417",
+    "name": {
+      "en": "Kofele"
+    },
+    "latLong": [
+      7.00039603,
+      38.85689868
+    ]
+  },
+  {
+    "id": "ET041705",
+    "zoneId": "ET0417",
+    "name": {
+      "en": "Kore"
+    },
+    "latLong": [
+      7.21056359,
+      38.90038343
+    ]
+  },
+  {
+    "id": "ET041706",
+    "zoneId": "ET0417",
+    "name": {
+      "en": "Gedeb Asasa"
+    },
+    "latLong": [
+      7.19442908,
+      39.1752538
+    ]
+  },
+  {
+    "id": "ET041707",
+    "zoneId": "ET0417",
+    "name": {
+      "en": "Dodola"
+    },
+    "latLong": [
+      6.89712356,
+      39.12263432
+    ]
+  },
+  {
+    "id": "ET041708",
+    "zoneId": "ET0417",
+    "name": {
+      "en": "Kokosa"
+    },
+    "latLong": [
+      6.80162538,
+      38.76650872
+    ]
+  },
+  {
+    "id": "ET041709",
+    "zoneId": "ET0417",
+    "name": {
+      "en": "Nenesebo"
+    },
+    "latLong": [
+      6.53909425,
+      39.23075713
+    ]
+  },
+  {
+    "id": "ET041710",
+    "zoneId": "ET0417",
+    "name": {
+      "en": "Adaba"
+    },
+    "latLong": [
+      7.03460395,
+      39.52159332
+    ]
+  },
+  {
+    "id": "ET041711",
+    "zoneId": "ET0417",
+    "name": {
+      "en": "Shashemene town"
+    },
+    "latLong": [
+      7.20158586,
+      38.6020528
+    ]
+  },
+  {
+    "id": "ET041712",
+    "zoneId": "ET0417",
+    "name": {
+      "en": "Shashemene Zuria"
+    },
+    "latLong": [
+      7.22782195,
+      38.56704989
+    ]
+  },
+  {
+    "id": "ET041783",
+    "zoneId": "ET0417",
+    "name": {
+      "en": "Heban Arsi"
+    },
+    "latLong": [
+      7.52904931,
+      38.79100335
+    ]
+  },
+  {
+    "id": "ET041797",
+    "zoneId": "ET0417",
+    "name": {
+      "en": "Wondo"
+    },
+    "latLong": [
+      7.11490424,
+      38.63521478
+    ]
+  },
+  {
+    "id": "ET041798",
+    "zoneId": "ET0417",
+    "name": {
+      "en": "Bishan Guracha"
+    },
+    "latLong": [
+      7.11955842,
+      38.47722973
+    ]
+  },
+  {
+    "id": "ET041799",
+    "zoneId": "ET0417",
+    "name": {
+      "en": "Arsi Negele town"
+    },
+    "latLong": [
+      7.33379647,
+      38.67595239
+    ]
+  },
+  {
+    "id": "ET041801",
+    "zoneId": "ET0418",
+    "name": {
+      "en": "Hawa Galan"
+    },
+    "latLong": [
+      8.6243011,
+      34.9599881
+    ]
+  },
+  {
+    "id": "ET041802",
+    "zoneId": "ET0418",
+    "name": {
+      "en": "Yama Logi Welel"
+    },
+    "latLong": [
+      8.8112315,
+      34.86470006
+    ]
+  },
+  {
+    "id": "ET041803",
+    "zoneId": "ET0418",
+    "name": {
+      "en": "Dale Wabera"
+    },
+    "latLong": [
+      9.04873956,
+      35.06139977
+    ]
+  },
+  {
+    "id": "ET041804",
+    "zoneId": "ET0418",
+    "name": {
+      "en": "Gawo Kebe"
+    },
+    "latLong": [
+      9.14052985,
+      34.92441699
+    ]
+  },
+  {
+    "id": "ET041805",
+    "zoneId": "ET0418",
+    "name": {
+      "en": "Sayo"
+    },
+    "latLong": [
+      8.49282157,
+      34.81615138
+    ]
+  },
+  {
+    "id": "ET041806",
+    "zoneId": "ET0418",
+    "name": {
+      "en": "Denbi Dollo town"
+    },
+    "latLong": [
+      8.53435848,
+      34.80317831
+    ]
+  },
+  {
+    "id": "ET041807",
+    "zoneId": "ET0418",
+    "name": {
+      "en": "Anfilo"
+    },
+    "latLong": [
+      8.5967032,
+      34.5223193
+    ]
+  },
+  {
+    "id": "ET041808",
+    "zoneId": "ET0418",
+    "name": {
+      "en": "Dale Sadi"
+    },
+    "latLong": [
+      8.91224575,
+      35.20862779
+    ]
+  },
+  {
+    "id": "ET041809",
+    "zoneId": "ET0418",
+    "name": {
+      "en": "Gidami"
+    },
+    "latLong": [
+      8.91882446,
+      34.41105898
+    ]
+  },
+  {
+    "id": "ET041810",
+    "zoneId": "ET0418",
+    "name": {
+      "en": "Jimma Horo"
+    },
+    "latLong": [
+      9.02491123,
+      34.7700036
+    ]
+  },
+  {
+    "id": "ET041811",
+    "zoneId": "ET0418",
+    "name": {
+      "en": "Lalo Kile"
+    },
+    "latLong": [
+      8.89030777,
+      35.3580971
+    ]
+  },
+  {
+    "id": "ET041812",
+    "zoneId": "ET0418",
+    "name": {
+      "en": "Sedi Chenka"
+    },
+    "latLong": [
+      8.77027247,
+      35.09984634
+    ]
+  },
+  {
+    "id": "ET041901",
+    "zoneId": "ET0419",
+    "name": {
+      "en": "Horo"
+    },
+    "latLong": [
+      9.54328829,
+      37.0598942
+    ]
+  },
+  {
+    "id": "ET041902",
+    "zoneId": "ET0419",
+    "name": {
+      "en": "Shambu town"
+    },
+    "latLong": [
+      9.56889676,
+      37.10340286
+    ]
+  },
+  {
+    "id": "ET041903",
+    "zoneId": "ET0419",
+    "name": {
+      "en": "Guduru"
+    },
+    "latLong": [
+      9.46607065,
+      37.41198141
+    ]
+  },
+  {
+    "id": "ET041904",
+    "zoneId": "ET0419",
+    "name": {
+      "en": "Ababo"
+    },
+    "latLong": [
+      9.8050217,
+      37.55679945
+    ]
+  },
+  {
+    "id": "ET041905",
+    "zoneId": "ET0419",
+    "name": {
+      "en": "Abay Chomen"
+    },
+    "latLong": [
+      9.76301686,
+      37.36828481
+    ]
+  },
+  {
+    "id": "ET041906",
+    "zoneId": "ET0419",
+    "name": {
+      "en": "Jimma Genete"
+    },
+    "latLong": [
+      9.38679396,
+      37.11424057
+    ]
+  },
+  {
+    "id": "ET041907",
+    "zoneId": "ET0419",
+    "name": {
+      "en": "Jimma Rare"
+    },
+    "latLong": [
+      9.25262957,
+      37.32827758
+    ]
+  },
+  {
+    "id": "ET041908",
+    "zoneId": "ET0419",
+    "name": {
+      "en": "Jarte Jardega"
+    },
+    "latLong": [
+      9.89826309,
+      37.15889623
+    ]
+  },
+  {
+    "id": "ET041909",
+    "zoneId": "ET0419",
+    "name": {
+      "en": "Amuru"
+    },
+    "latLong": [
+      10.07528157,
+      37.04678296
+    ]
+  },
+  {
+    "id": "ET041910",
+    "zoneId": "ET0419",
+    "name": {
+      "en": "Abe Dongoro"
+    },
+    "latLong": [
+      9.60987542,
+      36.83181572
+    ]
+  },
+  {
+    "id": "ET041911",
+    "zoneId": "ET0419",
+    "name": {
+      "en": "Choman Guduru"
+    },
+    "latLong": [
+      9.38036985,
+      37.33361675
+    ]
+  },
+  {
+    "id": "ET041912",
+    "zoneId": "ET0419",
+    "name": {
+      "en": "Horo Buluk"
+    },
+    "latLong": [
+      9.72919076,
+      37.13120827
+    ]
+  },
+  {
+    "id": "ET042001",
+    "zoneId": "ET0420",
+    "name": {
+      "en": "Burayu"
+    },
+    "latLong": [
+      9.04174364,
+      38.63219944
+    ]
+  },
+  {
+    "id": "ET042004",
+    "zoneId": "ET0420",
+    "name": {
+      "en": "Lege Tafo-Lege Dadi town"
+    },
+    "latLong": [
+      9.07204449,
+      38.90313405
+    ]
+  },
+  {
+    "id": "ET042005",
+    "zoneId": "ET0420",
+    "name": {
+      "en": "Sululta town"
+    },
+    "latLong": [
+      9.17701132,
+      38.75789242
+    ]
+  },
+  {
+    "id": "ET042006",
+    "zoneId": "ET0420",
+    "name": {
+      "en": "Sebeta Hawas"
+    },
+    "latLong": [
+      8.82157146,
+      38.56891678
+    ]
+  },
+  {
+    "id": "ET042008",
+    "zoneId": "ET0420",
+    "name": {
+      "en": "Dukem"
+    },
+    "latLong": [
+      8.79269007,
+      38.90149614
+    ]
+  },
+  {
+    "id": "ET042009",
+    "zoneId": "ET0420",
+    "name": {
+      "en": "Sebeta town"
+    },
+    "latLong": [
+      8.91502741,
+      38.6559872
+    ]
+  },
+  {
+    "id": "ET042011",
+    "zoneId": "ET0420",
+    "name": {
+      "en": "Bereh"
+    },
+    "latLong": [
+      9.08651722,
+      39.01748426
+    ]
+  },
+  {
+    "id": "ET042012",
+    "zoneId": "ET0420",
+    "name": {
+      "en": "Akaki"
+    },
+    "latLong": [
+      8.76388196,
+      38.79239947
+    ]
+  },
+  {
+    "id": "ET042013",
+    "zoneId": "ET0420",
+    "name": {
+      "en": "Sululta"
+    },
+    "latLong": [
+      9.29742065,
+      38.75642595
+    ]
+  },
+  {
+    "id": "ET042014",
+    "zoneId": "ET0420",
+    "name": {
+      "en": "Welmera"
+    },
+    "latLong": [
+      9.04925373,
+      38.55128443
+    ]
+  },
+  {
+    "id": "ET042016",
+    "zoneId": "ET0420",
+    "name": {
+      "en": "Mulo"
+    },
+    "latLong": [
+      9.29080938,
+      38.57643414
+    ]
+  },
+  {
+    "id": "ET042018",
+    "zoneId": "ET0420",
+    "name": {
+      "en": "Sendafa town"
+    },
+    "latLong": [
+      9.15390165,
+      39.02262312
+    ]
+  },
+  {
+    "id": "ET042020",
+    "zoneId": "ET0420",
+    "name": {
+      "en": "Holeta town"
+    },
+    "latLong": [
+      9.05479566,
+      38.49644509
+    ]
+  },
+  {
+    "id": "ET042098",
+    "zoneId": "ET0420",
+    "name": {
+      "en": "Gelana (Finfine)"
+    },
+    "latLong": [
+      8.82202577,
+      38.83361147
+    ]
+  },
+  {
+    "id": "ET042101",
+    "zoneId": "ET0421",
+    "name": {
+      "en": "Gololcha Bale"
+    },
+    "latLong": [
+      7.54732038,
+      40.60333605
+    ]
+  },
+  {
+    "id": "ET042102",
+    "zoneId": "ET0421",
+    "name": {
+      "en": "Lege Hida"
+    },
+    "latLong": [
+      7.73198608,
+      41.43620337
+    ]
+  },
+  {
+    "id": "ET042103",
+    "zoneId": "ET0421",
+    "name": {
+      "en": "Ginir"
+    },
+    "latLong": [
+      7.05330451,
+      40.79517689
+    ]
+  },
+  {
+    "id": "ET042104",
+    "zoneId": "ET0421",
+    "name": {
+      "en": "Rayitu"
+    },
+    "latLong": [
+      6.749096,
+      41.49314278
+    ]
+  },
+  {
+    "id": "ET042105",
+    "zoneId": "ET0421",
+    "name": {
+      "en": "Seweyna"
+    },
+    "latLong": [
+      7.15691065,
+      41.53695718
+    ]
+  },
+  {
+    "id": "ET042106",
+    "zoneId": "ET0421",
+    "name": {
+      "en": "Dawe Ketchen"
+    },
+    "latLong": [
+      6.64350951,
+      40.83197778
+    ]
+  },
+  {
+    "id": "ET042107",
+    "zoneId": "ET0421",
+    "name": {
+      "en": "Ginir town"
+    },
+    "latLong": [
+      7.13533677,
+      40.73296464
+    ]
+  },
+  {
+    "id": "ET050101",
+    "zoneId": "ET0501",
+    "name": {
+      "en": "Ayisha"
+    },
+    "latLong": [
+      10.61302021,
+      42.54002634
+    ]
+  },
+  {
+    "id": "ET050102",
+    "zoneId": "ET0501",
+    "name": {
+      "en": "Dembel"
+    },
+    "latLong": [
+      9.92120615,
+      42.52214646
+    ]
+  },
+  {
+    "id": "ET050103",
+    "zoneId": "ET0501",
+    "name": {
+      "en": "Shinile"
+    },
+    "latLong": [
+      9.90467146,
+      41.88013179
+    ]
+  },
+  {
+    "id": "ET050104",
+    "zoneId": "ET0501",
+    "name": {
+      "en": "Erer (SM)"
+    },
+    "latLong": [
+      9.905382,
+      41.37722576
+    ]
+  },
+  {
+    "id": "ET050105",
+    "zoneId": "ET0501",
+    "name": {
+      "en": "Afdem"
+    },
+    "latLong": [
+      10.08174041,
+      41.03078078
+    ]
+  },
+  {
+    "id": "ET050106",
+    "zoneId": "ET0501",
+    "name": {
+      "en": "Hadhagala"
+    },
+    "latLong": [
+      10.43450843,
+      42.15983253
+    ]
+  },
+  {
+    "id": "ET050107",
+    "zoneId": "ET0501",
+    "name": {
+      "en": "Miesso"
+    },
+    "latLong": [
+      9.49523474,
+      40.84567737
+    ]
+  },
+  {
+    "id": "ET050198",
+    "zoneId": "ET0501",
+    "name": {
+      "en": "Gota-Biki"
+    },
+    "latLong": [
+      9.71221313,
+      41.16130586
+    ]
+  },
+  {
+    "id": "ET050199",
+    "zoneId": "ET0501",
+    "name": {
+      "en": "Gablalu"
+    },
+    "latLong": [
+      10.58973446,
+      41.58544446
+    ]
+  },
+  {
+    "id": "ET050202",
+    "zoneId": "ET0502",
+    "name": {
+      "en": "Gursum (SM)"
+    },
+    "latLong": [
+      9.20448636,
+      42.6437448
+    ]
+  },
+  {
+    "id": "ET050203",
+    "zoneId": "ET0502",
+    "name": {
+      "en": "Babile (SM)"
+    },
+    "latLong": [
+      8.54820822,
+      42.25334939
+    ]
+  },
+  {
+    "id": "ET050204",
+    "zoneId": "ET0502",
+    "name": {
+      "en": "Shabeeley"
+    },
+    "latLong": [
+      9.09688294,
+      42.79278328
+    ]
+  },
+  {
+    "id": "ET050205",
+    "zoneId": "ET0502",
+    "name": {
+      "en": "Aw-Bare"
+    },
+    "latLong": [
+      9.59141506,
+      43.12468525
+    ]
+  },
+  {
+    "id": "ET050206",
+    "zoneId": "ET0502",
+    "name": {
+      "en": "Kebribeyah"
+    },
+    "latLong": [
+      9.13099011,
+      43.23086964
+    ]
+  },
+  {
+    "id": "ET050207",
+    "zoneId": "ET0502",
+    "name": {
+      "en": "Harshin"
+    },
+    "latLong": [
+      8.93822775,
+      43.77395156
+    ]
+  },
+  {
+    "id": "ET050283",
+    "zoneId": "ET0502",
+    "name": {
+      "en": "Tuliguled"
+    },
+    "latLong": [
+      9.44055352,
+      42.69015818
+    ]
+  },
+  {
+    "id": "ET050290",
+    "zoneId": "ET0502",
+    "name": {
+      "en": "Goljano"
+    },
+    "latLong": [
+      8.4637299,
+      42.92696033
+    ]
+  },
+  {
+    "id": "ET050293",
+    "zoneId": "ET0502",
+    "name": {
+      "en": "Jigjiga town"
+    },
+    "latLong": [
+      9.36901801,
+      42.80622079
+    ]
+  },
+  {
+    "id": "ET050295",
+    "zoneId": "ET0502",
+    "name": {
+      "en": "Wajale town"
+    },
+    "latLong": [
+      9.57581911,
+      43.32043495
+    ]
+  },
+  {
+    "id": "ET050296",
+    "zoneId": "ET0502",
+    "name": {
+      "en": "Kebribayah town"
+    },
+    "latLong": [
+      9.09608368,
+      43.18269304
+    ]
+  },
+  {
+    "id": "ET050297",
+    "zoneId": "ET0502",
+    "name": {
+      "en": "Koran /Mulla"
+    },
+    "latLong": [
+      8.71240748,
+      43.08698069
+    ]
+  },
+  {
+    "id": "ET050298",
+    "zoneId": "ET0502",
+    "name": {
+      "en": "Haroreys"
+    },
+    "latLong": [
+      9.35610052,
+      43.03909209
+    ]
+  },
+  {
+    "id": "ET050299",
+    "zoneId": "ET0502",
+    "name": {
+      "en": "Harawo"
+    },
+    "latLong": [
+      10.00903,
+      42.89933574
+    ]
+  },
+  {
+    "id": "ET050301",
+    "zoneId": "ET0503",
+    "name": {
+      "en": "Degehamedo"
+    },
+    "latLong": [
+      8.05980731,
+      42.99130298
+    ]
+  },
+  {
+    "id": "ET050302",
+    "zoneId": "ET0503",
+    "name": {
+      "en": "Degehabur"
+    },
+    "latLong": [
+      8.21040359,
+      43.74940439
+    ]
+  },
+  {
+    "id": "ET050303",
+    "zoneId": "ET0503",
+    "name": {
+      "en": "Aware"
+    },
+    "latLong": [
+      8.07855251,
+      44.1479629
+    ]
+  },
+  {
+    "id": "ET050304",
+    "zoneId": "ET0503",
+    "name": {
+      "en": "Gashamo"
+    },
+    "latLong": [
+      8.20619486,
+      45.38746243
+    ]
+  },
+  {
+    "id": "ET050305",
+    "zoneId": "ET0503",
+    "name": {
+      "en": "Gunagado"
+    },
+    "latLong": [
+      7.60661811,
+      44.0862299
+    ]
+  },
+  {
+    "id": "ET050306",
+    "zoneId": "ET0503",
+    "name": {
+      "en": "Bilcil-Bur"
+    },
+    "latLong": [
+      8.36188555,
+      43.27884393
+    ]
+  },
+  {
+    "id": "ET050307",
+    "zoneId": "ET0503",
+    "name": {
+      "en": "Degahabur town"
+    },
+    "latLong": [
+      8.22530918,
+      43.55551126
+    ]
+  },
+  {
+    "id": "ET050382",
+    "zoneId": "ET0503",
+    "name": {
+      "en": "Yocale"
+    },
+    "latLong": [
+      8.41664795,
+      43.81994019
+    ]
+  },
+  {
+    "id": "ET050392",
+    "zoneId": "ET0503",
+    "name": {
+      "en": "Daror"
+    },
+    "latLong": [
+      8.40929487,
+      44.43350783
+    ]
+  },
+  {
+    "id": "ET050394",
+    "zoneId": "ET0503",
+    "name": {
+      "en": "Burqod"
+    },
+    "latLong": [
+      7.56523851,
+      43.6867728
+    ]
+  },
+  {
+    "id": "ET050395",
+    "zoneId": "ET0503",
+    "name": {
+      "en": "Ararso"
+    },
+    "latLong": [
+      8.73964225,
+      43.3920589
+    ]
+  },
+  {
+    "id": "ET050399",
+    "zoneId": "ET0503",
+    "name": {
+      "en": "Dig"
+    },
+    "latLong": [
+      7.7075071,
+      44.51277365
+    ]
+  },
+  {
+    "id": "ET050402",
+    "zoneId": "ET0504",
+    "name": {
+      "en": "Fik"
+    },
+    "latLong": [
+      8.15001782,
+      42.32378538
+    ]
+  },
+  {
+    "id": "ET050403",
+    "zoneId": "ET0504",
+    "name": {
+      "en": "Salahad"
+    },
+    "latLong": [
+      7.1104943,
+      42.23173425
+    ]
+  },
+  {
+    "id": "ET050404",
+    "zoneId": "ET0504",
+    "name": {
+      "en": "Hamero"
+    },
+    "latLong": [
+      7.61758163,
+      42.2730026
+    ]
+  },
+  {
+    "id": "ET050407",
+    "zoneId": "ET0504",
+    "name": {
+      "en": "Lagahida"
+    },
+    "latLong": [
+      7.38714257,
+      42.06859457
+    ]
+  },
+  {
+    "id": "ET050408",
+    "zoneId": "ET0504",
+    "name": {
+      "en": "Meyumuluka"
+    },
+    "latLong": [
+      8.25917712,
+      42.03365447
+    ]
+  },
+  {
+    "id": "ET050497",
+    "zoneId": "ET0504",
+    "name": {
+      "en": "Qubi"
+    },
+    "latLong": [
+      7.72336984,
+      41.9919865
+    ]
+  },
+  {
+    "id": "ET050498",
+    "zoneId": "ET0504",
+    "name": {
+      "en": "Yahob"
+    },
+    "latLong": [
+      7.82597083,
+      42.55700006
+    ]
+  },
+  {
+    "id": "ET050499",
+    "zoneId": "ET0504",
+    "name": {
+      "en": "Wangey"
+    },
+    "latLong": [
+      7.40969768,
+      42.24033496
+    ]
+  },
+  {
+    "id": "ET050501",
+    "zoneId": "ET0505",
+    "name": {
+      "en": "Shaygosh"
+    },
+    "latLong": [
+      7.3590727,
+      44.03921867
+    ]
+  },
+  {
+    "id": "ET050502",
+    "zoneId": "ET0505",
+    "name": {
+      "en": "Kebridehar"
+    },
+    "latLong": [
+      6.77525704,
+      44.1740976
+    ]
+  },
+  {
+    "id": "ET050503",
+    "zoneId": "ET0505",
+    "name": {
+      "en": "Shilabo"
+    },
+    "latLong": [
+      5.96085984,
+      45.32958056
+    ]
+  },
+  {
+    "id": "ET050504",
+    "zoneId": "ET0505",
+    "name": {
+      "en": "Debeweyin"
+    },
+    "latLong": [
+      5.97919467,
+      44.32149558
+    ]
+  },
+  {
+    "id": "ET050586",
+    "zoneId": "ET0505",
+    "name": {
+      "en": "Marsin"
+    },
+    "latLong": [
+      7.44476266,
+      44.66215065
+    ]
+  },
+  {
+    "id": "ET050592",
+    "zoneId": "ET0505",
+    "name": {
+      "en": "Kebridehar town"
+    },
+    "latLong": [
+      6.73426093,
+      44.27760258
+    ]
+  },
+  {
+    "id": "ET050595",
+    "zoneId": "ET0505",
+    "name": {
+      "en": "Goglo"
+    },
+    "latLong": [
+      6.82343445,
+      44.6093664
+    ]
+  },
+  {
+    "id": "ET050596",
+    "zoneId": "ET0505",
+    "name": {
+      "en": "Lasdhankayre"
+    },
+    "latLong": [
+      6.57352184,
+      43.86693078
+    ]
+  },
+  {
+    "id": "ET050597",
+    "zoneId": "ET0505",
+    "name": {
+      "en": "Higloley"
+    },
+    "latLong": [
+      5.75480294,
+      44.52542687
+    ]
+  },
+  {
+    "id": "ET050598",
+    "zoneId": "ET0505",
+    "name": {
+      "en": "El-Ogaden"
+    },
+    "latLong": [
+      6.38730937,
+      44.32977215
+    ]
+  },
+  {
+    "id": "ET050599",
+    "zoneId": "ET0505",
+    "name": {
+      "en": "Bodaley"
+    },
+    "latLong": [
+      7.04088266,
+      43.99681561
+    ]
+  },
+  {
+    "id": "ET050601",
+    "zoneId": "ET0506",
+    "name": {
+      "en": "East Imi"
+    },
+    "latLong": [
+      6.62274093,
+      42.27130067
+    ]
+  },
+  {
+    "id": "ET050602",
+    "zoneId": "ET0506",
+    "name": {
+      "en": "Adadle"
+    },
+    "latLong": [
+      5.36534696,
+      43.58029946
+    ]
+  },
+  {
+    "id": "ET050603",
+    "zoneId": "ET0506",
+    "name": {
+      "en": "Danan"
+    },
+    "latLong": [
+      6.57352184,
+      43.50428801
+    ]
+  },
+  {
+    "id": "ET050604",
+    "zoneId": "ET0506",
+    "name": {
+      "en": "Gode"
+    },
+    "latLong": [
+      6.05323994,
+      43.63427723
+    ]
+  },
+  {
+    "id": "ET050605",
+    "zoneId": "ET0506",
+    "name": {
+      "en": "Kelafo"
+    },
+    "latLong": [
+      5.427495,
+      44.22416241
+    ]
+  },
+  {
+    "id": "ET050606",
+    "zoneId": "ET0506",
+    "name": {
+      "en": "Mustahil"
+    },
+    "latLong": [
+      5.22533248,
+      44.65587131
+    ]
+  },
+  {
+    "id": "ET050607",
+    "zoneId": "ET0506",
+    "name": {
+      "en": "Ferfer"
+    },
+    "latLong": [
+      5.16109975,
+      45.02583272
+    ]
+  },
+  {
+    "id": "ET050608",
+    "zoneId": "ET0506",
+    "name": {
+      "en": "Berocano"
+    },
+    "latLong": [
+      6.14614138,
+      43.13275626
+    ]
+  },
+  {
+    "id": "ET050696",
+    "zoneId": "ET0506",
+    "name": {
+      "en": "Godey town"
+    },
+    "latLong": [
+      5.94758461,
+      43.54937728
+    ]
+  },
+  {
+    "id": "ET050698",
+    "zoneId": "ET0506",
+    "name": {
+      "en": "Elale"
+    },
+    "latLong": [
+      6.20576012,
+      43.88869689
+    ]
+  },
+  {
+    "id": "ET050699",
+    "zoneId": "ET0506",
+    "name": {
+      "en": "Aba-Korow"
+    },
+    "latLong": [
+      6.467471,
+      42.66811882
+    ]
+  },
+  {
+    "id": "ET050701",
+    "zoneId": "ET0507",
+    "name": {
+      "en": "Danod"
+    },
+    "latLong": [
+      7.74781372,
+      45.93619589
+    ]
+  },
+  {
+    "id": "ET050702",
+    "zoneId": "ET0507",
+    "name": {
+      "en": "Bokh"
+    },
+    "latLong": [
+      7.60982042,
+      46.5023121
+    ]
+  },
+  {
+    "id": "ET050703",
+    "zoneId": "ET0507",
+    "name": {
+      "en": "Galadi"
+    },
+    "latLong": [
+      6.98689103,
+      46.41068218
+    ]
+  },
+  {
+    "id": "ET050704",
+    "zoneId": "ET0507",
+    "name": {
+      "en": "Warder"
+    },
+    "latLong": [
+      6.70653789,
+      45.69287685
+    ]
+  },
+  {
+    "id": "ET050788",
+    "zoneId": "ET0507",
+    "name": {
+      "en": "Daratole"
+    },
+    "latLong": [
+      7.22479556,
+      45.3604415
+    ]
+  },
+  {
+    "id": "ET050798",
+    "zoneId": "ET0507",
+    "name": {
+      "en": "Lehel-Yucub"
+    },
+    "latLong": [
+      6.69911141,
+      45.14321692
+    ]
+  },
+  {
+    "id": "ET050799",
+    "zoneId": "ET0507",
+    "name": {
+      "en": "Galhamur"
+    },
+    "latLong": [
+      7.64450877,
+      47.26822951
+    ]
+  },
+  {
+    "id": "ET050802",
+    "zoneId": "ET0508",
+    "name": {
+      "en": "Charati"
+    },
+    "latLong": [
+      5.27627973,
+      41.67262905
+    ]
+  },
+  {
+    "id": "ET050804",
+    "zoneId": "ET0508",
+    "name": {
+      "en": "Elkare /Serer"
+    },
+    "latLong": [
+      6.05951514,
+      42.02023021
+    ]
+  },
+  {
+    "id": "ET050805",
+    "zoneId": "ET0508",
+    "name": {
+      "en": "West Imi"
+    },
+    "latLong": [
+      6.24285318,
+      42.28443115
+    ]
+  },
+  {
+    "id": "ET050806",
+    "zoneId": "ET0508",
+    "name": {
+      "en": "Hargele"
+    },
+    "latLong": [
+      5.25751872,
+      42.46568658
+    ]
+  },
+  {
+    "id": "ET050807",
+    "zoneId": "ET0508",
+    "name": {
+      "en": "Barey"
+    },
+    "latLong": [
+      4.74185646,
+      42.66146803
+    ]
+  },
+  {
+    "id": "ET050808",
+    "zoneId": "ET0508",
+    "name": {
+      "en": "Dolobay"
+    },
+    "latLong": [
+      4.51330759,
+      42.05806429
+    ]
+  },
+  {
+    "id": "ET050809",
+    "zoneId": "ET0508",
+    "name": {
+      "en": "Raso"
+    },
+    "latLong": [
+      6.56190236,
+      42.00658701
+    ]
+  },
+  {
+    "id": "ET050898",
+    "zoneId": "ET0508",
+    "name": {
+      "en": "Kohle /Qoxle"
+    },
+    "latLong": [
+      5.25453417,
+      43.10850544
+    ]
+  },
+  {
+    "id": "ET050899",
+    "zoneId": "ET0508",
+    "name": {
+      "en": "God-God"
+    },
+    "latLong": [
+      4.84004549,
+      43.27389318
+    ]
+  },
+  {
+    "id": "ET050901",
+    "zoneId": "ET0509",
+    "name": {
+      "en": "Filtu"
+    },
+    "latLong": [
+      5.03071446,
+      40.90854328
+    ]
+  },
+  {
+    "id": "ET050902",
+    "zoneId": "ET0509",
+    "name": {
+      "en": "Dolo Ado"
+    },
+    "latLong": [
+      4.205986,
+      41.69522858
+    ]
+  },
+  {
+    "id": "ET050903",
+    "zoneId": "ET0509",
+    "name": {
+      "en": "Goro Baqaqsa"
+    },
+    "latLong": [
+      6.19546138,
+      41.28892531
+    ]
+  },
+  {
+    "id": "ET050904",
+    "zoneId": "ET0509",
+    "name": {
+      "en": "Guradamole"
+    },
+    "latLong": [
+      6.16144873,
+      40.97227472
+    ]
+  },
+  {
+    "id": "ET050991",
+    "zoneId": "ET0509",
+    "name": {
+      "en": "Deka Suftu"
+    },
+    "latLong": [
+      5.05423765,
+      40.12561932
+    ]
+  },
+  {
+    "id": "ET050999",
+    "zoneId": "ET0509",
+    "name": {
+      "en": "Bokolmayo"
+    },
+    "latLong": [
+      4.42433032,
+      41.38579925
+    ]
+  },
+  {
+    "id": "ET051001",
+    "zoneId": "ET0510",
+    "name": {
+      "en": "Ayun"
+    },
+    "latLong": [
+      7.16219573,
+      42.44681025
+    ]
+  },
+  {
+    "id": "ET051002",
+    "zoneId": "ET0510",
+    "name": {
+      "en": "Elwayne"
+    },
+    "latLong": [
+      6.58358419,
+      43.04736771
+    ]
+  },
+  {
+    "id": "ET051003",
+    "zoneId": "ET0510",
+    "name": {
+      "en": "Garbo"
+    },
+    "latLong": [
+      7.33020897,
+      43.17112427
+    ]
+  },
+  {
+    "id": "ET051005",
+    "zoneId": "ET0510",
+    "name": {
+      "en": "Sagag"
+    },
+    "latLong": [
+      7.62719659,
+      42.98178891
+    ]
+  },
+  {
+    "id": "ET051006",
+    "zoneId": "ET0510",
+    "name": {
+      "en": "Dihun"
+    },
+    "latLong": [
+      7.08889519,
+      42.74455723
+    ]
+  },
+  {
+    "id": "ET051095",
+    "zoneId": "ET0510",
+    "name": {
+      "en": "Horshagah"
+    },
+    "latLong": [
+      7.05734567,
+      43.50262838
+    ]
+  },
+  {
+    "id": "ET051096",
+    "zoneId": "ET0510",
+    "name": {
+      "en": "Hararey"
+    },
+    "latLong": [
+      6.92476379,
+      42.97319792
+    ]
+  },
+  {
+    "id": "ET051103",
+    "zoneId": "ET0511",
+    "name": {
+      "en": "Moyale (SM)"
+    },
+    "latLong": [
+      3.81716491,
+      39.43693142
+    ]
+  },
+  {
+    "id": "ET051104",
+    "zoneId": "ET0511",
+    "name": {
+      "en": "Hudet"
+    },
+    "latLong": [
+      4.41700031,
+      39.75721842
+    ]
+  },
+  {
+    "id": "ET051187",
+    "zoneId": "ET0511",
+    "name": {
+      "en": "Mubarek"
+    },
+    "latLong": [
+      4.38566698,
+      40.31862769
+    ]
+  },
+  {
+    "id": "ET051198",
+    "zoneId": "ET0511",
+    "name": {
+      "en": "Qada Duma"
+    },
+    "latLong": [
+      3.70408778,
+      39.59550323
+    ]
+  },
+  {
+    "id": "ET060200",
+    "zoneId": "ET0602",
+    "name": {
+      "en": "Gilgel Beles town"
+    },
+    "latLong": [
+      11.15148997,
+      36.34153835
+    ]
+  },
+  {
+    "id": "ET060201",
+    "zoneId": "ET0602",
+    "name": {
+      "en": "Dangur"
+    },
+    "latLong": [
+      11.3929558,
+      36.01586765
+    ]
+  },
+  {
+    "id": "ET060202",
+    "zoneId": "ET0602",
+    "name": {
+      "en": "Guba"
+    },
+    "latLong": [
+      11.4497683,
+      35.34266382
+    ]
+  },
+  {
+    "id": "ET060203",
+    "zoneId": "ET0602",
+    "name": {
+      "en": "Wembera"
+    },
+    "latLong": [
+      10.54065846,
+      35.52144611
+    ]
+  },
+  {
+    "id": "ET060204",
+    "zoneId": "ET0602",
+    "name": {
+      "en": "Mandura"
+    },
+    "latLong": [
+      11.0363743,
+      36.28476576
+    ]
+  },
+  {
+    "id": "ET060205",
+    "zoneId": "ET0602",
+    "name": {
+      "en": "Dibate"
+    },
+    "latLong": [
+      10.52903673,
+      36.20312319
+    ]
+  },
+  {
+    "id": "ET060206",
+    "zoneId": "ET0602",
+    "name": {
+      "en": "Pawe"
+    },
+    "latLong": [
+      11.30351942,
+      36.41037281
+    ]
+  },
+  {
+    "id": "ET060207",
+    "zoneId": "ET0602",
+    "name": {
+      "en": "Bulen"
+    },
+    "latLong": [
+      10.55412955,
+      35.97296881
+    ]
+  },
+  {
+    "id": "ET060301",
+    "zoneId": "ET0603",
+    "name": {
+      "en": "Menge"
+    },
+    "latLong": [
+      10.37909897,
+      34.84825523
+    ]
+  },
+  {
+    "id": "ET060302",
+    "zoneId": "ET0603",
+    "name": {
+      "en": "Kurmuk"
+    },
+    "latLong": [
+      10.57222296,
+      34.47858534
+    ]
+  },
+  {
+    "id": "ET060303",
+    "zoneId": "ET0603",
+    "name": {
+      "en": "Assosa"
+    },
+    "latLong": [
+      9.9944254,
+      34.47901597
+    ]
+  },
+  {
+    "id": "ET060304",
+    "zoneId": "ET0603",
+    "name": {
+      "en": "Sherkole"
+    },
+    "latLong": [
+      10.68395383,
+      34.82757568
+    ]
+  },
+  {
+    "id": "ET060305",
+    "zoneId": "ET0603",
+    "name": {
+      "en": "Bambasi"
+    },
+    "latLong": [
+      9.81363113,
+      34.70171529
+    ]
+  },
+  {
+    "id": "ET060306",
+    "zoneId": "ET0603",
+    "name": {
+      "en": "Bilidigilu"
+    },
+    "latLong": [
+      10.19298518,
+      35.12077637
+    ]
+  },
+  {
+    "id": "ET060307",
+    "zoneId": "ET0603",
+    "name": {
+      "en": "Homosha"
+    },
+    "latLong": [
+      10.32444986,
+      34.55890658
+    ]
+  },
+  {
+    "id": "ET060308",
+    "zoneId": "ET0603",
+    "name": {
+      "en": "Undulu"
+    },
+    "latLong": [
+      10.21025188,
+      34.90574613
+    ]
+  },
+  {
+    "id": "ET060309",
+    "zoneId": "ET0603",
+    "name": {
+      "en": "Assosa town Administration"
+    },
+    "latLong": [
+      10.06021994,
+      34.53956733
+    ]
+  },
+  {
+    "id": "ET060400",
+    "zoneId": "ET0604",
+    "name": {
+      "en": "Kamashi town"
+    },
+    "latLong": [
+      9.51567085,
+      35.85826386
+    ]
+  },
+  {
+    "id": "ET060401",
+    "zoneId": "ET0604",
+    "name": {
+      "en": "Zayi"
+    },
+    "latLong": [
+      9.99397589,
+      35.93534718
+    ]
+  },
+  {
+    "id": "ET060402",
+    "zoneId": "ET0604",
+    "name": {
+      "en": "Sedal"
+    },
+    "latLong": [
+      10.51350901,
+      35.13470477
+    ]
+  },
+  {
+    "id": "ET060403",
+    "zoneId": "ET0604",
+    "name": {
+      "en": "Kamashi"
+    },
+    "latLong": [
+      9.47755986,
+      35.86236954
+    ]
+  },
+  {
+    "id": "ET060404",
+    "zoneId": "ET0604",
+    "name": {
+      "en": "Dembe"
+    },
+    "latLong": [
+      9.81366251,
+      35.69316256
+    ]
+  },
+  {
+    "id": "ET060405",
+    "zoneId": "ET0604",
+    "name": {
+      "en": "Mizyiga"
+    },
+    "latLong": [
+      9.30102585,
+      36.14269191
+    ]
+  },
+  {
+    "id": "ET060508",
+    "zoneId": "ET0605",
+    "name": {
+      "en": "Maokomo Special"
+    },
+    "latLong": [
+      9.36052895,
+      34.28372892
+    ]
+  },
+  {
+    "id": "ET070101",
+    "zoneId": "ET0701",
+    "name": {
+      "en": "Kebena"
+    },
+    "latLong": [
+      8.317094,
+      37.93909561
+    ]
+  },
+  {
+    "id": "ET070102",
+    "zoneId": "ET0701",
+    "name": {
+      "en": "Abeshege"
+    },
+    "latLong": [
+      8.32481643,
+      37.61327105
+    ]
+  },
+  {
+    "id": "ET070103",
+    "zoneId": "ET0701",
+    "name": {
+      "en": "Ezha"
+    },
+    "latLong": [
+      8.16273231,
+      38.02517311
+    ]
+  },
+  {
+    "id": "ET070104",
+    "zoneId": "ET0701",
+    "name": {
+      "en": "Gedebano Gutazer Welene"
+    },
+    "latLong": [
+      8.31026267,
+      38.16971543
+    ]
+  },
+  {
+    "id": "ET070105",
+    "zoneId": "ET0701",
+    "name": {
+      "en": "Sodo"
+    },
+    "latLong": [
+      8.27356875,
+      38.58658657
+    ]
+  },
+  {
+    "id": "ET070106",
+    "zoneId": "ET0701",
+    "name": {
+      "en": "Meskan"
+    },
+    "latLong": [
+      8.15799304,
+      38.3678652
+    ]
+  },
+  {
+    "id": "ET070107",
+    "zoneId": "ET0701",
+    "name": {
+      "en": "Mareko"
+    },
+    "latLong": [
+      7.98808607,
+      38.52398681
+    ]
+  },
+  {
+    "id": "ET070108",
+    "zoneId": "ET0701",
+    "name": {
+      "en": "Endiguagn"
+    },
+    "latLong": [
+      7.81819987,
+      37.87502189
+    ]
+  },
+  {
+    "id": "ET070109",
+    "zoneId": "ET0701",
+    "name": {
+      "en": "Gumer"
+    },
+    "latLong": [
+      7.99013586,
+      38.0539524
+    ]
+  },
+  {
+    "id": "ET070110",
+    "zoneId": "ET0701",
+    "name": {
+      "en": "Cheha"
+    },
+    "latLong": [
+      8.13346416,
+      37.8586919
+    ]
+  },
+  {
+    "id": "ET070111",
+    "zoneId": "ET0701",
+    "name": {
+      "en": "Enemor Ener"
+    },
+    "latLong": [
+      8.0261018,
+      37.7613252
+    ]
+  },
+  {
+    "id": "ET070112",
+    "zoneId": "ET0701",
+    "name": {
+      "en": "Muhur Na Aklil"
+    },
+    "latLong": [
+      8.22223737,
+      38.07460403
+    ]
+  },
+  {
+    "id": "ET070113",
+    "zoneId": "ET0701",
+    "name": {
+      "en": "Geta"
+    },
+    "latLong": [
+      7.92728576,
+      37.96954701
+    ]
+  },
+  {
+    "id": "ET070114",
+    "zoneId": "ET0701",
+    "name": {
+      "en": "Welkite town"
+    },
+    "latLong": [
+      8.28755823,
+      37.78542036
+    ]
+  },
+  {
+    "id": "ET070115",
+    "zoneId": "ET0701",
+    "name": {
+      "en": "Butajira town"
+    },
+    "latLong": [
+      8.11915169,
+      38.38450703
+    ]
+  },
+  {
+    "id": "ET070116",
+    "zoneId": "ET0701",
+    "name": {
+      "en": "Emdebir town"
+    },
+    "latLong": [
+      8.12175623,
+      37.92455973
+    ]
+  },
+  {
+    "id": "ET070117",
+    "zoneId": "ET0701",
+    "name": {
+      "en": "Bui town"
+    },
+    "latLong": [
+      8.32423682,
+      38.55109789
+    ]
+  },
+  {
+    "id": "ET070118",
+    "zoneId": "ET0701",
+    "name": {
+      "en": "Misrak Meskan"
+    },
+    "latLong": [
+      8.10526063,
+      38.48136025
+    ]
+  },
+  {
+    "id": "ET070119",
+    "zoneId": "ET0701",
+    "name": {
+      "en": "Debub Sodo"
+    },
+    "latLong": [
+      8.19759646,
+      38.52448392
+    ]
+  },
+  {
+    "id": "ET070120",
+    "zoneId": "ET0701",
+    "name": {
+      "en": "Enor Ener"
+    },
+    "latLong": [
+      7.92982485,
+      37.72747726
+    ]
+  },
+  {
+    "id": "ET070201",
+    "zoneId": "ET0702",
+    "name": {
+      "en": "Misha"
+    },
+    "latLong": [
+      7.67369676,
+      37.81222926
+    ]
+  },
+  {
+    "id": "ET070202",
+    "zoneId": "ET0702",
+    "name": {
+      "en": "Gombora"
+    },
+    "latLong": [
+      7.59467342,
+      37.62078821
+    ]
+  },
+  {
+    "id": "ET070203",
+    "zoneId": "ET0702",
+    "name": {
+      "en": "Lemmo"
+    },
+    "latLong": [
+      7.55150173,
+      37.91773856
+    ]
+  },
+  {
+    "id": "ET070204",
+    "zoneId": "ET0702",
+    "name": {
+      "en": "Shashogo"
+    },
+    "latLong": [
+      7.52116272,
+      38.03630937
+    ]
+  },
+  {
+    "id": "ET070205",
+    "zoneId": "ET0702",
+    "name": {
+      "en": "Misrak Badawacho"
+    },
+    "latLong": [
+      7.16401261,
+      37.99137088
+    ]
+  },
+  {
+    "id": "ET070206",
+    "zoneId": "ET0702",
+    "name": {
+      "en": "Soro"
+    },
+    "latLong": [
+      7.46346721,
+      37.54101072
+    ]
+  },
+  {
+    "id": "ET070207",
+    "zoneId": "ET0702",
+    "name": {
+      "en": "Duna"
+    },
+    "latLong": [
+      7.33243534,
+      37.65829718
+    ]
+  },
+  {
+    "id": "ET070208",
+    "zoneId": "ET0702",
+    "name": {
+      "en": "Analemmo"
+    },
+    "latLong": [
+      7.63494927,
+      37.97433722
+    ]
+  },
+  {
+    "id": "ET070209",
+    "zoneId": "ET0702",
+    "name": {
+      "en": "Mirab Badowach"
+    },
+    "latLong": [
+      7.15141807,
+      37.83482264
+    ]
+  },
+  {
+    "id": "ET070210",
+    "zoneId": "ET0702",
+    "name": {
+      "en": "Gibe"
+    },
+    "latLong": [
+      7.73578593,
+      37.66807759
+    ]
+  },
+  {
+    "id": "ET070211",
+    "zoneId": "ET0702",
+    "name": {
+      "en": "Hosaena town"
+    },
+    "latLong": [
+      7.5476433,
+      37.84652737
+    ]
+  },
+  {
+    "id": "ET070212",
+    "zoneId": "ET0702",
+    "name": {
+      "en": "Shone Town"
+    },
+    "latLong": [
+      7.14194936,
+      37.95487915
+    ]
+  },
+  {
+    "id": "ET070213",
+    "zoneId": "ET0702",
+    "name": {
+      "en": "Gimbichu town"
+    },
+    "latLong": [
+      7.44904497,
+      37.62519852
+    ]
+  },
+  {
+    "id": "ET070214",
+    "zoneId": "ET0702",
+    "name": {
+      "en": "Jajura town"
+    },
+    "latLong": [
+      7.45987687,
+      37.69036153
+    ]
+  },
+  {
+    "id": "ET070215",
+    "zoneId": "ET0702",
+    "name": {
+      "en": "Ameka"
+    },
+    "latLong": [
+      7.87965706,
+      37.65676731
+    ]
+  },
+  {
+    "id": "ET070216",
+    "zoneId": "ET0702",
+    "name": {
+      "en": "Siraro Badawacho"
+    },
+    "latLong": [
+      7.1093017,
+      38.04428055
+    ]
+  },
+  {
+    "id": "ET070217",
+    "zoneId": "ET0702",
+    "name": {
+      "en": "Mirab Soro"
+    },
+    "latLong": [
+      7.3824117,
+      37.47783786
+    ]
+  },
+  {
+    "id": "ET070301",
+    "zoneId": "ET0703",
+    "name": {
+      "en": "Tembaro"
+    },
+    "latLong": [
+      7.26545739,
+      37.47157033
+    ]
+  },
+  {
+    "id": "ET070302",
+    "zoneId": "ET0703",
+    "name": {
+      "en": "Angacha"
+    },
+    "latLong": [
+      7.35613034,
+      37.85495551
+    ]
+  },
+  {
+    "id": "ET070303",
+    "zoneId": "ET0703",
+    "name": {
+      "en": "Kediada Gambela"
+    },
+    "latLong": [
+      7.25744586,
+      37.8688162
+    ]
+  },
+  {
+    "id": "ET070304",
+    "zoneId": "ET0703",
+    "name": {
+      "en": "Kacha Bira"
+    },
+    "latLong": [
+      7.22908665,
+      37.7824965
+    ]
+  },
+  {
+    "id": "ET070305",
+    "zoneId": "ET0703",
+    "name": {
+      "en": "Hadero Tunto"
+    },
+    "latLong": [
+      7.24348496,
+      37.6670827
+    ]
+  },
+  {
+    "id": "ET070306",
+    "zoneId": "ET0703",
+    "name": {
+      "en": "Doyogena"
+    },
+    "latLong": [
+      7.39307286,
+      37.80042045
+    ]
+  },
+  {
+    "id": "ET070307",
+    "zoneId": "ET0703",
+    "name": {
+      "en": "Damboya"
+    },
+    "latLong": [
+      7.34874061,
+      37.94811736
+    ]
+  },
+  {
+    "id": "ET070308",
+    "zoneId": "ET0703",
+    "name": {
+      "en": "Durame town"
+    },
+    "latLong": [
+      7.24342095,
+      37.89839553
+    ]
+  },
+  {
+    "id": "ET070309",
+    "zoneId": "ET0703",
+    "name": {
+      "en": "Adilo"
+    },
+    "latLong": [
+      7.24756502,
+      37.98784144
+    ]
+  },
+  {
+    "id": "ET070310",
+    "zoneId": "ET0703",
+    "name": {
+      "en": "Shinshincho town"
+    },
+    "latLong": [
+      7.2039961,
+      37.77753284
+    ]
+  },
+  {
+    "id": "ET070312",
+    "zoneId": "ET0703",
+    "name": {
+      "en": "Hadero town"
+    },
+    "latLong": [
+      7.19383207,
+      37.66482018
+    ]
+  },
+  {
+    "id": "ET070501",
+    "zoneId": "ET0705",
+    "name": {
+      "en": "Wenago"
+    },
+    "latLong": [
+      6.28370465,
+      38.26269895
+    ]
+  },
+  {
+    "id": "ET070502",
+    "zoneId": "ET0705",
+    "name": {
+      "en": "Yirgachefe"
+    },
+    "latLong": [
+      6.18276539,
+      38.22884975
+    ]
+  },
+  {
+    "id": "ET070503",
+    "zoneId": "ET0705",
+    "name": {
+      "en": "Kochere"
+    },
+    "latLong": [
+      6.03139917,
+      38.15764065
+    ]
+  },
+  {
+    "id": "ET070504",
+    "zoneId": "ET0705",
+    "name": {
+      "en": "Bule"
+    },
+    "latLong": [
+      6.28469564,
+      38.3947462
+    ]
+  },
+  {
+    "id": "ET070505",
+    "zoneId": "ET0705",
+    "name": {
+      "en": "Dila Zuria"
+    },
+    "latLong": [
+      6.33685191,
+      38.32719881
+    ]
+  },
+  {
+    "id": "ET070506",
+    "zoneId": "ET0705",
+    "name": {
+      "en": "Gedeb"
+    },
+    "latLong": [
+      5.9115373,
+      38.333564
+    ]
+  },
+  {
+    "id": "ET070507",
+    "zoneId": "ET0705",
+    "name": {
+      "en": "Dila town"
+    },
+    "latLong": [
+      6.41198903,
+      38.30174583
+    ]
+  },
+  {
+    "id": "ET070508",
+    "zoneId": "ET0705",
+    "name": {
+      "en": "Chelelektu town"
+    },
+    "latLong": [
+      6.00564952,
+      38.15289611
+    ]
+  },
+  {
+    "id": "ET070509",
+    "zoneId": "ET0705",
+    "name": {
+      "en": "Rape"
+    },
+    "latLong": [
+      6.17567348,
+      38.34140725
+    ]
+  },
+  {
+    "id": "ET070510",
+    "zoneId": "ET0705",
+    "name": {
+      "en": "Churso"
+    },
+    "latLong": [
+      6.0663063,
+      38.26996542
+    ]
+  },
+  {
+    "id": "ET070511",
+    "zoneId": "ET0705",
+    "name": {
+      "en": "Gedeb town"
+    },
+    "latLong": [
+      5.8982661,
+      38.25075771
+    ]
+  },
+  {
+    "id": "ET070512",
+    "zoneId": "ET0705",
+    "name": {
+      "en": "Yirgachefe town"
+    },
+    "latLong": [
+      6.15656514,
+      38.20414547
+    ]
+  },
+  {
+    "id": "ET070601",
+    "zoneId": "ET0706",
+    "name": {
+      "en": "Boloso Sore"
+    },
+    "latLong": [
+      7.08242083,
+      37.76905738
+    ]
+  },
+  {
+    "id": "ET070602",
+    "zoneId": "ET0706",
+    "name": {
+      "en": "Damot Gale"
+    },
+    "latLong": [
+      7.00419028,
+      37.92946993
+    ]
+  },
+  {
+    "id": "ET070603",
+    "zoneId": "ET0706",
+    "name": {
+      "en": "Damot Woide"
+    },
+    "latLong": [
+      6.88101272,
+      37.92396696
+    ]
+  },
+  {
+    "id": "ET070604",
+    "zoneId": "ET0706",
+    "name": {
+      "en": "Humbo"
+    },
+    "latLong": [
+      6.68050807,
+      37.71950119
+    ]
+  },
+  {
+    "id": "ET070605",
+    "zoneId": "ET0706",
+    "name": {
+      "en": "Sodo Zuria"
+    },
+    "latLong": [
+      6.86037739,
+      37.81237181
+    ]
+  },
+  {
+    "id": "ET070606",
+    "zoneId": "ET0706",
+    "name": {
+      "en": "Kindo Koyesha"
+    },
+    "latLong": [
+      6.9334856,
+      37.51967562
+    ]
+  },
+  {
+    "id": "ET070607",
+    "zoneId": "ET0706",
+    "name": {
+      "en": "Ofa"
+    },
+    "latLong": [
+      6.71743067,
+      37.60166769
+    ]
+  },
+  {
+    "id": "ET070608",
+    "zoneId": "ET0706",
+    "name": {
+      "en": "Boloso Bombe"
+    },
+    "latLong": [
+      7.10938606,
+      37.55591094
+    ]
+  },
+  {
+    "id": "ET070609",
+    "zoneId": "ET0706",
+    "name": {
+      "en": "Damot Sore"
+    },
+    "latLong": [
+      6.94323088,
+      37.66239863
+    ]
+  },
+  {
+    "id": "ET070610",
+    "zoneId": "ET0706",
+    "name": {
+      "en": "Kindo Daddaye"
+    },
+    "latLong": [
+      6.77277034,
+      37.3265674
+    ]
+  },
+  {
+    "id": "ET070611",
+    "zoneId": "ET0706",
+    "name": {
+      "en": "Damot Pullasa"
+    },
+    "latLong": [
+      7.04307107,
+      37.85960173
+    ]
+  },
+  {
+    "id": "ET070612",
+    "zoneId": "ET0706",
+    "name": {
+      "en": "Duguna Fango"
+    },
+    "latLong": [
+      6.88078754,
+      38.06415633
+    ]
+  },
+  {
+    "id": "ET070613",
+    "zoneId": "ET0706",
+    "name": {
+      "en": "Sodo Town"
+    },
+    "latLong": [
+      6.85237691,
+      37.76192169
+    ]
+  },
+  {
+    "id": "ET070614",
+    "zoneId": "ET0706",
+    "name": {
+      "en": "Areka town"
+    },
+    "latLong": [
+      7.07042761,
+      37.70390388
+    ]
+  },
+  {
+    "id": "ET070615",
+    "zoneId": "ET0706",
+    "name": {
+      "en": "Boditi town"
+    },
+    "latLong": [
+      6.95612723,
+      37.8613925
+    ]
+  },
+  {
+    "id": "ET070616",
+    "zoneId": "ET0706",
+    "name": {
+      "en": "Tebela town"
+    },
+    "latLong": [
+      6.70085292,
+      37.77192244
+    ]
+  },
+  {
+    "id": "ET070617",
+    "zoneId": "ET0706",
+    "name": {
+      "en": "Gesuba town"
+    },
+    "latLong": [
+      6.72854863,
+      37.55595237
+    ]
+  },
+  {
+    "id": "ET070618",
+    "zoneId": "ET0706",
+    "name": {
+      "en": "Gununo Hamus town"
+    },
+    "latLong": [
+      6.92615102,
+      37.65563303
+    ]
+  },
+  {
+    "id": "ET070619",
+    "zoneId": "ET0706",
+    "name": {
+      "en": "Hobicha Abaya"
+    },
+    "latLong": [
+      6.69702337,
+      37.98057628
+    ]
+  },
+  {
+    "id": "ET070620",
+    "zoneId": "ET0706",
+    "name": {
+      "en": "Kawo Koisha"
+    },
+    "latLong": [
+      6.75803084,
+      37.43232605
+    ]
+  },
+  {
+    "id": "ET070621",
+    "zoneId": "ET0706",
+    "name": {
+      "en": "Abela Abaya"
+    },
+    "latLong": [
+      6.62833194,
+      37.823938
+    ]
+  },
+  {
+    "id": "ET070622",
+    "zoneId": "ET0706",
+    "name": {
+      "en": "Bayera Koisha"
+    },
+    "latLong": [
+      6.8051283,
+      37.60591732
+    ]
+  },
+  {
+    "id": "ET070701",
+    "zoneId": "ET0707",
+    "name": {
+      "en": "Salamago"
+    },
+    "latLong": [
+      5.89671963,
+      36.16058686
+    ]
+  },
+  {
+    "id": "ET070702",
+    "zoneId": "ET0707",
+    "name": {
+      "en": "South Ari"
+    },
+    "latLong": [
+      5.88864459,
+      36.56250352
+    ]
+  },
+  {
+    "id": "ET070703",
+    "zoneId": "ET0707",
+    "name": {
+      "en": "North Ari"
+    },
+    "latLong": [
+      6.17761951,
+      36.64502748
+    ]
+  },
+  {
+    "id": "ET070704",
+    "zoneId": "ET0707",
+    "name": {
+      "en": "Hamer"
+    },
+    "latLong": [
+      4.95252096,
+      36.51300258
+    ]
+  },
+  {
+    "id": "ET070705",
+    "zoneId": "ET0707",
+    "name": {
+      "en": "Bena Tsemay"
+    },
+    "latLong": [
+      5.37811558,
+      36.71484599
+    ]
+  },
+  {
+    "id": "ET070706",
+    "zoneId": "ET0707",
+    "name": {
+      "en": "Dasenech /Kuraz"
+    },
+    "latLong": [
+      4.71625953,
+      36.12448571
+    ]
+  },
+  {
+    "id": "ET070707",
+    "zoneId": "ET0707",
+    "name": {
+      "en": "Malie"
+    },
+    "latLong": [
+      5.75258713,
+      36.85786584
+    ]
+  },
+  {
+    "id": "ET070708",
+    "zoneId": "ET0707",
+    "name": {
+      "en": "Nyngatom"
+    },
+    "latLong": [
+      5.26467812,
+      35.99969404
+    ]
+  },
+  {
+    "id": "ET070709",
+    "zoneId": "ET0707",
+    "name": {
+      "en": "Jinka town"
+    },
+    "latLong": [
+      5.78345466,
+      36.56787088
+    ]
+  },
+  {
+    "id": "ET070710",
+    "zoneId": "ET0707",
+    "name": {
+      "en": "Boko Dawula"
+    },
+    "latLong": [
+      5.77951072,
+      36.62124322
+    ]
+  },
+  {
+    "id": "ET070711",
+    "zoneId": "ET0707",
+    "name": {
+      "en": "Wub Ari"
+    },
+    "latLong": [
+      6.05572608,
+      36.62997073
+    ]
+  },
+  {
+    "id": "ET071003",
+    "zoneId": "ET0710",
+    "name": {
+      "en": "Selamber town"
+    },
+    "latLong": [
+      6.47285462,
+      37.45692445
+    ]
+  },
+  {
+    "id": "ET071004",
+    "zoneId": "ET0710",
+    "name": {
+      "en": "Boreda"
+    },
+    "latLong": [
+      6.51396082,
+      37.66475145
+    ]
+  },
+  {
+    "id": "ET071005",
+    "zoneId": "ET0710",
+    "name": {
+      "en": "Mirab Abaya"
+    },
+    "latLong": [
+      6.34455734,
+      37.73139607
+    ]
+  },
+  {
+    "id": "ET071006",
+    "zoneId": "ET0710",
+    "name": {
+      "en": "Chencha Zuriya"
+    },
+    "latLong": [
+      6.24047214,
+      37.52864394
+    ]
+  },
+  {
+    "id": "ET071007",
+    "zoneId": "ET0710",
+    "name": {
+      "en": "Ezo /Kogota"
+    },
+    "latLong": [
+      6.37609144,
+      37.58718134
+    ]
+  },
+  {
+    "id": "ET071008",
+    "zoneId": "ET0710",
+    "name": {
+      "en": "Dita"
+    },
+    "latLong": [
+      6.26141037,
+      37.42637892
+    ]
+  },
+  {
+    "id": "ET071009",
+    "zoneId": "ET0710",
+    "name": {
+      "en": "Daramalo"
+    },
+    "latLong": [
+      6.28174245,
+      37.29045529
+    ]
+  },
+  {
+    "id": "ET071010",
+    "zoneId": "ET0710",
+    "name": {
+      "en": "Chencha"
+    },
+    "latLong": [
+      6.2429657,
+      37.57890188
+    ]
+  },
+  {
+    "id": "ET071011",
+    "zoneId": "ET0710",
+    "name": {
+      "en": "Kemba"
+    },
+    "latLong": [
+      6.11816883,
+      37.18397075
+    ]
+  },
+  {
+    "id": "ET071012",
+    "zoneId": "ET0710",
+    "name": {
+      "en": "Kemba town"
+    },
+    "latLong": [
+      6.0560825,
+      37.17187358
+    ]
+  },
+  {
+    "id": "ET071013",
+    "zoneId": "ET0710",
+    "name": {
+      "en": "Gerese"
+    },
+    "latLong": [
+      5.88070557,
+      37.27110027
+    ]
+  },
+  {
+    "id": "ET071014",
+    "zoneId": "ET0710",
+    "name": {
+      "en": "Bonke"
+    },
+    "latLong": [
+      6.1120602,
+      37.32067709
+    ]
+  },
+  {
+    "id": "ET071015",
+    "zoneId": "ET0710",
+    "name": {
+      "en": "Arba Minch Zuria"
+    },
+    "latLong": [
+      5.94228651,
+      37.55446993
+    ]
+  },
+  {
+    "id": "ET071016",
+    "zoneId": "ET0710",
+    "name": {
+      "en": "Gacho Baba"
+    },
+    "latLong": [
+      6.0817937,
+      37.43401726
+    ]
+  },
+  {
+    "id": "ET071017",
+    "zoneId": "ET0710",
+    "name": {
+      "en": "Kucha Alpha"
+    },
+    "latLong": [
+      6.57777811,
+      37.23625912
+    ]
+  },
+  {
+    "id": "ET071018",
+    "zoneId": "ET0710",
+    "name": {
+      "en": "Garda Marta"
+    },
+    "latLong": [
+      5.82264159,
+      37.07933649
+    ]
+  },
+  {
+    "id": "ET071019",
+    "zoneId": "ET0710",
+    "name": {
+      "en": "Kucha"
+    },
+    "latLong": [
+      6.51160439,
+      37.41652331
+    ]
+  },
+  {
+    "id": "ET071021",
+    "zoneId": "ET0710",
+    "name": {
+      "en": "Arba Minch town"
+    },
+    "latLong": [
+      6.03322987,
+      37.55366186
+    ]
+  },
+  {
+    "id": "ET071205",
+    "zoneId": "ET0712",
+    "name": {
+      "en": "Alle Special"
+    },
+    "latLong": [
+      5.55777552,
+      37.16843128
+    ]
+  },
+  {
+    "id": "ET071301",
+    "zoneId": "ET0713",
+    "name": {
+      "en": "Karat town"
+    },
+    "latLong": [
+      5.33773564,
+      37.44248612
+    ]
+  },
+  {
+    "id": "ET071302",
+    "zoneId": "ET0713",
+    "name": {
+      "en": "Segen Zuria"
+    },
+    "latLong": [
+      5.51318174,
+      37.54625721
+    ]
+  },
+  {
+    "id": "ET071303",
+    "zoneId": "ET0713",
+    "name": {
+      "en": "Karat Zuria"
+    },
+    "latLong": [
+      5.34948058,
+      37.55015561
+    ]
+  },
+  {
+    "id": "ET071304",
+    "zoneId": "ET0713",
+    "name": {
+      "en": "Kena"
+    },
+    "latLong": [
+      5.30570387,
+      37.2182935
+    ]
+  },
+  {
+    "id": "ET071401",
+    "zoneId": "ET0714",
+    "name": {
+      "en": "Kulito town"
+    },
+    "latLong": [
+      7.3070134,
+      38.08724619
+    ]
+  },
+  {
+    "id": "ET071402",
+    "zoneId": "ET0714",
+    "name": {
+      "en": "Wera"
+    },
+    "latLong": [
+      7.32264938,
+      38.03594229
+    ]
+  },
+  {
+    "id": "ET071403",
+    "zoneId": "ET0714",
+    "name": {
+      "en": "Atote Ulo"
+    },
+    "latLong": [
+      7.3480183,
+      38.22114883
+    ]
+  },
+  {
+    "id": "ET071404",
+    "zoneId": "ET0714",
+    "name": {
+      "en": "Wera Djo"
+    },
+    "latLong": [
+      7.52692599,
+      38.3245566
+    ]
+  },
+  {
+    "id": "ET071501",
+    "zoneId": "ET0715",
+    "name": {
+      "en": "Melekoza"
+    },
+    "latLong": [
+      6.48735652,
+      36.58076475
+    ]
+  },
+  {
+    "id": "ET071502",
+    "zoneId": "ET0715",
+    "name": {
+      "en": "Denba Gofa"
+    },
+    "latLong": [
+      6.43497361,
+      37.00885593
+    ]
+  },
+  {
+    "id": "ET071503",
+    "zoneId": "ET0715",
+    "name": {
+      "en": "Zala"
+    },
+    "latLong": [
+      6.28741941,
+      37.08489577
+    ]
+  },
+  {
+    "id": "ET071504",
+    "zoneId": "ET0715",
+    "name": {
+      "en": "Uba Debre Tsehay"
+    },
+    "latLong": [
+      6.07281897,
+      36.88874859
+    ]
+  },
+  {
+    "id": "ET071505",
+    "zoneId": "ET0715",
+    "name": {
+      "en": "Gezei Gofa"
+    },
+    "latLong": [
+      6.37570393,
+      36.82894373
+    ]
+  },
+  {
+    "id": "ET071506",
+    "zoneId": "ET0715",
+    "name": {
+      "en": "O'yida"
+    },
+    "latLong": [
+      6.19623722,
+      36.81711007
+    ]
+  },
+  {
+    "id": "ET071507",
+    "zoneId": "ET0715",
+    "name": {
+      "en": "Sawla town"
+    },
+    "latLong": [
+      6.29850479,
+      36.88504384
+    ]
+  },
+  {
+    "id": "ET071508",
+    "zoneId": "ET0715",
+    "name": {
+      "en": "Bulike town"
+    },
+    "latLong": [
+      6.27890374,
+      36.81496173
+    ]
+  },
+  {
+    "id": "ET071509",
+    "zoneId": "ET0715",
+    "name": {
+      "en": "Melo Gada"
+    },
+    "latLong": [
+      6.57524355,
+      36.84836
+    ]
+  },
+  {
+    "id": "ET071601",
+    "zoneId": "ET0716",
+    "name": {
+      "en": "Basketo SP Woreda"
+    },
+    "latLong": [
+      6.26441493,
+      36.56251915
+    ]
+  },
+  {
+    "id": "ET072001",
+    "zoneId": "ET0720",
+    "name": {
+      "en": "Alicho Woriro"
+    },
+    "latLong": [
+      7.98476173,
+      38.18427828
+    ]
+  },
+  {
+    "id": "ET072002",
+    "zoneId": "ET0720",
+    "name": {
+      "en": "Siltie"
+    },
+    "latLong": [
+      7.95081642,
+      38.26292933
+    ]
+  },
+  {
+    "id": "ET072003",
+    "zoneId": "ET0720",
+    "name": {
+      "en": "Lanfero"
+    },
+    "latLong": [
+      7.85132458,
+      38.3656162
+    ]
+  },
+  {
+    "id": "ET072004",
+    "zoneId": "ET0720",
+    "name": {
+      "en": "Mierab Azenet Berbere"
+    },
+    "latLong": [
+      7.76457202,
+      37.92895023
+    ]
+  },
+  {
+    "id": "ET072005",
+    "zoneId": "ET0720",
+    "name": {
+      "en": "Dalocha"
+    },
+    "latLong": [
+      7.75670356,
+      38.27131727
+    ]
+  },
+  {
+    "id": "ET072006",
+    "zoneId": "ET0720",
+    "name": {
+      "en": "Sankura"
+    },
+    "latLong": [
+      7.53097757,
+      38.16810491
+    ]
+  },
+  {
+    "id": "ET072007",
+    "zoneId": "ET0720",
+    "name": {
+      "en": "Misrak Azenet Berbere"
+    },
+    "latLong": [
+      7.80149565,
+      38.01103827
+    ]
+  },
+  {
+    "id": "ET072008",
+    "zoneId": "ET0720",
+    "name": {
+      "en": "Wulbareg"
+    },
+    "latLong": [
+      7.74289048,
+      38.12337091
+    ]
+  },
+  {
+    "id": "ET072009",
+    "zoneId": "ET0720",
+    "name": {
+      "en": "Tora town"
+    },
+    "latLong": [
+      7.88688463,
+      38.41619898
+    ]
+  },
+  {
+    "id": "ET072010",
+    "zoneId": "ET0720",
+    "name": {
+      "en": "Worabe town"
+    },
+    "latLong": [
+      7.86568873,
+      38.18363443
+    ]
+  },
+  {
+    "id": "ET072011",
+    "zoneId": "ET0720",
+    "name": {
+      "en": "Kibet town"
+    },
+    "latLong": [
+      8.01691314,
+      38.33586641
+    ]
+  },
+  {
+    "id": "ET072012",
+    "zoneId": "ET0720",
+    "name": {
+      "en": "Mito"
+    },
+    "latLong": [
+      7.68660326,
+      38.40154983
+    ]
+  },
+  {
+    "id": "ET072013",
+    "zoneId": "ET0720",
+    "name": {
+      "en": "Misrak Siltie"
+    },
+    "latLong": [
+      7.93541511,
+      38.40973096
+    ]
+  },
+  {
+    "id": "ET072102",
+    "zoneId": "ET0721",
+    "name": {
+      "en": "Amaro"
+    },
+    "latLong": [
+      5.81045953,
+      37.77723198
+    ]
+  },
+  {
+    "id": "ET072203",
+    "zoneId": "ET0722",
+    "name": {
+      "en": "Burji Special"
+    },
+    "latLong": [
+      5.47042942,
+      37.81003967
+    ]
+  },
+  {
+    "id": "ET072304",
+    "zoneId": "ET0723",
+    "name": {
+      "en": "Derashe Special"
+    },
+    "latLong": [
+      5.64775006,
+      37.40113255
+    ]
+  },
+  {
+    "id": "ET072401",
+    "zoneId": "ET0724",
+    "name": {
+      "en": "Yem SP Woreda"
+    },
+    "latLong": [
+      7.78888176,
+      37.48595454
+    ]
+  },
+  {
+    "id": "ET110101",
+    "zoneId": "ET1101",
+    "name": {
+      "en": "Anderacha"
+    },
+    "latLong": [
+      7.72488166,
+      35.43478727
+    ]
+  },
+  {
+    "id": "ET110102",
+    "zoneId": "ET1101",
+    "name": {
+      "en": "Masha"
+    },
+    "latLong": [
+      7.56376422,
+      35.340019
+    ]
+  },
+  {
+    "id": "ET110103",
+    "zoneId": "ET1101",
+    "name": {
+      "en": "Yeki"
+    },
+    "latLong": [
+      7.26432173,
+      35.43092521
+    ]
+  },
+  {
+    "id": "ET110104",
+    "zoneId": "ET1101",
+    "name": {
+      "en": "Tepi"
+    },
+    "latLong": [
+      7.19407513,
+      35.41903148
+    ]
+  },
+  {
+    "id": "ET110105",
+    "zoneId": "ET1101",
+    "name": {
+      "en": "Masha town"
+    },
+    "latLong": [
+      7.73518669,
+      35.47549866
+    ]
+  },
+  {
+    "id": "ET110201",
+    "zoneId": "ET1102",
+    "name": {
+      "en": "Saylem"
+    },
+    "latLong": [
+      7.87919505,
+      35.81705996
+    ]
+  },
+  {
+    "id": "ET110202",
+    "zoneId": "ET1102",
+    "name": {
+      "en": "Gesha"
+    },
+    "latLong": [
+      7.64338642,
+      35.71824189
+    ]
+  },
+  {
+    "id": "ET110203",
+    "zoneId": "ET1102",
+    "name": {
+      "en": "Gewata"
+    },
+    "latLong": [
+      7.56266576,
+      35.93655659
+    ]
+  },
+  {
+    "id": "ET110204",
+    "zoneId": "ET1102",
+    "name": {
+      "en": "Gimbo"
+    },
+    "latLong": [
+      7.35062787,
+      36.21989408
+    ]
+  },
+  {
+    "id": "ET110205",
+    "zoneId": "ET1102",
+    "name": {
+      "en": "Adiyio"
+    },
+    "latLong": [
+      7.26258577,
+      36.53295094
+    ]
+  },
+  {
+    "id": "ET110206",
+    "zoneId": "ET1102",
+    "name": {
+      "en": "Tullo"
+    },
+    "latLong": [
+      7.09620083,
+      36.4555646
+    ]
+  },
+  {
+    "id": "ET110207",
+    "zoneId": "ET1102",
+    "name": {
+      "en": "Cheta"
+    },
+    "latLong": [
+      6.90999102,
+      36.36309414
+    ]
+  },
+  {
+    "id": "ET110208",
+    "zoneId": "ET1102",
+    "name": {
+      "en": "Decha"
+    },
+    "latLong": [
+      7.12852645,
+      36.13236723
+    ]
+  },
+  {
+    "id": "ET110209",
+    "zoneId": "ET1102",
+    "name": {
+      "en": "Chena"
+    },
+    "latLong": [
+      7.13586735,
+      35.82351732
+    ]
+  },
+  {
+    "id": "ET110210",
+    "zoneId": "ET1102",
+    "name": {
+      "en": "Bita"
+    },
+    "latLong": [
+      7.38267141,
+      35.67788942
+    ]
+  },
+  {
+    "id": "ET110211",
+    "zoneId": "ET1102",
+    "name": {
+      "en": "Bonga town"
+    },
+    "latLong": [
+      7.2729362,
+      36.23739792
+    ]
+  },
+  {
+    "id": "ET110212",
+    "zoneId": "ET1102",
+    "name": {
+      "en": "Goba (SP)"
+    },
+    "latLong": [
+      6.62671482,
+      36.21563439
+    ]
+  },
+  {
+    "id": "ET110213",
+    "zoneId": "ET1102",
+    "name": {
+      "en": "Shisho Ande"
+    },
+    "latLong": [
+      7.33023364,
+      35.93507714
+    ]
+  },
+  {
+    "id": "ET110214",
+    "zoneId": "ET1102",
+    "name": {
+      "en": "Wacha"
+    },
+    "latLong": [
+      7.15397999,
+      35.81845114
+    ]
+  },
+  {
+    "id": "ET110301",
+    "zoneId": "ET1103",
+    "name": {
+      "en": "Sheko"
+    },
+    "latLong": [
+      7.08216853,
+      35.45400497
+    ]
+  },
+  {
+    "id": "ET110302",
+    "zoneId": "ET1103",
+    "name": {
+      "en": "Gurafereda"
+    },
+    "latLong": [
+      6.86113607,
+      35.19331231
+    ]
+  },
+  {
+    "id": "ET110303",
+    "zoneId": "ET1103",
+    "name": {
+      "en": "Debub Bench"
+    },
+    "latLong": [
+      6.86674622,
+      35.55145748
+    ]
+  },
+  {
+    "id": "ET110304",
+    "zoneId": "ET1103",
+    "name": {
+      "en": "Shay Bench"
+    },
+    "latLong": [
+      6.91068789,
+      35.73992482
+    ]
+  },
+  {
+    "id": "ET110305",
+    "zoneId": "ET1103",
+    "name": {
+      "en": "Semen Bench"
+    },
+    "latLong": [
+      7.01853066,
+      35.63287834
+    ]
+  },
+  {
+    "id": "ET110306",
+    "zoneId": "ET1103",
+    "name": {
+      "en": "Gidi Bench"
+    },
+    "latLong": [
+      7.15358156,
+      35.65380321
+    ]
+  },
+  {
+    "id": "ET110307",
+    "zoneId": "ET1103",
+    "name": {
+      "en": "Mizan Aman town"
+    },
+    "latLong": [
+      6.97520454,
+      35.5705097
+    ]
+  },
+  {
+    "id": "ET110308",
+    "zoneId": "ET1103",
+    "name": {
+      "en": "Size town"
+    },
+    "latLong": [
+      6.95628755,
+      35.77233458
+    ]
+  },
+  {
+    "id": "ET110401",
+    "zoneId": "ET1104",
+    "name": {
+      "en": "Tocha"
+    },
+    "latLong": [
+      7.11288378,
+      37.03770495
+    ]
+  },
+  {
+    "id": "ET110402",
+    "zoneId": "ET1104",
+    "name": {
+      "en": "Mareka"
+    },
+    "latLong": [
+      7.040475,
+      37.18507582
+    ]
+  },
+  {
+    "id": "ET110403",
+    "zoneId": "ET1104",
+    "name": {
+      "en": "Loma"
+    },
+    "latLong": [
+      6.95372222,
+      37.30162605
+    ]
+  },
+  {
+    "id": "ET110404",
+    "zoneId": "ET1104",
+    "name": {
+      "en": "Gena"
+    },
+    "latLong": [
+      7.23536149,
+      37.26163369
+    ]
+  },
+  {
+    "id": "ET110405",
+    "zoneId": "ET1104",
+    "name": {
+      "en": "Isara"
+    },
+    "latLong": [
+      6.85008172,
+      36.91129405
+    ]
+  },
+  {
+    "id": "ET110406",
+    "zoneId": "ET1104",
+    "name": {
+      "en": "Kachi"
+    },
+    "latLong": [
+      7.05465796,
+      36.93027629
+    ]
+  },
+  {
+    "id": "ET110407",
+    "zoneId": "ET1104",
+    "name": {
+      "en": "Tercha Zuriya"
+    },
+    "latLong": [
+      7.13914748,
+      37.14526936
+    ]
+  },
+  {
+    "id": "ET110408",
+    "zoneId": "ET1104",
+    "name": {
+      "en": "Mari Mansa"
+    },
+    "latLong": [
+      6.99614963,
+      37.08642213
+    ]
+  },
+  {
+    "id": "ET110409",
+    "zoneId": "ET1104",
+    "name": {
+      "en": "Disa"
+    },
+    "latLong": [
+      6.74922185,
+      37.10057583
+    ]
+  },
+  {
+    "id": "ET110410",
+    "zoneId": "ET1104",
+    "name": {
+      "en": "Zabagazo"
+    },
+    "latLong": [
+      7.10133771,
+      37.36089483
+    ]
+  },
+  {
+    "id": "ET110411",
+    "zoneId": "ET1104",
+    "name": {
+      "en": "Tercha town"
+    },
+    "latLong": [
+      7.15067769,
+      37.17028645
+    ]
+  },
+  {
+    "id": "ET110412",
+    "zoneId": "ET1104",
+    "name": {
+      "en": "Gesa town"
+    },
+    "latLong": [
+      7.01288021,
+      37.274594
+    ]
+  },
+  {
+    "id": "ET110501",
+    "zoneId": "ET1105",
+    "name": {
+      "en": "Gachit"
+    },
+    "latLong": [
+      6.73237116,
+      35.69028583
+    ]
+  },
+  {
+    "id": "ET110502",
+    "zoneId": "ET1105",
+    "name": {
+      "en": "Menit Goldiye"
+    },
+    "latLong": [
+      6.84097153,
+      35.96496195
+    ]
+  },
+  {
+    "id": "ET110503",
+    "zoneId": "ET1105",
+    "name": {
+      "en": "Gori Gesha"
+    },
+    "latLong": [
+      6.52885901,
+      35.4215785
+    ]
+  },
+  {
+    "id": "ET110504",
+    "zoneId": "ET1105",
+    "name": {
+      "en": "Menit Shasha"
+    },
+    "latLong": [
+      6.40330771,
+      35.88307486
+    ]
+  },
+  {
+    "id": "ET110505",
+    "zoneId": "ET1105",
+    "name": {
+      "en": "Bero"
+    },
+    "latLong": [
+      6.33759967,
+      35.19464489
+    ]
+  },
+  {
+    "id": "ET110506",
+    "zoneId": "ET1105",
+    "name": {
+      "en": "Surma"
+    },
+    "latLong": [
+      5.86656891,
+      35.22128576
+    ]
+  },
+  {
+    "id": "ET110507",
+    "zoneId": "ET1105",
+    "name": {
+      "en": "Maji"
+    },
+    "latLong": [
+      5.89548997,
+      35.71946046
+    ]
+  },
+  {
+    "id": "ET110601",
+    "zoneId": "ET1106",
+    "name": {
+      "en": "Konta"
+    },
+    "latLong": [
+      6.89385294,
+      36.61594844
+    ]
+  },
+  {
+    "id": "ET120101",
+    "zoneId": "ET1201",
+    "name": {
+      "en": "Akobo"
+    },
+    "latLong": [
+      7.98914134,
+      33.26275829
+    ]
+  },
+  {
+    "id": "ET120102",
+    "zoneId": "ET1201",
+    "name": {
+      "en": "Lare"
+    },
+    "latLong": [
+      8.33879923,
+      33.92815863
+    ]
+  },
+  {
+    "id": "ET120103",
+    "zoneId": "ET1201",
+    "name": {
+      "en": "Jikawo"
+    },
+    "latLong": [
+      8.33465504,
+      33.58026411
+    ]
+  },
+  {
+    "id": "ET120104",
+    "zoneId": "ET1201",
+    "name": {
+      "en": "Wantawo"
+    },
+    "latLong": [
+      8.30101793,
+      33.32702738
+    ]
+  },
+  {
+    "id": "ET120105",
+    "zoneId": "ET1201",
+    "name": {
+      "en": "Makuey"
+    },
+    "latLong": [
+      8.23841871,
+      33.74014685
+    ]
+  },
+  {
+    "id": "ET120200",
+    "zoneId": "ET1202",
+    "name": {
+      "en": "Gambela National Park"
+    },
+    "latLong": [
+      8.14490583,
+      33.97753995
+    ]
+  },
+  {
+    "id": "ET120201",
+    "zoneId": "ET1202",
+    "name": {
+      "en": "Abobo"
+    },
+    "latLong": [
+      7.82148421,
+      34.55788211
+    ]
+  },
+  {
+    "id": "ET120202",
+    "zoneId": "ET1202",
+    "name": {
+      "en": "Gambela Zuria"
+    },
+    "latLong": [
+      8.1215884,
+      34.77558345
+    ]
+  },
+  {
+    "id": "ET120203",
+    "zoneId": "ET1202",
+    "name": {
+      "en": "Gog"
+    },
+    "latLong": [
+      7.62709293,
+      34.27123422
+    ]
+  },
+  {
+    "id": "ET120204",
+    "zoneId": "ET1202",
+    "name": {
+      "en": "Jore"
+    },
+    "latLong": [
+      7.88693678,
+      33.76574313
+    ]
+  },
+  {
+    "id": "ET120205",
+    "zoneId": "ET1202",
+    "name": {
+      "en": "Dima (GM)"
+    },
+    "latLong": [
+      6.91475063,
+      34.72630942
+    ]
+  },
+  {
+    "id": "ET120206",
+    "zoneId": "ET1202",
+    "name": {
+      "en": "Gambela town"
+    },
+    "latLong": [
+      8.2460525,
+      34.59102865
+    ]
+  },
+  {
+    "id": "ET120301",
+    "zoneId": "ET1203",
+    "name": {
+      "en": "Godere"
+    },
+    "latLong": [
+      7.28947841,
+      35.34149541
+    ]
+  },
+  {
+    "id": "ET120308",
+    "zoneId": "ET1203",
+    "name": {
+      "en": "Mengesh"
+    },
+    "latLong": [
+      7.46670353,
+      35.04431266
+    ]
+  },
+  {
+    "id": "ET120407",
+    "zoneId": "ET1204",
+    "name": {
+      "en": "Itang"
+    },
+    "latLong": [
+      8.36838924,
+      34.2064463
+    ]
+  },
+  {
+    "id": "ET130101",
+    "zoneId": "ET1301",
+    "name": {
+      "en": "Sofi"
+    },
+    "latLong": [
+      9.24216992,
+      42.18664286
+    ]
+  },
+  {
+    "id": "ET130102",
+    "zoneId": "ET1301",
+    "name": {
+      "en": "Shenkor"
+    },
+    "latLong": [
+      9.34324949,
+      42.14752631
+    ]
+  },
+  {
+    "id": "ET130103",
+    "zoneId": "ET1301",
+    "name": {
+      "en": "Jinela"
+    },
+    "latLong": [
+      9.30271215,
+      42.08964421
+    ]
+  },
+  {
+    "id": "ET130104",
+    "zoneId": "ET1301",
+    "name": {
+      "en": "Hakim"
+    },
+    "latLong": [
+      9.25770943,
+      42.08846771
+    ]
+  },
+  {
+    "id": "ET130105",
+    "zoneId": "ET1301",
+    "name": {
+      "en": "Erer (HR)"
+    },
+    "latLong": [
+      9.31999472,
+      42.23037446
+    ]
+  },
+  {
+    "id": "ET130106",
+    "zoneId": "ET1301",
+    "name": {
+      "en": "Dire Teyara"
+    },
+    "latLong": [
+      9.36589526,
+      42.11749616
+    ]
+  },
+  {
+    "id": "ET130107",
+    "zoneId": "ET1301",
+    "name": {
+      "en": "Amir Nur"
+    },
+    "latLong": [
+      9.31011627,
+      42.17630267
+    ]
+  },
+  {
+    "id": "ET130108",
+    "zoneId": "ET1301",
+    "name": {
+      "en": "Aboker"
+    },
+    "latLong": [
+      9.33944046,
+      42.11026264
+    ]
+  },
+  {
+    "id": "ET130109",
+    "zoneId": "ET1301",
+    "name": {
+      "en": "Abadir"
+    },
+    "latLong": [
+      9.31189571,
+      42.12910432
+    ]
+  },
+  {
+    "id": "ET140101",
+    "zoneId": "ET1401",
+    "name": {
+      "en": "Akaki Kality"
+    },
+    "latLong": [
+      8.89634718,
+      38.81067903
+    ]
+  },
+  {
+    "id": "ET140102",
+    "zoneId": "ET1401",
+    "name": {
+      "en": "Nifas Silk Lafto"
+    },
+    "latLong": [
+      8.9433685,
+      38.71983736
+    ]
+  },
+  {
+    "id": "ET140103",
+    "zoneId": "ET1401",
+    "name": {
+      "en": "Kolfe Keraniyo"
+    },
+    "latLong": [
+      8.99238223,
+      38.68738508
+    ]
+  },
+  {
+    "id": "ET140104",
+    "zoneId": "ET1401",
+    "name": {
+      "en": "Bole"
+    },
+    "latLong": [
+      8.9771662,
+      38.81003487
+    ]
+  },
+  {
+    "id": "ET140105",
+    "zoneId": "ET1401",
+    "name": {
+      "en": "Lideta"
+    },
+    "latLong": [
+      9.00095617,
+      38.72901527
+    ]
+  },
+  {
+    "id": "ET140106",
+    "zoneId": "ET1401",
+    "name": {
+      "en": "Kirkos"
+    },
+    "latLong": [
+      8.99964607,
+      38.75834419
+    ]
+  },
+  {
+    "id": "ET140107",
+    "zoneId": "ET1401",
+    "name": {
+      "en": "Yeka"
+    },
+    "latLong": [
+      9.04864235,
+      38.81644482
+    ]
+  },
+  {
+    "id": "ET140108",
+    "zoneId": "ET1401",
+    "name": {
+      "en": "Addis Ketema"
+    },
+    "latLong": [
+      9.04471497,
+      38.70666747
+    ]
+  },
+  {
+    "id": "ET140109",
+    "zoneId": "ET1401",
+    "name": {
+      "en": "Arada"
+    },
+    "latLong": [
+      9.03610851,
+      38.75568048
+    ]
+  },
+  {
+    "id": "ET140110",
+    "zoneId": "ET1401",
+    "name": {
+      "en": "Gulele"
+    },
+    "latLong": [
+      9.07030024,
+      38.72761724
+    ]
+  },
+  {
+    "id": "ET140111",
+    "zoneId": "ET1401",
+    "name": {
+      "en": "Lemi Kura"
+    },
+    "latLong": [
+      9.00958332,
+      38.8663469
+    ]
+  },
+  {
+    "id": "ET150103",
+    "zoneId": "ET1501",
+    "name": {
+      "en": "Sabian"
+    },
+    "latLong": [
+      9.62842454,
+      41.83436833
+    ]
+  },
+  {
+    "id": "ET150104",
+    "zoneId": "ET1501",
+    "name": {
+      "en": "Malka Jabti /M.Jebdu)"
+    },
+    "latLong": [
+      9.62597217,
+      41.79662336
+    ]
+  },
+  {
+    "id": "ET150105",
+    "zoneId": "ET1501",
+    "name": {
+      "en": "Legehare"
+    },
+    "latLong": [
+      9.60500971,
+      41.87972429
+    ]
+  },
+  {
+    "id": "ET150109",
+    "zoneId": "ET1501",
+    "name": {
+      "en": "Addis Ketema (DD)"
+    },
+    "latLong": [
+      9.5886796,
+      41.86052124
+    ]
+  },
+  {
+    "id": "ET150110",
+    "zoneId": "ET1501",
+    "name": {
+      "en": "Gende Kore"
+    },
+    "latLong": [
+      9.60016497,
+      41.85540045
+    ]
+  },
+  {
+    "id": "ET150111",
+    "zoneId": "ET1501",
+    "name": {
+      "en": "Dechatu"
+    },
+    "latLong": [
+      9.6009534,
+      41.87587175
+    ]
+  },
+  {
+    "id": "ET150112",
+    "zoneId": "ET1501",
+    "name": {
+      "en": "Hafat Issa"
+    },
+    "latLong": [
+      9.60541831,
+      41.86967642
+    ]
+  },
+  {
+    "id": "ET150113",
+    "zoneId": "ET1501",
+    "name": {
+      "en": "Kazira"
+    },
+    "latLong": [
+      9.63781906,
+      41.85433083
+    ]
+  },
+  {
+    "id": "ET150114",
+    "zoneId": "ET1501",
+    "name": {
+      "en": "Police Maret"
+    },
+    "latLong": [
+      9.65229347,
+      41.86355619
+    ]
+  },
+  {
+    "id": "ET150201",
+    "zoneId": "ET1502",
+    "name": {
+      "en": "Aseliso"
+    },
+    "latLong": [
+      9.57619245,
+      41.80027481
+    ]
+  },
+  {
+    "id": "ET150206",
+    "zoneId": "ET1502",
+    "name": {
+      "en": "Jeldessa"
+    },
+    "latLong": [
+      9.68363656,
+      42.19513253
+    ]
+  },
+  {
+    "id": "ET150207",
+    "zoneId": "ET1502",
+    "name": {
+      "en": "Wahil"
+    },
+    "latLong": [
+      9.53085293,
+      41.86530643
+    ]
+  },
+  {
+    "id": "ET150208",
+    "zoneId": "ET1502",
+    "name": {
+      "en": "Biyoawale"
+    },
+    "latLong": [
+      9.57895607,
+      41.99998434
+    ]
+  },
+  {
+    "id": "ET160001",
+    "zoneId": "ET1600",
+    "name": {
+      "en": "Shebe Dino"
+    },
+    "latLong": [
+      6.87055345,
+      38.39206983
+    ]
+  },
+  {
+    "id": "ET160002",
+    "zoneId": "ET1600",
+    "name": {
+      "en": "Hawassa Zuria"
+    },
+    "latLong": [
+      7.05067626,
+      38.3261819
+    ]
+  },
+  {
+    "id": "ET160003",
+    "zoneId": "ET1600",
+    "name": {
+      "en": "Arbegona"
+    },
+    "latLong": [
+      6.67104075,
+      38.75014609
+    ]
+  },
+  {
+    "id": "ET160004",
+    "zoneId": "ET1600",
+    "name": {
+      "en": "Dale"
+    },
+    "latLong": [
+      6.74999723,
+      38.36184994
+    ]
+  },
+  {
+    "id": "ET160005",
+    "zoneId": "ET1600",
+    "name": {
+      "en": "Aleta Wendo"
+    },
+    "latLong": [
+      6.60248136,
+      38.45403674
+    ]
+  },
+  {
+    "id": "ET160006",
+    "zoneId": "ET1600",
+    "name": {
+      "en": "Dara"
+    },
+    "latLong": [
+      6.42554305,
+      38.37361885
+    ]
+  },
+  {
+    "id": "ET160007",
+    "zoneId": "ET1600",
+    "name": {
+      "en": "Hulla"
+    },
+    "latLong": [
+      6.48528461,
+      38.57145107
+    ]
+  },
+  {
+    "id": "ET160008",
+    "zoneId": "ET1600",
+    "name": {
+      "en": "Bensa"
+    },
+    "latLong": [
+      6.53056067,
+      38.88656837
+    ]
+  },
+  {
+    "id": "ET160009",
+    "zoneId": "ET1600",
+    "name": {
+      "en": "Aroresa"
+    },
+    "latLong": [
+      6.34790643,
+      39.01849383
+    ]
+  },
+  {
+    "id": "ET160010",
+    "zoneId": "ET1600",
+    "name": {
+      "en": "Boricha"
+    },
+    "latLong": [
+      6.91907471,
+      38.33576864
+    ]
+  },
+  {
+    "id": "ET160011",
+    "zoneId": "ET1600",
+    "name": {
+      "en": "Gorche"
+    },
+    "latLong": [
+      6.81538435,
+      38.60005177
+    ]
+  },
+  {
+    "id": "ET160012",
+    "zoneId": "ET1600",
+    "name": {
+      "en": "Malga"
+    },
+    "latLong": [
+      6.92495213,
+      38.6239521
+    ]
+  },
+  {
+    "id": "ET160013",
+    "zoneId": "ET1600",
+    "name": {
+      "en": "Wonosho"
+    },
+    "latLong": [
+      6.74111891,
+      38.51968617
+    ]
+  },
+  {
+    "id": "ET160014",
+    "zoneId": "ET1600",
+    "name": {
+      "en": "Chire"
+    },
+    "latLong": [
+      6.49484275,
+      39.06028821
+    ]
+  },
+  {
+    "id": "ET160015",
+    "zoneId": "ET1600",
+    "name": {
+      "en": "Bursa"
+    },
+    "latLong": [
+      6.62417849,
+      38.58054271
+    ]
+  },
+  {
+    "id": "ET160016",
+    "zoneId": "ET1600",
+    "name": {
+      "en": "Aleta Chuko"
+    },
+    "latLong": [
+      6.56641253,
+      38.30103491
+    ]
+  },
+  {
+    "id": "ET160017",
+    "zoneId": "ET1600",
+    "name": {
+      "en": "Bona Zuria"
+    },
+    "latLong": [
+      6.50928178,
+      38.69639226
+    ]
+  },
+  {
+    "id": "ET160018",
+    "zoneId": "ET1600",
+    "name": {
+      "en": "Hawasa town"
+    },
+    "latLong": [
+      7.01037632,
+      38.50262422
+    ]
+  },
+  {
+    "id": "ET160019",
+    "zoneId": "ET1600",
+    "name": {
+      "en": "Wondo-Genet"
+    },
+    "latLong": [
+      7.03669978,
+      38.6131276
+    ]
+  },
+  {
+    "id": "ET160020",
+    "zoneId": "ET1600",
+    "name": {
+      "en": "Yirgalem town"
+    },
+    "latLong": [
+      6.74293272,
+      38.39115747
+    ]
+  },
+  {
+    "id": "ET160021",
+    "zoneId": "ET1600",
+    "name": {
+      "en": "Aleta Wondo town"
+    },
+    "latLong": [
+      6.60762125,
+      38.41930384
+    ]
+  },
+  {
+    "id": "ET160022",
+    "zoneId": "ET1600",
+    "name": {
+      "en": "Leku town"
+    },
+    "latLong": [
+      6.87304748,
+      38.44396394
+    ]
+  },
+  {
+    "id": "ET160023",
+    "zoneId": "ET1600",
+    "name": {
+      "en": "Hawela"
+    },
+    "latLong": [
+      6.92677073,
+      38.45983544
+    ]
+  },
+  {
+    "id": "ET160024",
+    "zoneId": "ET1600",
+    "name": {
+      "en": "Bura"
+    },
+    "latLong": [
+      6.62448832,
+      38.85096874
+    ]
+  },
+  {
+    "id": "ET160025",
+    "zoneId": "ET1600",
+    "name": {
+      "en": "Dara Otilicho"
+    },
+    "latLong": [
+      6.48571606,
+      38.44662297
+    ]
+  },
+  {
+    "id": "ET160026",
+    "zoneId": "ET1600",
+    "name": {
+      "en": "Teticha"
+    },
+    "latLong": [
+      6.5844113,
+      38.51360567
+    ]
+  },
+  {
+    "id": "ET160027",
+    "zoneId": "ET1600",
+    "name": {
+      "en": "Chirone"
+    },
+    "latLong": [
+      6.45534865,
+      38.64740096
+    ]
+  },
+  {
+    "id": "ET160028",
+    "zoneId": "ET1600",
+    "name": {
+      "en": "Shafamo"
+    },
+    "latLong": [
+      6.68255803,
+      38.62781979
+    ]
+  },
+  {
+    "id": "ET160029",
+    "zoneId": "ET1600",
+    "name": {
+      "en": "Chabe Gambeltu"
+    },
+    "latLong": [
+      6.42857133,
+      38.86189568
+    ]
+  },
+  {
+    "id": "ET160030",
+    "zoneId": "ET1600",
+    "name": {
+      "en": "Daye town"
+    },
+    "latLong": [
+      6.52112224,
+      38.82787526
+    ]
+  },
+  {
+    "id": "ET160031",
+    "zoneId": "ET1600",
+    "name": {
+      "en": "Hokko"
+    },
+    "latLong": [
+      6.26233227,
+      38.94617504
+    ]
+  },
+  {
+    "id": "ET160032",
+    "zoneId": "ET1600",
+    "name": {
+      "en": "Bilate Zuria"
+    },
+    "latLong": [
+      6.9391053,
+      38.21975824
+    ]
+  },
+  {
+    "id": "ET160033",
+    "zoneId": "ET1600",
+    "name": {
+      "en": "Darara"
+    },
+    "latLong": [
+      6.83122033,
+      38.22389336
+    ]
+  },
+  {
+    "id": "ET160034",
+    "zoneId": "ET1600",
+    "name": {
+      "en": "Daella"
+    },
+    "latLong": [
+      6.51755017,
+      38.98894307
+    ]
+  },
+  {
+    "id": "ET160035",
+    "zoneId": "ET1600",
+    "name": {
+      "en": "Chuko town"
+    },
+    "latLong": [
+      6.58887791,
+      38.3384882
+    ]
+  },
+  {
+    "id": "ET160036",
+    "zoneId": "ET1600",
+    "name": {
+      "en": "Wondo-Genet town"
+    },
+    "latLong": [
+      7.04717311,
+      38.61313683
+    ]
+  },
+  {
+    "id": "ET160037",
+    "zoneId": "ET1600",
+    "name": {
+      "en": "Loka Abaya"
+    },
+    "latLong": [
+      6.62544685,
+      38.13867271
+    ]
+  }
+]
