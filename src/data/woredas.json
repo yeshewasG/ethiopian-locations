@@ -8222,11 +8222,16 @@
     "name": { "en": "Woreda 9" },
     "latLong": [8.90237452, 38.81522304]
   },
-
   {
-    "id": "ET140113",
+    "id": "ET140110",
     "zoneId": "ET1401",
-    "name": { "en": "Woreda 13" },
+    "name": { "en": "Woreda 10" },
+    "latLong": [8.90521277, 38.81778264]
+  },
+  {
+    "id": "ET140111",
+    "zoneId": "ET1401",
+    "name": { "en": "Woreda 11" },
     "latLong": [8.90521277, 38.81778264]
   },
   {
@@ -8301,18 +8306,7 @@
     "name": { "en": "Woreda 12" },
     "latLong": [8.92030478, 38.82997902]
   },
-  {
-    "id": "ET140213",
-    "zoneId": "ET1402",
-    "name": { "en": "Woreda 13" },
-    "latLong": [8.92100142, 38.83064378]
-  },
-  {
-    "id": "ET140214",
-    "zoneId": "ET1402",
-    "name": { "en": "Woreda 14" },
-    "latLong": [8.92169031, 38.83132029]
-  },
+
   {
     "id": "ET140301",
     "zoneId": "ET1403",
@@ -8395,6 +8389,12 @@
     "id": "ET140314",
     "zoneId": "ET1403",
     "name": { "en": "Woreda 14" },
+    "latLong": [8.93469138, 38.84410227]
+  },
+  {
+    "id": "ET140315",
+    "zoneId": "ET1403",
+    "name": { "en": "Woreda 15" },
     "latLong": [8.93469138, 38.84410227]
   },
   {
@@ -8541,30 +8541,7 @@
     "name": { "en": "Woreda 10" },
     "latLong": [8.961848, 38.865122]
   },
-  {
-    "id": "ET140511",
-    "zoneId": "ET1405",
-    "name": { "en": "Woreda 11" },
-    "latLong": [8.962566, 38.865676]
-  },
-  {
-    "id": "ET140512",
-    "zoneId": "ET1405",
-    "name": { "en": "Woreda 12" },
-    "latLong": [8.963277, 38.866231]
-  },
-  {
-    "id": "ET140513",
-    "zoneId": "ET1405",
-    "name": { "en": "Woreda 13" },
-    "latLong": [8.963981, 38.866787]
-  },
-  {
-    "id": "ET140514",
-    "zoneId": "ET1405",
-    "name": { "en": "Woreda 14" },
-    "latLong": [8.964678, 38.867344]
-  },
+
   {
     "id": "ET140601",
     "zoneId": "ET1406",
@@ -8630,24 +8607,6 @@
     "zoneId": "ET1406",
     "name": { "en": "Woreda 11" },
     "latLong": [8.9771, 38.8757]
-  },
-  {
-    "id": "ET140612",
-    "zoneId": "ET1406",
-    "name": { "en": "Woreda 12" },
-    "latLong": [8.9778, 38.8762]
-  },
-  {
-    "id": "ET140613",
-    "zoneId": "ET1406",
-    "name": { "en": "Woreda 13" },
-    "latLong": [8.9785, 38.8768]
-  },
-  {
-    "id": "ET140614",
-    "zoneId": "ET1406",
-    "name": { "en": "Woreda 14" },
-    "latLong": [8.9792, 38.8773]
   },
 
   {
@@ -8728,12 +8687,6 @@
     "name": { "en": "Woreda 13" },
     "latLong": [8.9935, 38.8868]
   },
-  {
-    "id": "ET140714",
-    "zoneId": "ET1407",
-    "name": { "en": "Woreda 14" },
-    "latLong": [8.9942, 38.8873]
-  },
 
   {
     "id": "ET140801",
@@ -8794,30 +8747,6 @@
     "zoneId": "ET1408",
     "name": { "en": "Woreda 10" },
     "latLong": [9.0064, 38.8951]
-  },
-  {
-    "id": "ET140811",
-    "zoneId": "ET1408",
-    "name": { "en": "Woreda 11" },
-    "latLong": [9.0071, 38.8957]
-  },
-  {
-    "id": "ET140812",
-    "zoneId": "ET1408",
-    "name": { "en": "Woreda 12" },
-    "latLong": [9.0078, 38.8962]
-  },
-  {
-    "id": "ET140813",
-    "zoneId": "ET1408",
-    "name": { "en": "Woreda 13" },
-    "latLong": [9.0085, 38.8968]
-  },
-  {
-    "id": "ET140814",
-    "zoneId": "ET1408",
-    "name": { "en": "Woreda 14" },
-    "latLong": [9.0092, 38.8973]
   },
 
   {
@@ -8880,30 +8809,6 @@
     "name": { "en": "Woreda 10" },
     "latLong": [9.0214, 38.9051]
   },
-  {
-    "id": "ET140911",
-    "zoneId": "ET1409",
-    "name": { "en": "Woreda 11" },
-    "latLong": [9.0221, 38.9057]
-  },
-  {
-    "id": "ET140912",
-    "zoneId": "ET1409",
-    "name": { "en": "Woreda 12" },
-    "latLong": [9.0228, 38.9062]
-  },
-  {
-    "id": "ET140913",
-    "zoneId": "ET1409",
-    "name": { "en": "Woreda 13" },
-    "latLong": [9.0235, 38.9068]
-  },
-  {
-    "id": "ET140914",
-    "zoneId": "ET1409",
-    "name": { "en": "Woreda 14" },
-    "latLong": [9.0242, 38.9073]
-  },
 
   {
     "id": "ET141001",
@@ -8964,30 +8869,6 @@
     "zoneId": "ET1410",
     "name": { "en": "Woreda 10" },
     "latLong": [9.0364, 38.9151]
-  },
-  {
-    "id": "ET141011",
-    "zoneId": "ET1410",
-    "name": { "en": "Woreda 11" },
-    "latLong": [9.0371, 38.9157]
-  },
-  {
-    "id": "ET141012",
-    "zoneId": "ET1410",
-    "name": { "en": "Woreda 12" },
-    "latLong": [9.0378, 38.9162]
-  },
-  {
-    "id": "ET141013",
-    "zoneId": "ET1410",
-    "name": { "en": "Woreda 13" },
-    "latLong": [9.0385, 38.9168]
-  },
-  {
-    "id": "ET141014",
-    "zoneId": "ET1410",
-    "name": { "en": "Woreda 14" },
-    "latLong": [9.0392, 38.9173]
   },
   {
     "id": "ET141101",
